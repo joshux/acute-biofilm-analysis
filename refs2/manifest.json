@@ -1,0 +1,98 @@
+[
+ {
+  "genus": "acinetobacter",
+  "acc": "GCF_026167805.1",
+  "org": "Acinetobacter baumannii ATCC 17978 (g-proteobacteria)",
+  "name": "ASM2616780v1",
+  "path": "refs2/GCF_026167805.1.fna.gz",
+  "size": 1200886
+ },
+ {
+  "genus": "acinetobacter",
+  "acc": "GCF_057224575.1",
+  "org": "Acinetobacter nosocomialis (g-proteobacteria)",
+  "name": "ASM5722457v1",
+  "path": "refs2/GCF_057224575.1.fna.gz",
+  "size": 1141067
+ },
+ {
+  "genus": "acinetobacter",
+  "acc": "GCF_055475515.1",
+  "org": "Acinetobacter pittii (g-proteobacteria)",
+  "name": "ASM5547551v1",
+  "path": "refs2/GCF_055475515.1.fna.gz",
+  "size": 1151676
+ },
+ {
+  "genus": "acinetobacter",
+  "acc": "GCF_988236795.1",
+  "org": "Acinetobacter johnsonii (g-proteobacteria)",
+  "name": "PF3HH25001",
+  "path": "refs2/GCF_988236795.1.fna.gz",
+  "size": 1222056
+ },
+ {
+  "genus": "acinetobacter",
+  "acc": "GCF_050703235.1",
+  "org": "Acinetobacter lwoffii (g-proteobacteria)",
+  "name": "Alw6_v1",
+  "path": "refs2/GCF_050703235.1.fna.gz",
+  "size": 1097088
+ },
+ {
+  "genus": "acinetobacter",
+  "acc": "GCF_000241685.1",
+  "org": "Acinetobacter baumannii AB5075 (g-proteobacteria)",
+  "name": "ASM24168v2",
+  "path": "refs2/GCF_000241685.1.fna.gz",
+  "size": 1205410
+ },
+ {
+  "genus": "pseudomonas",
+  "acc": "GCF_047118485.1",
+  "org": "Pseudomonas aeruginosa PA14 (g-proteobacteria)",
+  "name": "PA14 wild type",
+  "path": "refs2/GCF_047118485.1.fna.gz",
+  "size": 1868671
+ },
+ {
+  "genus": "pseudomonas",
+  "acc": "GCF_045571375.1",
+  "org": "Pseudomonas putida KT2440 (g-proteobacteria)",
+  "name": "LBNL_KT2440_1968",
+  "path": "refs2/GCF_045571375.1.fna.gz",
+  "size": 1804396
+ },
+ {
+  "genus": "stenotrophomonas",
+  "acc": "GCF_000072485.1",
+  "org": "Stenotrophomonas maltophilia K279a (g-proteobacteria)",
+  "name": "ASM7248v1",
+  "path": "refs2/GCF_000072485.1.fna.gz",
+  "size": 1380123
+ },
+ {
+  "genus": "klebsiella",
+  "acc": "GCA_021989295.1",
+  "org": "Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044 (enterobacteria)",
+  "name": "PDT000992445.1",
+  "path": "refs2/GCA_021989295.1.fna.gz",
+  "size": 1613398
+ },
+ {
+  "genus": "klebsiella",
+  "acc": "GCF_000240185.1",
+  "org": "Klebsiella pneumoniae subsp. pneumoniae HS11286 (enterobacteria)",
+  "name": "ASM24018v2",
+  "path": "refs2/GCF_000240185.1.fna.gz",
+  "size": 1679403
+ },
+ {
+  "genus": "klebsiella",
+  "acc": "GCF_988229555.1",
+  "org": "Klebsiella variicola (enterobacteria)",
+  "name": "AF117-73-BHI",
+  "path": "refs2/GCF_988229555.1.fna.gz",
+  "size": 1701570
+ }
+]

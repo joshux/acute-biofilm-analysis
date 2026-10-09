@@ -1,0 +1,29 @@
+{
+ "SRR27343983": {
+  "total": 3358333,
+  "mapped": 152289,
+  "mq20": 22857,
+  "by_genus": {
+   "?": 20250,
+   "Escherichia": 1105,
+   "Haemophilus": 1407,
+   "Streptococcus": 54,
+   "Staphylococcus": 15,
+   "Klebsiella": 3,
+   "Pseudomonas": 23
+  }
+ },
+ "SRR27343240": {
+  "total": 5734892,
+  "mapped": 207101,
+  "mq20": 46743,
+  "by_genus": {
+   "?": 43754,
+   "Escherichia": 1962,
+   "Staphylococcus": 48,
+   "Streptococcus": 611,
+   "Haemophilus": 336,
+   "Pseudomonas": 32
+  }
+ }
+}
