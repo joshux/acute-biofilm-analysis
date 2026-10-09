@@ -11,28 +11,35 @@ rates, not bacterial architecture"*), so the test is per-group quadrant placemen
 correlation. Groups: acute BALF (PRJNA1056765, Tang 2025), chronic CF sputum (PRJEB24688,
 Rossi 2018), healthy non-COPD BALF (PRJNA390194, Ren 2018).
 
-- **Growth axis (%RP):** chronic in vivo is slow relative to its own lab-exponential anchor
-  (median 9.3 % vs 20.4 %, p = 0.015) — the metric works. But **acute is just as slow**
-  (11.4 %, p = 0.35 vs chronic). The acute-vs-chronic metabolic contrast is **not observed**.
+- **Growth axis (%RP):** acute is significantly **faster** than chronic in vivo —
+  **10.7 % vs 4.6 %, p = 0.0015**. The metric is validated on the dataset's own lab anchors
+  (exponential 13.6 % FAST, stationary 2.1 % SLOW). Chronic in vivo sits at the stationary state;
+  acute sits between stationary and exponential, closer to exponential.
 - **Matrix axis:** matrix machinery is transcribed in **both** acute and chronic
-  (acute 93 %, chronic 100 % present) — Kolpen's architecture claim holds and the classical
-  acute-planktonic model is contradicted. The acute matrix-ON rate (33 %) is a **depth artefact**:
-  at matched depth it reaches 100 %.
+  (acute 92 %, chronic 100 % present) — Kolpen's architecture claim holds and the classical
+  acute-planktonic model is contradicted. Acute matrix-ON is a **lower bound** (the acute arm is
+  ~300× shallower; at matched depth it reaches 100 %).
 - **Healthy controls:** zero bacterial signal (kitome floor) — nothing to place.
 
-Net: on these two dimensions **acute and chronic look the same** — matrix-ON, growth at the
-fast/ambiguous boundary. The one deeply-sequenced acute sample (SRR27343249) *is* Kolpen-like
-(matrix-ON + FAST), but n = 1.
+Net: acute occupies **matrix-ON × FAST** and chronic **matrix-ON × SLOW** — Kolpen's prediction,
+on both axes.
 
-See **`RESULTS-QUADRANT.md`** for the full account. The earlier coupling/correlation test
+> **Correction (2026-10-10).** The first pass reported "acute just as slow as chronic." That was a
+> metric artifact: on a *multi-genome* panel, conserved ribosomal-protein reads map equally to
+> PAO1/PA14/putida, get MAPQ 0, and are dropped at MAPQ≥20 — deflating %RP and compressing all
+> groups. Measuring growth against a single reference genome (with other genera as decoys) fixes it.
+> See `RESULTS-QUADRANT-CORRECTED.md` → "What went wrong".
+
+See **`RESULTS-QUADRANT-CORRECTED.md`** for the full account. The coupling/correlation test
 (`RESULTS.md`) answered a question Kolpen never asked and is superseded.
 
 ## Documents
 
 | file | contents |
 |---|---|
-| `RESULTS-QUADRANT.md` | **current result** — two-dimension quadrant test, three groups |
-| `RESULTS.md` | superseded coupling/correlation test (kept: the depth-artefact caution still stands) |
+| `RESULTS-QUADRANT-CORRECTED.md` | **current result** — corrected growth metric, quadrant test, three groups |
+| `RESULTS-QUADRANT.md` | first pass — growth metric artifact; superseded (kept for the audit trail) |
+| `RESULTS.md` | superseded coupling/correlation test (the depth-artefact caution still stands) |
 | `RESULTS-firstpass-superseded.md` | earlier first-pass result; its headline ratio is superseded (see RESULTS.md "Correction") |
 | `RESULTS-PILOT.md` | pilot 1: dataset/depth verified; three assumptions broken (community, panel, NC arm) |
 | `RESULTS-PILOT2.md` | pilot 2: multi-strain panel rebuilt and validated (6.3x mapping gain); matrix-module gap for Acinetobacter |
