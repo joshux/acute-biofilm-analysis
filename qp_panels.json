@@ -1,0 +1,28 @@
+{
+ "pseu": {
+  "n": {
+   "matrix": 101,
+   "og": 241,
+   "rp": 150
+  },
+  "file": "qp_pseu.fna",
+  "median_len": {
+   "matrix": 1269,
+   "og": 885,
+   "rp": 369
+  }
+ },
+ "kleb": {
+  "n": {
+   "matrix": 57,
+   "og": 282,
+   "rp": 102
+  },
+  "file": "qp_kleb.fna",
+  "median_len": {
+   "matrix": 1329,
+   "og": 831,
+   "rp": 366
+  }
+ }
+}

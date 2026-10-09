@@ -1,0 +1,206 @@
+[
+ {
+  "taxon": "Salmonella enterica",
+  "acc": "GCF_000006945.2",
+  "org": "Salmonella enterica subsp. enterica serovar Typhimurium str. LT2",
+  "path": "/tmp/abf/decoy/GCF_000006945.2.fna.gz"
+ },
+ {
+  "taxon": "Delftia acidovorans",
+  "acc": "GCF_000018665.1",
+  "org": "Delftia acidovorans SPH-1",
+  "path": "/tmp/abf/decoy/GCF_000018665.1.fna.gz"
+ },
+ {
+  "taxon": "Sphingomonas paucimobilis",
+  "acc": "GCF_016027095.1",
+  "org": "Sphingomonas paucimobilis",
+  "path": "/tmp/abf/decoy/GCF_016027095.1.fna.gz"
+ },
+ {
+  "taxon": "Rhodococcus erythropolis",
+  "acc": "GCF_000696675.2",
+  "org": "Rhodococcus erythropolis R138",
+  "path": "/tmp/abf/decoy/GCF_000696675.2.fna.gz"
+ },
+ {
+  "taxon": "Xanthomonas campestris",
+  "acc": "GCF_013388375.1",
+  "org": "Xanthomonas campestris pv. raphani",
+  "path": "/tmp/abf/decoy/GCF_013388375.1.fna.gz"
+ },
+ {
+  "taxon": "Burkholderia cepacia",
+  "acc": "GCF_009586235.1",
+  "org": "Burkholderia cepacia",
+  "path": "/tmp/abf/decoy/GCF_009586235.1.fna.gz"
+ },
+ {
+  "taxon": "Campylobacter jejuni",
+  "acc": "GCF_000009085.1",
+  "org": "Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819",
+  "path": "/tmp/abf/decoy/GCF_000009085.1.fna.gz"
+ },
+ {
+  "taxon": "Enterobacter cloacae",
+  "acc": "GCF_905331265.2",
+  "org": "Enterobacter cloacae",
+  "path": "/tmp/abf/decoy/GCF_905331265.2.fna.gz"
+ },
+ {
+  "taxon": "Mycoplasma pneumoniae",
+  "acc": "GCF_900660465.1",
+  "org": "Mycoplasmoides pneumoniae",
+  "path": "/tmp/abf/decoy/GCF_900660465.1.fna.gz"
+ },
+ {
+  "taxon": "Ralstonia pickettii",
+  "acc": "GCF_014142625.1",
+  "org": "Ralstonia pickettii",
+  "path": "/tmp/abf/decoy/GCF_014142625.1.fna.gz"
+ },
+ {
+  "taxon": "Porphyromonas gingivalis",
+  "acc": "GCF_000010505.1",
+  "org": "Porphyromonas gingivalis ATCC 33277",
+  "path": "/tmp/abf/decoy/GCF_000010505.1.fna.gz"
+ },
+ {
+  "taxon": "Fusobacterium nucleatum",
+  "acc": "GCF_003019295.1",
+  "org": "Fusobacterium nucleatum subsp. nucleatum ATCC 25586",
+  "path": "/tmp/abf/decoy/GCF_003019295.1.fna.gz"
+ },
+ {
+  "taxon": "Treponema denticola",
+  "acc": "GCF_000008185.1",
+  "org": "Treponema denticola ATCC 35405",
+  "path": "/tmp/abf/decoy/GCF_000008185.1.fna.gz"
+ },
+ {
+  "taxon": "Neisseria meningitidis",
+  "acc": "GCF_022869645.1",
+  "org": "Neisseria meningitidis",
+  "path": "/tmp/abf/decoy/GCF_022869645.1.fna.gz"
+ },
+ {
+  "taxon": "Bacteroides fragilis",
+  "acc": "GCF_000025985.1",
+  "org": "Bacteroides fragilis NCTC 9343",
+  "path": "/tmp/abf/decoy/GCF_000025985.1.fna.gz"
+ },
+ {
+  "taxon": "Tannerella forsythia",
+  "acc": "GCF_000238215.1",
+  "org": "Tannerella forsythia 92A2",
+  "path": "/tmp/abf/decoy/GCF_000238215.1.fna.gz"
+ },
+ {
+  "taxon": "Streptococcus mutans",
+  "acc": "GCF_019048645.1",
+  "org": "Streptococcus mutans",
+  "path": "/tmp/abf/decoy/GCF_019048645.1.fna.gz"
+ },
+ {
+  "taxon": "Veillonella parvula",
+  "acc": "GCF_900186885.1",
+  "org": "Veillonella parvula",
+  "path": "/tmp/abf/decoy/GCF_900186885.1.fna.gz"
+ },
+ {
+  "taxon": "Cutibacterium acnes",
+  "acc": "GCF_006739385.1",
+  "org": "Cutibacterium acnes subsp. acnes",
+  "path": "/tmp/abf/decoy/GCF_006739385.1.fna.gz"
+ },
+ {
+  "taxon": "Alcaligenes faecalis",
+  "acc": "GCF_000967305.2",
+  "org": "Alcaligenes faecalis",
+  "path": "/tmp/abf/decoy/GCF_000967305.2.fna.gz"
+ },
+ {
+  "taxon": "Capnocytophaga ochracea",
+  "acc": "GCF_000023285.1",
+  "org": "Capnocytophaga ochracea DSM 7271",
+  "path": "/tmp/abf/decoy/GCF_000023285.1.fna.gz"
+ },
+ {
+  "taxon": "Comamonas testosteroni",
+  "acc": "GCF_016599875.1",
+  "org": "Comamonas testosteroni",
+  "path": "/tmp/abf/decoy/GCF_016599875.1.fna.gz"
+ },
+ {
+  "taxon": "Prevotella melaninogenica",
+  "acc": "GCF_000144405.1",
+  "org": "Prevotella melaninogenica ATCC 25845",
+  "path": "/tmp/abf/decoy/GCF_000144405.1.fna.gz"
+ },
+ {
+  "taxon": "Moraxella catarrhalis",
+  "acc": "GCF_900476075.1",
+  "org": "Moraxella catarrhalis",
+  "path": "/tmp/abf/decoy/GCF_900476075.1.fna.gz"
+ },
+ {
+  "taxon": "Brucella melitensis",
+  "acc": "GCF_000007125.1",
+  "org": "Brucella melitensis bv. 1 str. 16M",
+  "path": "/tmp/abf/decoy/GCF_000007125.1.fna.gz"
+ },
+ {
+  "taxon": "Yersinia pestis",
+  "acc": "GCF_000009065.1",
+  "org": "Yersinia pestis CO92",
+  "path": "/tmp/abf/decoy/GCF_000009065.1.fna.gz"
+ },
+ {
+  "taxon": "Enterococcus faecalis",
+  "acc": "GCF_000393015.1",
+  "org": "Enterococcus faecalis EnGen0336",
+  "path": "/tmp/abf/decoy/GCF_000393015.1.fna.gz"
+ },
+ {
+  "taxon": "Agrobacterium tumefaciens",
+  "acc": "GCF_013318015.2",
+  "org": "Agrobacterium tumefaciens",
+  "path": "/tmp/abf/decoy/GCF_013318015.2.fna.gz"
+ },
+ {
+  "taxon": "Rhizobium leguminosarum",
+  "acc": "GCF_004306555.1",
+  "org": "Rhizobium leguminosarum",
+  "path": "/tmp/abf/decoy/GCF_004306555.1.fna.gz"
+ },
+ {
+  "taxon": "Herbaspirillum seropedicae",
+  "acc": "GCF_001040945.1",
+  "org": "Herbaspirillum seropedicae",
+  "path": "/tmp/abf/decoy/GCF_001040945.1.fna.gz"
+ },
+ {
+  "taxon": "Streptococcus pneumoniae",
+  "acc": "GCF_001457635.1",
+  "org": "Streptococcus pneumoniae",
+  "path": "/tmp/abf/decoy/GCF_001457635.1.fna.gz"
+ },
+ {
+  "taxon": "Haemophilus influenzae",
+  "acc": "GCF_020736045.1",
+  "org": "Haemophilus influenzae",
+  "path": "/tmp/abf/decoy/GCF_020736045.1.fna.gz"
+ },
+ {
+  "taxon": "Escherichia coli",
+  "acc": "GCF_000005845.2",
+  "org": "Escherichia coli str. K-12 substr. MG1655",
+  "path": "/tmp/abf/decoy/GCF_000005845.2.fna.gz"
+ },
+ {
+  "taxon": "Acinetobacter baumannii",
+  "acc": "GCF_009035845.1",
+  "org": "Acinetobacter baumannii",
+  "path": "/tmp/abf/decoy/GCF_009035845.1.fna.gz"
+ }
+]

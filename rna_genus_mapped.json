@@ -1,0 +1,416 @@
+{
+ "SRR27343233": {
+  "total": 443,
+  "counts": {
+   "Pseudomonas": 137,
+   "Escherichia": 104,
+   "Stenotrophomonas": 41,
+   "Acinetobacter": 145,
+   "Haemophilus": 8,
+   "Klebsiella": 8
+  }
+ },
+ "SRR27343234": {
+  "total": 1512,
+  "counts": {
+   "Klebsiella": 970,
+   "Acinetobacter": 342,
+   "Escherichia": 47,
+   "Stenotrophomonas": 87,
+   "Pseudomonas": 47,
+   "Haemophilus": 19
+  }
+ },
+ "SRR27343240": {
+  "total": 46743,
+  "counts": {
+   "Acinetobacter": 33960,
+   "Stenotrophomonas": 8653,
+   "Escherichia": 1962,
+   "Staphylococcus": 48,
+   "Klebsiella": 168,
+   "Pseudomonas": 1005,
+   "Streptococcus": 611,
+   "Haemophilus": 336
+  }
+ },
+ "SRR27343246": {
+  "total": 113,
+  "counts": {
+   "Pseudomonas": 8,
+   "Klebsiella": 1,
+   "Acinetobacter": 63,
+   "Stenotrophomonas": 18,
+   "Escherichia": 19,
+   "Streptococcus": 4
+  }
+ },
+ "SRR27343247": {
+  "total": 118,
+  "counts": {
+   "Klebsiella": 98,
+   "Acinetobacter": 15,
+   "Escherichia": 3,
+   "Stenotrophomonas": 2
+  }
+ },
+ "SRR27343249": {
+  "total": 14186,
+  "counts": {
+   "Pseudomonas": 12604,
+   "Klebsiella": 1494,
+   "Escherichia": 27,
+   "Acinetobacter": 34,
+   "Stenotrophomonas": 27
+  }
+ },
+ "SRR27343398": {
+  "total": 2302,
+  "counts": {
+   "Pseudomonas": 1715,
+   "Escherichia": 22,
+   "Acinetobacter": 431,
+   "Stenotrophomonas": 133,
+   "Klebsiella": 1
+  }
+ },
+ "SRR27343399": {
+  "total": 476,
+  "counts": {
+   "Pseudomonas": 297,
+   "Acinetobacter": 136,
+   "Stenotrophomonas": 20,
+   "Escherichia": 16,
+   "Klebsiella": 4,
+   "Haemophilus": 2,
+   "Streptococcus": 1
+  }
+ },
+ "SRR27343400": {
+  "total": 229,
+  "counts": {
+   "Acinetobacter": 116,
+   "Pseudomonas": 72,
+   "Stenotrophomonas": 17,
+   "Escherichia": 14,
+   "Klebsiella": 8,
+   "Streptococcus": 2
+  }
+ },
+ "SRR27343402": {
+  "total": 1902,
+  "counts": {
+   "Pseudomonas": 1661,
+   "Acinetobacter": 180,
+   "Stenotrophomonas": 15,
+   "Escherichia": 13,
+   "Streptococcus": 21,
+   "Klebsiella": 9,
+   "Staphylococcus": 3
+  }
+ },
+ "SRR27343405": {
+  "total": 3165,
+  "counts": {
+   "Pseudomonas": 3083,
+   "Escherichia": 3,
+   "Haemophilus": 42,
+   "Acinetobacter": 31,
+   "Stenotrophomonas": 5,
+   "Streptococcus": 1
+  }
+ },
+ "SRR27343407": {
+  "total": 385,
+  "counts": {
+   "Pseudomonas": 43,
+   "Acinetobacter": 227,
+   "Streptococcus": 67,
+   "Escherichia": 31,
+   "Stenotrophomonas": 11,
+   "Klebsiella": 6
+  }
+ },
+ "SRR27343408": {
+  "total": 607,
+  "counts": {
+   "Pseudomonas": 578,
+   "Acinetobacter": 24,
+   "Haemophilus": 1,
+   "Escherichia": 2,
+   "Stenotrophomonas": 2
+  }
+ },
+ "SRR27343409": {
+  "total": 4359,
+  "counts": {
+   "Pseudomonas": 4233,
+   "Escherichia": 15,
+   "Acinetobacter": 89,
+   "Stenotrophomonas": 22
+  }
+ },
+ "SRR27343410": {
+  "total": 2947,
+  "counts": {
+   "Pseudomonas": 2623,
+   "Acinetobacter": 21,
+   "Haemophilus": 262,
+   "Escherichia": 16,
+   "Streptococcus": 16,
+   "Stenotrophomonas": 6,
+   "Klebsiella": 3
+  }
+ },
+ "SRR27343413": {
+  "total": 1907,
+  "counts": {
+   "Acinetobacter": 903,
+   "Pseudomonas": 738,
+   "Stenotrophomonas": 141,
+   "Escherichia": 115,
+   "Klebsiella": 10
+  }
+ },
+ "SRR27343414": {
+  "total": 391,
+  "counts": {
+   "Acinetobacter": 308,
+   "Escherichia": 33,
+   "Stenotrophomonas": 25,
+   "Klebsiella": 1,
+   "Pseudomonas": 19,
+   "Streptococcus": 1,
+   "Staphylococcus": 4
+  }
+ },
+ "SRR27343415": {
+  "total": 1424,
+  "counts": {
+   "Pseudomonas": 747,
+   "Acinetobacter": 469,
+   "Escherichia": 109,
+   "Haemophilus": 38,
+   "Stenotrophomonas": 55,
+   "Streptococcus": 5,
+   "Klebsiella": 1
+  }
+ },
+ "SRR27343418": {
+  "total": 314,
+  "counts": {
+   "Pseudomonas": 232,
+   "Acinetobacter": 60,
+   "Stenotrophomonas": 15,
+   "Staphylococcus": 2,
+   "Klebsiella": 1,
+   "Escherichia": 3,
+   "Streptococcus": 1
+  }
+ },
+ "SRR27343426": {
+  "total": 2519,
+  "counts": {
+   "Pseudomonas": 2347,
+   "Klebsiella": 84,
+   "Acinetobacter": 64,
+   "Stenotrophomonas": 8,
+   "Escherichia": 16
+  }
+ },
+ "SRR27343439": {
+  "total": 497,
+  "counts": {
+   "Pseudomonas": 262,
+   "Stenotrophomonas": 48,
+   "Acinetobacter": 184,
+   "Escherichia": 1,
+   "Klebsiella": 1,
+   "Staphylococcus": 1
+  }
+ },
+ "SRR27343451": {
+  "total": 452,
+  "counts": {
+   "Acinetobacter": 241,
+   "Pseudomonas": 134,
+   "Stenotrophomonas": 41,
+   "Klebsiella": 14,
+   "Escherichia": 22
+  }
+ },
+ "SRR27343453": {
+  "total": 434,
+  "counts": {
+   "Acinetobacter": 196,
+   "Stenotrophomonas": 88,
+   "Klebsiella": 7,
+   "Escherichia": 104,
+   "Pseudomonas": 39
+  }
+ },
+ "SRR27343455": {
+  "total": 469,
+  "counts": {
+   "Acinetobacter": 263,
+   "Pseudomonas": 120,
+   "Klebsiella": 17,
+   "Haemophilus": 12,
+   "Escherichia": 31,
+   "Stenotrophomonas": 26
+  }
+ },
+ "SRR27343456": {
+  "total": 48,
+  "counts": {
+   "Acinetobacter": 24,
+   "Pseudomonas": 11,
+   "Escherichia": 9,
+   "Klebsiella": 1,
+   "Stenotrophomonas": 3
+  }
+ },
+ "SRR27343460": {
+  "total": 284,
+  "counts": {
+   "Acinetobacter": 189,
+   "Escherichia": 33,
+   "Pseudomonas": 47,
+   "Stenotrophomonas": 13,
+   "Klebsiella": 1,
+   "Streptococcus": 1
+  }
+ },
+ "SRR27343961": {
+  "total": 164,
+  "counts": {
+   "Pseudomonas": 14,
+   "Escherichia": 24,
+   "Acinetobacter": 74,
+   "Stenotrophomonas": 47,
+   "Staphylococcus": 4,
+   "Klebsiella": 1
+  }
+ },
+ "SRR27343962": {
+  "total": 1668,
+  "counts": {
+   "Pseudomonas": 1630,
+   "Klebsiella": 2,
+   "Acinetobacter": 28,
+   "Stenotrophomonas": 4,
+   "Escherichia": 4
+  }
+ },
+ "SRR27343963": {
+  "total": 288,
+  "counts": {
+   "Pseudomonas": 34,
+   "Stenotrophomonas": 17,
+   "Escherichia": 12,
+   "Acinetobacter": 223,
+   "Klebsiella": 1,
+   "Streptococcus": 1
+  }
+ },
+ "SRR27343965": {
+  "total": 207,
+  "counts": {
+   "Pseudomonas": 117,
+   "Escherichia": 23,
+   "Stenotrophomonas": 7,
+   "Acinetobacter": 54,
+   "Streptococcus": 2,
+   "Haemophilus": 2,
+   "Klebsiella": 2
+  }
+ },
+ "SRR27343968": {
+  "total": 1156,
+  "counts": {
+   "Acinetobacter": 389,
+   "Pseudomonas": 262,
+   "Haemophilus": 368,
+   "Escherichia": 29,
+   "Stenotrophomonas": 68,
+   "Streptococcus": 15,
+   "Klebsiella": 24,
+   "Staphylococcus": 1
+  }
+ },
+ "SRR27343978": {
+  "total": 3975,
+  "counts": {
+   "Acinetobacter": 1911,
+   "Pseudomonas": 1331,
+   "Stenotrophomonas": 286,
+   "Escherichia": 334,
+   "Klebsiella": 111,
+   "Staphylococcus": 2
+  }
+ },
+ "SRR27343983": {
+  "total": 22857,
+  "counts": {
+   "Pseudomonas": 673,
+   "Acinetobacter": 13579,
+   "Stenotrophomonas": 5947,
+   "Escherichia": 1105,
+   "Haemophilus": 1407,
+   "Klebsiella": 77,
+   "Streptococcus": 54,
+   "Staphylococcus": 15
+  }
+ },
+ "SRR27343984": {
+  "total": 161,
+  "counts": {
+   "Klebsiella": 2,
+   "Pseudomonas": 42,
+   "Acinetobacter": 76,
+   "Escherichia": 12,
+   "Haemophilus": 15,
+   "Stenotrophomonas": 11,
+   "Staphylococcus": 3
+  }
+ },
+ "SRR27343987": {
+  "total": 553,
+  "counts": {
+   "Acinetobacter": 61,
+   "Pseudomonas": 461,
+   "Stenotrophomonas": 21,
+   "Escherichia": 10
+  }
+ },
+ "SRR27343990": {
+  "total": 1994,
+  "counts": {
+   "Stenotrophomonas": 247,
+   "Acinetobacter": 1040,
+   "Escherichia": 453,
+   "Klebsiella": 33,
+   "Pseudomonas": 219,
+   "Streptococcus": 2
+  }
+ },
+ "SRR27343998": {
+  "total": 1856,
+  "counts": {
+   "Stenotrophomonas": 163,
+   "Acinetobacter": 1149,
+   "Escherichia": 323,
+   "Klebsiella": 92,
+   "Pseudomonas": 126,
+   "Streptococcus": 2,
+   "Staphylococcus": 1
+  }
+ },
+ "SRR34061072": {
+  "total": 2,
+  "counts": {
+   "Acinetobacter": 1,
+   "Staphylococcus": 1
+  }
+ }
+}
