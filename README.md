@@ -1,32 +1,38 @@
 # acute-biofilm-analysis
 
-Testing Kolpen et al. 2022 (Thorax) — that bacteria in acute lung infection co-express biofilm
-matrix and fast growth — on public BALF metatranscriptomes (PRJNA1056765, Tang et al. 2025 Sci Data).
+Testing Kolpen et al. 2022 (Thorax) — that bacteria in acute lung infection carry biofilm
+matrix **and** grow fast, while chronic infection carries matrix but grows slowly — on public
+metatranscriptomes.
 
-Bacterial acute-infection arm only; COVID contrast arm deferred.
+## Result — two-dimension (quadrant) test
 
-## Result
+Kolpen's two axes are **decoupled** (their words: *"the difference lies primarily in metabolic
+rates, not bacterial architecture"*), so the test is per-group quadrant placement, not a
+correlation. Groups: acute BALF (PRJNA1056765, Tang 2025), chronic CF sputum (PRJEB24688,
+Rossi 2018), healthy non-COPD BALF (PRJNA390194, Ren 2018).
 
-**The measurable part of Kolpen's claim is not supported.**
+- **Growth axis (%RP):** chronic in vivo is slow relative to its own lab-exponential anchor
+  (median 9.3 % vs 20.4 %, p = 0.015) — the metric works. But **acute is just as slow**
+  (11.4 %, p = 0.35 vs chronic). The acute-vs-chronic metabolic contrast is **not observed**.
+- **Matrix axis:** matrix machinery is transcribed in **both** acute and chronic
+  (acute 93 %, chronic 100 % present) — Kolpen's architecture claim holds and the classical
+  acute-planktonic model is contradicted. The acute matrix-ON rate (33 %) is a **depth artefact**:
+  at matched depth it reaches 100 %.
+- **Healthy controls:** zero bacterial signal (kitome floor) — nothing to place.
 
-- Matrix transcripts **are** present in acute bacterial BALF — the complete alginate
-  operon (16/16 genes), Psl (7/11) and Pel (3/7) — the first direct transcript
-  detection of this machinery in acute infection.
-- But there is **no matrix excess**: `B = log(matrix) − log(growth)` gives median
-  +0.05 against the full growth panel and −0.41 against ribosomal proteins alone,
-  so the sign depends on how growth is defined.
-- The tempting Kolpen-compatible signal — matrix and growth rates rising together
-  (r = +0.50) — is a **sequencing-depth artifact**: both arms track depth (r = 0.91
-  and 0.77), and partialling depth out **inverts** the association to −0.76, i.e.
-  the classical matrix/growth trade-off.
+Net: on these two dimensions **acute and chronic look the same** — matrix-ON, growth at the
+fast/ambiguous boundary. The one deeply-sequenced acute sample (SRR27343249) *is* Kolpen-like
+(matrix-ON + FAST), but n = 1.
 
-See **`RESULTS.md`** for the full account and limitations.
+See **`RESULTS-QUADRANT.md`** for the full account. The earlier coupling/correlation test
+(`RESULTS.md`) answered a question Kolpen never asked and is superseded.
 
 ## Documents
 
 | file | contents |
 |---|---|
-| `RESULTS.md` | **current result** — corrected, with method and limitations |
+| `RESULTS-QUADRANT.md` | **current result** — two-dimension quadrant test, three groups |
+| `RESULTS.md` | superseded coupling/correlation test (kept: the depth-artefact caution still stands) |
 | `RESULTS-firstpass-superseded.md` | earlier first-pass result; its headline ratio is superseded (see RESULTS.md "Correction") |
 | `RESULTS-PILOT.md` | pilot 1: dataset/depth verified; three assumptions broken (community, panel, NC arm) |
 | `RESULTS-PILOT2.md` | pilot 2: multi-strain panel rebuilt and validated (6.3x mapping gain); matrix-module gap for Acinetobacter |
@@ -46,9 +52,13 @@ See **`RESULTS.md`** for the full account and limitations.
   disagrees with the RNA reads on the dominant genus for 18/36 samples, always in the
   same direction (table says Pseudomonas, reads say Acinetobacter). The cohort is
   therefore defined by the reads.
-- **Depth is the dominant confound.** At low coverage almost every mapped read is a
-  high-abundance growth transcript, which manufactures a positive matrix/growth
-  correlation.
+- **Depth is the dominant confound — and it cuts differently per axis.** A ratio (growth, %RP)
+  is depth-robust; a detection call (matrix systems) is not. The acute arm's shallow depth
+  (median 312 target reads vs 15,171 chronic) makes its matrix-ON rate a lower bound.
+- **A public dataset's own internal anchors beat cross-dataset thresholds.** PRJEB24688 ships
+  in vitro exponential and stationary cultures alongside the in vivo sputum, so the FAST/SLOW
+  call is made against cultures measured in the same experiment — and those samples are labelled
+  `isolation_source = laboratory culture`, which must be separated from the sputum runs.
 
 ## Data
 
