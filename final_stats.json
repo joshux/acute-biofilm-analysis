@@ -1,0 +1,20 @@
+{
+ "growth": {
+  "acute_median_pctRP": 11.35,
+  "chronic_invivo_median_pctRP": 9.26,
+  "chronic_exp_median_pctRP": 20.38,
+  "acute_vs_chronic_p": 0.3539
+ },
+ "matrix": {
+  "acute_matrix_present": 14,
+  "acute_n": 15,
+  "chronic_invivo_matrix_present": 15,
+  "chronic_n": 15,
+  "acute_matrix_ON": 5,
+  "chronic_matrix_ON": 15
+ },
+ "healthy": {
+  "n": 9,
+  "target_reads_total": 0
+ }
+}
