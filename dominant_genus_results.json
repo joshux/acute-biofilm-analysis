@@ -1,0 +1,753 @@
+{
+ "RNA_top5": [
+  [
+   "Acinetobacter",
+   67.70847954399994
+  ],
+  [
+   "Pseudomonas",
+   67.67663765399993
+  ],
+  [
+   "Delftia",
+   34.46419261600003
+  ],
+  [
+   "Comamonas",
+   18.519500416599996
+  ],
+  [
+   "Haemophilus",
+   13.38348005024
+  ]
+ ],
+ "DNA_top5": [
+  [
+   "Staphylococcus",
+   64.72372454090002
+  ],
+  [
+   "Streptococcus",
+   41.49425214100001
+  ],
+  [
+   "Prevotella",
+   32.64585116596001
+  ],
+  [
+   "Pseudomonas",
+   24.406207736800006
+  ],
+  [
+   "Mycobacterium",
+   19.488653703600004
+  ]
+ ],
+ "RNA_bacterial_dominant": {
+  "Acinetobacter": 38,
+  "other": 26,
+  "Pseudomonas": 32,
+  "Mycoplasma": 4,
+  "Klebsiella": 2,
+  "Haemophilus": 10,
+  "Streptococcus": 1,
+  "Staphylococcus": 1
+ },
+ "DNA_bacterial_dominant": {
+  "Streptococcus": 15,
+  "other": 46,
+  "Acinetobacter": 5,
+  "Pseudomonas": 20,
+  "Staphylococcus": 13,
+  "Klebsiella": 5,
+  "Haemophilus": 6,
+  "Escherichia": 3,
+  "Stenotrophomonas": 1
+ },
+ "RNA_dominant_per_sample": [
+  {
+   "sample": "20210612MCX010",
+   "genus": "Acinetobacter",
+   "abund": 0.477851,
+   "sra": "SRR27343419"
+  },
+  {
+   "sample": "20210618MCX006",
+   "genus": "Campylobacter",
+   "abund": 0.33697,
+   "sra": "SRR27343434"
+  },
+  {
+   "sample": "20210622MCX005",
+   "genus": "Treponema",
+   "abund": 0.364867,
+   "sra": "SRR27343446"
+  },
+  {
+   "sample": "20210625MCX009",
+   "genus": "Acinetobacter",
+   "abund": 0.446342,
+   "sra": "SRR27343973"
+  },
+  {
+   "sample": "20210626MCX008",
+   "genus": "Salmonella",
+   "abund": 0.54566,
+   "sra": "SRR27343428"
+  },
+  {
+   "sample": "20210629MCX008",
+   "genus": "Acinetobacter",
+   "abund": 0.389474,
+   "sra": "SRR27343972"
+  },
+  {
+   "sample": "20210703MCX010",
+   "genus": "Porphyromonas",
+   "abund": 0.2309,
+   "sra": "SRR27343241"
+  },
+  {
+   "sample": "20210705MCX013",
+   "genus": "Acinetobacter",
+   "abund": 0.346425,
+   "sra": "SRR27343240"
+  },
+  {
+   "sample": "20210707MCX007",
+   "genus": "Pseudomonas",
+   "abund": 0.764382,
+   "sra": "SRR27343398"
+  },
+  {
+   "sample": "20210707MCX008",
+   "genus": "Mycoplasma",
+   "abund": 0.317465,
+   "sra": "SRR27343422"
+  },
+  {
+   "sample": "20210716MCX016",
+   "genus": "Pseudomonas",
+   "abund": 0.64375,
+   "sra": "SRR27343418"
+  },
+  {
+   "sample": "20210720MCX011",
+   "genus": "Acinetobacter",
+   "abund": 0.299258,
+   "sra": "SRR27343427"
+  },
+  {
+   "sample": "20210723MCX013",
+   "genus": "Pseudomonas",
+   "abund": 0.614803,
+   "sra": "SRR27343987"
+  },
+  {
+   "sample": "20210313MCX003",
+   "genus": "Acinetobacter",
+   "abund": 0.36029,
+   "sra": "SRR27343449"
+  },
+  {
+   "sample": "20210726MCX012",
+   "genus": "Porphyromonas",
+   "abund": 0.185318,
+   "sra": "SRR27343238"
+  },
+  {
+   "sample": "20210727MCX015",
+   "genus": "Klebsiella",
+   "abund": 0.345351,
+   "sra": "SRR27343247"
+  },
+  {
+   "sample": "20210728MCX008",
+   "genus": "Capnocytophaga",
+   "abund": 0.221715,
+   "sra": "SRR27343433"
+  },
+  {
+   "sample": "20210729MCX010",
+   "genus": "Lautropia",
+   "abund": 0.323967,
+   "sra": "SRR27343417"
+  },
+  {
+   "sample": "20210804MCX006",
+   "genus": "Neisseria",
+   "abund": 0.213638,
+   "sra": "SRR27343237"
+  },
+  {
+   "sample": "20210805MCX008",
+   "genus": "Acinetobacter",
+   "abund": 0.25594,
+   "sra": "SRR27343432"
+  },
+  {
+   "sample": "20210316MCX006",
+   "genus": "Acinetobacter",
+   "abund": 0.41961,
+   "sra": "SRR27343985"
+  },
+  {
+   "sample": "20210806MCX011",
+   "genus": "Fusobacterium",
+   "abund": 0.504941,
+   "sra": "SRR27343431"
+  },
+  {
+   "sample": "20210807MCX009",
+   "genus": "Pseudomonas",
+   "abund": 0.615961,
+   "sra": "SRR27343965"
+  },
+  {
+   "sample": "20210807MCX013",
+   "genus": "Acinetobacter",
+   "abund": 0.183691,
+   "sra": "SRR27343429"
+  },
+  {
+   "sample": "20210811MCX009",
+   "genus": "Mycoplasma",
+   "abund": 0.440289,
+   "sra": "SRR27343430"
+  },
+  {
+   "sample": "20210811MCX014",
+   "genus": "Pseudomonas",
+   "abund": 0.152153,
+   "sra": "SRR27343961"
+  },
+  {
+   "sample": "20210813MCX011",
+   "genus": "Acinetobacter",
+   "abund": 0.20643,
+   "sra": "SRR27343445"
+  },
+  {
+   "sample": "20210817MCX018",
+   "genus": "Pseudomonas",
+   "abund": 0.180175,
+   "sra": "SRR27343998"
+  },
+  {
+   "sample": "20210820MCX013",
+   "genus": "Pseudomonas",
+   "abund": 0.449786,
+   "sra": "SRR27343426"
+  },
+  {
+   "sample": "20210820MCX014",
+   "genus": "Haemophilus",
+   "abund": 0.250456,
+   "sra": "SRR27343416"
+  },
+  {
+   "sample": "20210820MCX015",
+   "genus": "Treponema",
+   "abund": 0.317533,
+   "sra": "SRR27343236"
+  },
+  {
+   "sample": "20210821MCX012",
+   "genus": "Haemophilus",
+   "abund": 0.147774,
+   "sra": "SRR27343997"
+  },
+  {
+   "sample": "20210821MCX014",
+   "genus": "Burkholderia",
+   "abund": 0.321387,
+   "sra": "SRR27343244"
+  },
+  {
+   "sample": "20210318MCX014",
+   "genus": "Acinetobacter",
+   "abund": 0.415635,
+   "sra": "SRR27343448"
+  },
+  {
+   "sample": "20210825MCX010",
+   "genus": "Acinetobacter",
+   "abund": 0.198326,
+   "sra": "SRR27343996"
+  },
+  {
+   "sample": "20210827MCX011",
+   "genus": "Acinetobacter",
+   "abund": 0.179537,
+   "sra": "SRR27343966"
+  },
+  {
+   "sample": "20210903MCX010",
+   "genus": "Pseudomonas",
+   "abund": 0.150694,
+   "sra": "SRR27343246"
+  },
+  {
+   "sample": "20210904MCX014",
+   "genus": "Streptococcus",
+   "abund": 0.204538,
+   "sra": "SRR27343976"
+  },
+  {
+   "sample": "20210906MCX013",
+   "genus": "Prevotella",
+   "abund": 0.562287,
+   "sra": "SRR27343444"
+  },
+  {
+   "sample": "20210907MCX021",
+   "genus": "Acinetobacter",
+   "abund": 0.229269,
+   "sra": "SRR27343967"
+  },
+  {
+   "sample": "20210915MCX009",
+   "genus": "Haemophilus",
+   "abund": 0.487489,
+   "sra": "SRR27343235"
+  },
+  {
+   "sample": "20210916MCX006",
+   "genus": "Pseudomonas",
+   "abund": 0.742697,
+   "sra": "SRR27343415"
+  },
+  {
+   "sample": "20210924MCX012",
+   "genus": "Pseudomonas",
+   "abund": 0.282769,
+   "sra": "SRR27343414"
+  },
+  {
+   "sample": "20210929MCX011",
+   "genus": "Eikenella",
+   "abund": 0.215638,
+   "sra": "SRR27343979"
+  },
+  {
+   "sample": "20211004MCX022",
+   "genus": "Acinetobacter",
+   "abund": 0.228073,
+   "sra": "SRR27343253"
+  },
+  {
+   "sample": "20211004MCX024",
+   "genus": "Acinetobacter",
+   "abund": 0.245475,
+   "sra": "SRR27343252"
+  },
+  {
+   "sample": "20211012MCX008",
+   "genus": "Acinetobacter",
+   "abund": 0.251752,
+   "sra": "SRR27343974"
+  },
+  {
+   "sample": "20211012MCX016",
+   "genus": "Klebsiella",
+   "abund": 0.215826,
+   "sra": "SRR27343234"
+  },
+  {
+   "sample": "20211015MCX011",
+   "genus": "Pseudomonas",
+   "abund": 0.200601,
+   "sra": "SRR27343413"
+  },
+  {
+   "sample": "20211019MCX022",
+   "genus": "Porphyromonas",
+   "abund": 0.50627,
+   "sra": "SRR27343995"
+  },
+  {
+   "sample": "20211021MCX010",
+   "genus": "Haemophilus",
+   "abund": 0.813796,
+   "sra": "SRR27343411"
+  },
+  {
+   "sample": "20211022MCX007",
+   "genus": "Neisseria",
+   "abund": 0.228545,
+   "sra": "SRR27343994"
+  },
+  {
+   "sample": "20211022MCX013",
+   "genus": "Pseudomonas",
+   "abund": 0.53422,
+   "sra": "SRR27343233"
+  },
+  {
+   "sample": "20211026MCX022",
+   "genus": "Acinetobacter",
+   "abund": 0.195053,
+   "sra": "SRR27343992"
+  },
+  {
+   "sample": "20211028MCX021",
+   "genus": "Pseudomonas",
+   "abund": 0.687253,
+   "sra": "SRR27343410"
+  },
+  {
+   "sample": "20211028MCX025",
+   "genus": "Staphylococcus",
+   "abund": 0.144154,
+   "sra": "SRR27343245"
+  },
+  {
+   "sample": "20211101MCX015",
+   "genus": "Haemophilus",
+   "abund": 0.670317,
+   "sra": "SRR27343232"
+  },
+  {
+   "sample": "20211103MCX004",
+   "genus": "Acinetobacter",
+   "abund": 0.190396,
+   "sra": "SRR27343420"
+  },
+  {
+   "sample": "20211106MCX005",
+   "genus": "Acinetobacter",
+   "abund": 0.223605,
+   "sra": "SRR27343424"
+  },
+  {
+   "sample": "20211116MCX012",
+   "genus": "Pseudomonas",
+   "abund": 0.812878,
+   "sra": "SRR27343409"
+  },
+  {
+   "sample": "20211117MCX015",
+   "genus": "Delftia",
+   "abund": 0.0957634,
+   "sra": "SRR27343461"
+  },
+  {
+   "sample": "20211117MCX016",
+   "genus": "Acinetobacter",
+   "abund": 0.214838,
+   "sra": "SRR27343977"
+  },
+  {
+   "sample": "20210402MCX009",
+   "genus": "Fusobacterium",
+   "abund": 0.12876,
+   "sra": "SRR27343964"
+  },
+  {
+   "sample": "20211120MCX006",
+   "genus": "Pseudomonas",
+   "abund": 0.825658,
+   "sra": "SRR27343408"
+  },
+  {
+   "sample": "20211123MCX010",
+   "genus": "Pseudomonas",
+   "abund": 0.289867,
+   "sra": "SRR27343963"
+  },
+  {
+   "sample": "20211124MCX016",
+   "genus": "Pseudomonas",
+   "abund": 0.306573,
+   "sra": "SRR27343407"
+  },
+  {
+   "sample": "20211125MCX009",
+   "genus": "Pseudomonas",
+   "abund": 0.330877,
+   "sra": "SRR27343460"
+  },
+  {
+   "sample": "20211204MCX005",
+   "genus": "Acinetobacter",
+   "abund": 0.746859,
+   "sra": "SRR27343243"
+  },
+  {
+   "sample": "20211215MCX006",
+   "genus": "Pseudomonas",
+   "abund": 0.282399,
+   "sra": "SRR27343984"
+  },
+  {
+   "sample": "20211215MCX012",
+   "genus": "Acinetobacter",
+   "abund": 0.69775,
+   "sra": "SRR27343251"
+  },
+  {
+   "sample": "20211216MCX009",
+   "genus": "Porphyromonas",
+   "abund": 0.441999,
+   "sra": "SRR27343991"
+  },
+  {
+   "sample": "20211218MCX005",
+   "genus": "Prevotella",
+   "abund": 0.555437,
+   "sra": "SRR27343459"
+  },
+  {
+   "sample": "20211223MCX008",
+   "genus": "Pseudomonas",
+   "abund": 0.253044,
+   "sra": "SRR27343990"
+  },
+  {
+   "sample": "20211223MCX009",
+   "genus": "Tannerella",
+   "abund": 0.339645,
+   "sra": "SRR27343970"
+  },
+  {
+   "sample": "20211224MCX012",
+   "genus": "Porphyromonas",
+   "abund": 0.687107,
+   "sra": "SRR27343457"
+  },
+  {
+   "sample": "20211229MCX017",
+   "genus": "Pseudomonas",
+   "abund": 0.217079,
+   "sra": "SRR27343456"
+  },
+  {
+   "sample": "20211230MCX012",
+   "genus": "Pseudomonas",
+   "abund": 0.366498,
+   "sra": "SRR27343455"
+  },
+  {
+   "sample": "20220105MCX008",
+   "genus": "Haemophilus",
+   "abund": 0.835776,
+   "sra": "SRR27343406"
+  },
+  {
+   "sample": "20220111MCX017",
+   "genus": "Burkholderia",
+   "abund": 0.883249,
+   "sra": "SRR27343454"
+  },
+  {
+   "sample": "20220112MCX014",
+   "genus": "Pseudomonas",
+   "abund": 0.803904,
+   "sra": "SRR27343249"
+  },
+  {
+   "sample": "20220112MCX018",
+   "genus": "Pseudomonas",
+   "abund": 0.198566,
+   "sra": "SRR27343453"
+  },
+  {
+   "sample": "20210412MCX007",
+   "genus": "Acinetobacter",
+   "abund": 0.634438,
+   "sra": "SRR27343960"
+  },
+  {
+   "sample": "20220119MCX020",
+   "genus": "Treponema",
+   "abund": 0.590888,
+   "sra": "SRR27343989"
+  },
+  {
+   "sample": "20220122MCX010",
+   "genus": "Pseudomonas",
+   "abund": 0.21783,
+   "sra": "SRR27343978"
+  },
+  {
+   "sample": "20220127MCX014",
+   "genus": "Pseudomonas",
+   "abund": 0.757939,
+   "sra": "SRR27343405"
+  },
+  {
+   "sample": "20220127MCX022",
+   "genus": "Mycoplasma",
+   "abund": 0.318581,
+   "sra": "SRR27343404"
+  },
+  {
+   "sample": "20220210MCX018",
+   "genus": "Gemella",
+   "abund": 0.228161,
+   "sra": "SRR27343988"
+  },
+  {
+   "sample": "20220224MCX007",
+   "genus": "Pseudomonas",
+   "abund": 0.166641,
+   "sra": "SRR27343968"
+  },
+  {
+   "sample": "20220301MCX019",
+   "genus": "Haemophilus",
+   "abund": 0.808147,
+   "sra": "SRR27343975"
+  },
+  {
+   "sample": "20220305MCX010",
+   "genus": "Pseudomonas",
+   "abund": 0.796255,
+   "sra": "SRR27343962"
+  },
+  {
+   "sample": "20220308MCX015",
+   "genus": "Haemophilus",
+   "abund": 0.44674,
+   "sra": "SRR27343403"
+  },
+  {
+   "sample": "20210419MCX007",
+   "genus": "Acinetobacter",
+   "abund": 0.650908,
+   "sra": "SRR27343425"
+  },
+  {
+   "sample": "20210420MCX006",
+   "genus": "Acinetobacter",
+   "abund": 0.394807,
+   "sra": "SRR27343981"
+  },
+  {
+   "sample": "20220311MCX014",
+   "genus": "Pseudomonas",
+   "abund": 0.635628,
+   "sra": "SRR27343402"
+  },
+  {
+   "sample": "20210227MCX003",
+   "genus": "Acinetobacter",
+   "abund": 0.349524,
+   "sra": "SRR27343450"
+  },
+  {
+   "sample": "20220318MCX013",
+   "genus": "Pseudomonas",
+   "abund": 0.537113,
+   "sra": "SRR27343400"
+  },
+  {
+   "sample": "20220319MCX007",
+   "genus": "Haemophilus",
+   "abund": 0.285264,
+   "sra": "SRR27343986"
+  },
+  {
+   "sample": "20220319MCX015",
+   "genus": "Bacteroides",
+   "abund": 0.400544,
+   "sra": "SRR27343442"
+  },
+  {
+   "sample": "20210421MCX013",
+   "genus": "Acinetobacter",
+   "abund": 0.451812,
+   "sra": "SRR27343254"
+  },
+  {
+   "sample": "20220322MCX015",
+   "genus": "Enterovirus",
+   "abund": 0.481186,
+   "sra": "SRR27343399"
+  },
+  {
+   "sample": "220406MCX00012",
+   "genus": "Pseudomonas",
+   "abund": 0.342841,
+   "sra": "SRR27343451"
+  },
+  {
+   "sample": "20210427MCX009",
+   "genus": "Acinetobacter",
+   "abund": 0.488154,
+   "sra": "SRR27343248"
+  },
+  {
+   "sample": "20210427MCX011",
+   "genus": "Acinetobacter",
+   "abund": 0.465181,
+   "sra": "SRR27343421"
+  },
+  {
+   "sample": "20210429MCX006",
+   "genus": "Acinetobacter",
+   "abund": 0.384021,
+   "sra": "SRR27343440"
+  },
+  {
+   "sample": "20210429MCX007",
+   "genus": "Pseudomonas",
+   "abund": 0.327625,
+   "sra": "SRR27343439"
+  },
+  {
+   "sample": "20210507MCX013",
+   "genus": "Acinetobacter",
+   "abund": 0.430649,
+   "sra": "SRR27343443"
+  },
+  {
+   "sample": "220610MCX00019",
+   "genus": "Acinetobacter",
+   "abund": 0.302798,
+   "sra": "SRR27343452"
+  },
+  {
+   "sample": "220623MCX00022",
+   "genus": "Haemophilus",
+   "abund": 0.25407,
+   "sra": "SRR27343441"
+  },
+  {
+   "sample": "20210517MCX008",
+   "genus": "Acinetobacter",
+   "abund": 0.454409,
+   "sra": "SRR27343438"
+  },
+  {
+   "sample": "20210603MCX015",
+   "genus": "Mycoplasma",
+   "abund": 0.297902,
+   "sra": "SRR27343980"
+  },
+  {
+   "sample": "20210604MCX008",
+   "genus": "Acinetobacter",
+   "abund": 0.408226,
+   "sra": "SRR27343969"
+  },
+  {
+   "sample": "20210607MCX008",
+   "genus": "Acinetobacter",
+   "abund": 0.432397,
+   "sra": "SRR27343437"
+  },
+  {
+   "sample": "20210609MCX005",
+   "genus": "Acinetobacter",
+   "abund": 0.31994,
+   "sra": "SRR27343242"
+  },
+  {
+   "sample": "20210610MCX001",
+   "genus": "Acinetobacter",
+   "abund": 0.293259,
+   "sra": "SRR27343983"
+  }
+ ]
+}
