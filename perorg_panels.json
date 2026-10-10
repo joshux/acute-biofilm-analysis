@@ -1,0 +1,97 @@
+{
+ "pseu": {
+  "acc": "GCF_000006765.1",
+  "classes": {
+   "og": 78,
+   "rp": 53,
+   "matrix": 43
+  },
+  "systems": {
+   "alginate": 22,
+   "psl": 14,
+   "pel": 7
+  }
+ },
+ "kleb": {
+  "acc": "GCF_000240185.1",
+  "classes": {
+   "og": 5777,
+   "matrix": 2
+  },
+  "systems": {
+   "mrk": 2
+  }
+ },
+ "ecoli": {
+  "acc": "GCF_000005845.2",
+  "classes": {
+   "og": 4264,
+   "rp": 54,
+   "matrix": 18
+  },
+  "systems": {
+   "pga": 4,
+   "csg": 7,
+   "bcs": 7
+  }
+ },
+ "staph": {
+  "acc": "GCF_000013425.1",
+  "classes": {
+   "og": 2716,
+   "rp": 49,
+   "matrix": 2
+  },
+  "systems": {
+   "ica": 2
+  }
+ },
+ "acine": {
+  "acc": "GCF_026167805.1",
+  "classes": {
+   "og": 3719,
+   "rp": 54,
+   "matrix": 13
+  },
+  "systems": {
+   "csu": 6,
+   "pga": 7
+  }
+ },
+ "haemo": {
+  "acc": "GCF_000012185.1",
+  "classes": {
+   "og": 1785,
+   "rp": 54,
+   "matrix": 3
+  },
+  "systems": {
+   "adhesin": 1,
+   "hmw": 2
+  }
+ },
+ "strep": {
+  "acc": "GCF_000006885.1",
+  "classes": {
+   "og": 2073,
+   "rp": 53,
+   "matrix": 20
+  },
+  "systems": {
+   "cps": 12,
+   "cbp": 8
+  }
+ },
+ "steno": {
+  "acc": "GCF_000072485.1",
+  "classes": {
+   "og": 4373,
+   "rp": 51,
+   "matrix": 13
+  },
+  "systems": {
+   "fimbriae": 12,
+   "qs": 1
+  }
+ }
+}

@@ -1,0 +1,85 @@
+srr,dominant,org,target_reads,coding,rp,pctRP,matrix_on,systems_on
+ERR2275075,pseudomonas,pseu,1350611,1161456,77202,6.65,True,"[""alginate"", ""psl"", ""pel""]"
+ERR2275076,pseudomonas,pseu,1560969,1336366,101936,7.63,True,"[""alginate"", ""pel"", ""psl""]"
+ERR2275079,pseudomonas,pseu,1476658,1194343,27815,2.33,True,"[""alginate"", ""psl"", ""pel""]"
+ERR2275080,pseudomonas,pseu,1630057,1497464,40012,2.67,True,"[""psl"", ""alginate"", ""pel""]"
+ERR2275081,pseudomonas,pseu,1273979,1168969,167271,14.31,True,"[""alginate"", ""pel"", ""psl""]"
+ERR2275082,pseudomonas,pseu,1494110,1384621,161700,11.68,True,"[""alginate"", ""psl"", ""pel""]"
+ERR2275085,pseudomonas,pseu,1270556,1068273,19084,1.79,True,"[""alginate"", ""psl"", ""pel""]"
+ERR2275086,pseudomonas,pseu,1333436,1097165,26385,2.4,True,"[""alginate"", ""psl"", ""pel""]"
+ERR2275087,pseudomonas,pseu,1858822,951671,60382,6.34,True,"[""alginate"", ""pel"", ""psl""]"
+ERR2275088,pseudomonas,pseu,327030,216438,9951,4.6,True,"[""alginate"", ""psl"", ""pel""]"
+ERR2275089,pseudomonas,pseu,760689,605207,119557,19.75,True,"[""alginate"", ""psl"", ""pel""]"
+ERR2275090,pseudomonas,pseu,1868343,1579802,158984,10.06,True,"[""alginate"", ""pel"", ""psl""]"
+ERR2275091,pseudomonas,pseu,1883939,1667142,105276,6.31,True,"[""alginate"", ""pel"", ""psl""]"
+ERR2275092,pseudomonas,pseu,807025,550211,28228,5.13,True,"[""alginate"", ""psl"", ""pel""]"
+ERR2275093,pseudomonas,pseu,1732696,1564987,41550,2.65,True,"[""alginate"", ""pel"", ""psl""]"
+ERR2275094,pseudomonas,pseu,1176991,1050822,27197,2.59,True,"[""alginate"", ""pel"", ""psl""]"
+ERR2275095,pseudomonas,pseu,1745092,1461987,33162,2.27,True,"[""alginate"", ""pel"", ""psl""]"
+ERR2275096,pseudomonas,pseu,1770461,1410467,32935,2.34,True,"[""alginate"", ""pel"", ""psl""]"
+ERR2275097,pseudomonas,pseu,1061167,837695,30361,3.62,True,"[""alginate"", ""psl"", ""pel""]"
+ERR2275098,pseudomonas,pseu,1443899,1090234,40425,3.71,True,"[""alginate"", ""pel"", ""psl""]"
+ERR2275099,pseudomonas,pseu,523302,404808,67679,16.72,True,"[""alginate"", ""psl"", ""pel""]"
+ERR2275100,pseudomonas,pseu,1124075,946349,41763,4.41,True,"[""alginate"", ""psl"", ""pel""]"
+ERR2275101,pseudomonas,pseu,926723,737424,44863,6.08,True,"[""alginate"", ""psl"", ""pel""]"
+ERR2591772,pseudomonas,pseu,1036765,613910,12867,2.1,True,"[""alginate"", ""psl"", ""pel""]"
+ERR2591773,pseudomonas,pseu,1165298,993212,136272,13.72,True,"[""alginate"", ""psl"", ""pel""]"
+ERR2591774,pseudomonas,pseu,931159,799886,108522,13.57,True,"[""alginate"", ""psl"", ""pel""]"
+ERR2591775,pseudomonas,pseu,1362065,1061665,16908,1.59,True,"[""alginate"", ""psl"", ""pel""]"
+ERR2591776,pseudomonas,pseu,1581615,1203629,20861,1.73,True,"[""alginate"", ""psl"", ""pel""]"
+ERR2591777,pseudomonas,pseu,1059743,944098,93691,9.92,True,"[""alginate"", ""psl"", ""pel""]"
+ERR2591778,pseudomonas,pseu,1147787,1043185,94709,9.08,True,"[""alginate"", ""psl"", ""pel""]"
+ERR2591779,pseudomonas,pseu,958027,648117,6283,0.97,True,"[""alginate"", ""psl"", ""pel""]"
+ERR2591780,pseudomonas,pseu,1532022,1186317,15403,1.3,True,"[""alginate"", ""psl"", ""pel""]"
+ERR2591781,pseudomonas,pseu,595103,531838,82790,15.57,True,"[""alginate"", ""psl"", ""pel""]"
+ERR2591782,pseudomonas,pseu,1189931,1076600,163813,15.22,True,"[""psl"", ""alginate"", ""pel""]"
+ERR2591783,pseudomonas,pseu,1099083,867786,33233,3.83,True,"[""alginate"", ""psl"", ""pel""]"
+ERR2591784,pseudomonas,pseu,1162053,916540,29208,3.19,True,"[""alginate"", ""pel"", ""psl""]"
+ERR2591785,pseudomonas,pseu,1448762,1308739,206076,15.75,True,"[""alginate"", ""psl"", ""pel""]"
+ERR2591786,pseudomonas,pseu,1456358,1314411,197399,15.02,True,"[""alginate"", ""psl"", ""pel""]"
+SRR27343233,acinetobacter,acine,4,4,1,25.0,False,[]
+SRR27343234,klebsiella,kleb,13776,13534,3115,23.02,False,[]
+SRR27343240,acinetobacter,acine,3433,3076,844,27.44,False,[]
+SRR27343246,acinetobacter,acine,3,3,0,0.0,False,[]
+SRR27343249,pseudomonas,pseu,85943,83580,15573,18.63,True,"[""alginate"", ""psl"", ""pel""]"
+SRR27343398,pseudomonas,pseu,12814,12387,1053,8.5,True,"[""alginate"", ""psl""]"
+SRR27343399,pseudomonas,pseu,1446,1357,88,6.48,False,"[""alginate""]"
+SRR27343400,acinetobacter,acine,4,4,1,25.0,False,[]
+SRR27343402,pseudomonas,pseu,11268,11020,1205,10.93,False,"[""alginate""]"
+SRR27343405,pseudomonas,pseu,24251,23695,1667,7.04,True,"[""alginate"", ""psl"", ""pel""]"
+SRR27343407,acinetobacter,acine,27,26,1,3.85,False,[]
+SRR27343408,pseudomonas,pseu,3909,3838,410,10.68,False,"[""alginate""]"
+SRR27343409,pseudomonas,pseu,26149,25376,1598,6.3,True,"[""alginate"", ""psl"", ""pel""]"
+SRR27343410,pseudomonas,pseu,21763,20980,1148,5.47,True,"[""alginate"", ""psl""]"
+SRR27343413,acinetobacter,acine,60,54,20,37.04,False,[]
+SRR27343414,acinetobacter,acine,2,2,0,0.0,False,[]
+SRR27343415,pseudomonas,pseu,5321,5149,443,8.6,True,"[""alginate"", ""psl""]"
+SRR27343418,pseudomonas,pseu,1823,1723,278,16.13,False,"[""alginate""]"
+SRR27343426,pseudomonas,pseu,18364,17837,2210,12.39,True,"[""alginate"", ""psl""]"
+SRR27343439,pseudomonas,pseu,46,38,4,10.53,False,[]
+SRR27343451,acinetobacter,acine,8,8,1,12.5,False,[]
+SRR27343453,acinetobacter,acine,13,12,2,16.67,False,[]
+SRR27343455,acinetobacter,acine,5,4,0,0.0,False,[]
+SRR27343456,acinetobacter,acine,0,0,0,,False,[]
+SRR27343460,acinetobacter,acine,10,10,5,50.0,False,[]
+SRR27343961,acinetobacter,acine,6,6,1,16.67,False,[]
+SRR27343962,pseudomonas,pseu,10569,10295,2203,21.4,True,"[""alginate"", ""psl""]"
+SRR27343963,acinetobacter,acine,5,5,1,20.0,False,[]
+SRR27343965,pseudomonas,pseu,735,712,153,21.49,False,"[""alginate""]"
+SRR27343968,staphylococcus,staph,1,1,0,0.0,False,[]
+SRR27343978,acinetobacter,acine,30,22,5,22.73,False,[]
+SRR27343983,acinetobacter,acine,1067,996,286,28.71,False,"[""pga""]"
+SRR27343984,acinetobacter,acine,1,1,0,0.0,False,[]
+SRR27343987,pseudomonas,pseu,3030,2776,346,12.46,False,"[""alginate""]"
+SRR27343990,acinetobacter,acine,31,30,0,0.0,False,[]
+SRR27343998,acinetobacter,acine,38,34,6,17.65,False,[]
+SRR34061072,acinetobacter,,,,,,,
+SRR5677652,escherichia,ecoli,497,490,0,0.0,False,[]
+SRR5677654,escherichia,ecoli,31,25,0,0.0,False,[]
+SRR5677655,escherichia,ecoli,186,141,0,0.0,False,[]
+SRR5677656,escherichia,ecoli,21,14,0,0.0,False,[]
+SRR5677657,haemophilus,,,,,,,
+SRR5677658,escherichia,,,,,,,
+SRR5677659,staphylococcus,staph,0,0,0,,False,[]
+SRR5677660,escherichia,,,,,,,
+SRR5677661,escherichia,ecoli,64,62,0,0.0,False,"[""bcs""]"
