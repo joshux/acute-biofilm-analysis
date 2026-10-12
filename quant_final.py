@@ -11,7 +11,7 @@ usage: quant_final.py <SRR> [fastq_dir] [out_dir]
 """
 import os, sys, json, collections
 
-ABF = "/agent/workspace/abf"
+ABF = "/tmp/abf"
 os.chdir(ABF)
 MM2 = "bin/minimap2-2.28_x64-linux/minimap2"
 MIN_GENUS_READS = 20
@@ -28,8 +28,12 @@ os.makedirs(ODIR, exist_ok=True)
 OUT = f"{ODIR}/{SRR}.json"
 if os.path.exists(OUT):
     print("have", SRR); sys.exit(0)
+FQ1 = f"{FDIR}/{SRR}_1.fastq.gz"
+FQ2 = f"{FDIR}/{SRR}_2.fastq.gz"
 FASTQ = f"{FDIR}/{SRR}.fastq.gz"
-if not os.path.exists(FASTQ):
+if os.path.exists(FQ1):
+    FASTQ = f"{FQ1} {FQ2}" if os.path.exists(FQ2) else FQ1
+elif not os.path.exists(FASTQ):
     print("nofile", SRR); sys.exit(1)
 
 IV = json.load(open("gff_intervals.json"))
@@ -47,7 +51,7 @@ with os.popen(cmd) as fh:
             continue
         if f[2].startswith("decoy|"):
             continue
-        c[g2.get(f[2].split("|")[0], "?")] += 1
+        g = g2.get(f[2].split("|")[0], "?"); c[g.lower()] += 1
 
 dom = c.most_common(1)[0][0] if c else None
 org = GENUS2ORG.get(dom)
