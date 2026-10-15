@@ -1,0 +1,35 @@
+{
+ "srr": "SRR6833347",
+ "dominant": "pseudomonas",
+ "org": "pseu",
+ "genus_counts": {
+  "pseudomonas": 2198,
+  "streptococcus": 1581,
+  "stenotrophomonas": 14,
+  "escherichia": 7,
+  "staphylococcus": 3,
+  "haemophilus": 1
+ },
+ "target_reads": 2203,
+ "rrna": 865,
+ "coding": 1338,
+ "rp": 56,
+ "decoy": 4938,
+ "pctRP": 4.19,
+ "matrix_systems": {
+  "alginate": 19,
+  "psl": 2,
+  "pel": 1
+ },
+ "systems_on": [
+  "alginate",
+  "psl"
+ ],
+ "eps_on": [
+  "alginate",
+  "psl"
+ ],
+ "prot_on": [],
+ "matrix_on": true,
+ "matrix_on_eps": true
+}

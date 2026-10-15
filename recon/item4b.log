@@ -1,0 +1,11 @@
+invivo candidates: 15
+  ERR2275095    3,241,785 P30M0_INVIVO_S4T1
+  ERR2275098    1,560,508 P73F1_INVIVO_S1T2
+  ERR2275099      546,962 P77F1_INVIVO_S3
+  ERR2275101      982,681 P77F1_INVIVO_S2
+  ERR2275091    9,751,989 P30M0_INVIVO_S2
+  ERR2275092      893,569 P30M0_INVIVO_S1
+picks: ['ERR2275091', 'ERR2275090']
+{"srr": "ERR2275091", "dominant": "pseudomonas", "org": "pseu", "target_reads": 471476, "rrna": 54869, "coding": 416607, "rp": 30454, "decoy": 0, "pctRP": 7.31, "matrix_systems": {"alginate": 17434, "pel": 71, "psl": 78}, "systems_on": ["alginate", "pel", "psl"], "eps_on": ["alginate", "pel", "psl"], "prot_on": [], "matrix_on": true, "matrix_on_eps": true}
+{"srr": "ERR2275090", "dominant": "pseudomonas", "org": "pseu", "target_reads": 467140, "rrna": 72175, "coding": 394965, "rp": 43257, "decoy": 2492, "pctRP": 10.95, "matrix_systems": {"alginate": 10462, "pel": 142, "psl": 110}, "systems_on": ["alginate", "pel", "psl"], "eps_on": ["alginate", "pel", "psl"], "prot_on": [], "matrix_on": true, "matrix_on_eps": true}
+ITEM4B DONE

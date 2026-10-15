@@ -1,0 +1,12 @@
+{"srr": "SRR26629241", "dominant": "pseudomonas", "org": "pseu", "target_reads": 56174, "rrna": 396, "coding": 55778, "rp": 433, "decoy": 170, "pctRP": 0.78, "matrix_systems": {"psl": 106, "alginate": 305, "pel": 123}, "systems_on": ["alginate", "pel", "psl"], "eps_on": ["alginate", "pel", "psl"], "prot_on": [], "matrix_on": true, "matrix_on_eps": true}
+[1/49] SRR26629241
+{"srr": "SRR26629383", "dominant": "staphylococcus", "org": "staph", "target_reads": 45574, "rrna": 184, "coding": 45390, "rp": 657, "decoy": 20, "pctRP": 1.45, "matrix_systems": {"fnb": 228, "ica": 32}, "systems_on": ["fnb", "ica"], "eps_on": ["ica"], "prot_on": ["fnb"], "matrix_on": true, "matrix_on_eps": false}
+[2/49] SRR26629383
+{"srr": "SRR26629364", "dominant": "staphylococcus", "org": "staph", "target_reads": 272719, "rrna": 6929, "coding": 265790, "rp": 28131, "decoy": 263, "pctRP": 10.58, "matrix_systems": {"fnb": 1079, "ica": 13}, "systems_on": ["fnb", "ica"], "eps_on": ["ica"], "prot_on": ["fnb"], "matrix_on": true, "matrix_on_eps": false}
+[3/49] SRR26629364
+{"srr": "SRR26629313", "dominant": "staphylococcus", "org": "staph", "target_reads": 105991, "rrna": 2219, "coding": 103772, "rp": 10912, "decoy": 650, "pctRP": 10.52, "matrix_systems": {"fnb": 1161}, "systems_on": ["fnb"], "eps_on": [], "prot_on": ["fnb"], "matrix_on": false, "matrix_on_eps": false}
+[4/49] SRR26629313
+{"srr": "SRR26629387", "dominant": "klebsiella", "org": "kleb", "target_reads": 14896, "rrna": 1018, "coding": 13878, "rp": 767, "decoy": 5445, "pctRP": 5.53, "matrix_systems": {"bcs": 83, "capsule": 14, "pga": 6, "mrk": 18, "fim": 20, "cps": 8}, "systems_on": ["bcs", "capsule", "cps", "fim", "mrk", "pga"], "eps_on": ["bcs", "capsule", "cps", "pga"], "prot_on": ["fim", "mrk"], "matrix_on": true, "matrix_on_eps": true}
+[5/49] SRR26629387
+{"srr": "SRR26629297", "dominant": "staphylococcus", "org": "staph", "target_reads": 82476, "rrna": 3379, "coding": 79097, "rp": 4296, "decoy": 10615, "pctRP": 5.43, "matrix_systems": {"fnb": 149}, "systems_on": ["fnb"], "eps_on": [], "prot_on": ["fnb"], "matrix_on": false, "matrix_on_eps": false}
+[6/49] SRR26629297

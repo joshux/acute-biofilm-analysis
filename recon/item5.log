@@ -1,0 +1,17 @@
+ERR2275090 depth=2,000,000 target= 467140 coding= 394965 pctRP=10.95
+ERR2275090 depth=1,000,000 target= 467140 coding= 394965 pctRP=10.95
+ERR2275090 depth=  500,000 target= 467140 coding= 394965 pctRP=10.95
+ERR2275090 depth=  250,000 target= 233491 coding= 197302 pctRP=10.84
+ERR2275090 depth=  100,000 target=  93665 coding=  79126 pctRP=10.99
+ERR2275090 depth=   50,000 target=  46892 coding=  39614 pctRP=11.24
+ERR2275090 depth=   20,000 target=  18759 coding=  15724 pctRP=11.61
+ERR2275090 depth=   10,000 target=   9384 coding=   7844 pctRP=11.65
+SRR6833349 depth=2,000,000 target=  84060 coding=  57020 pctRP=7.97
+SRR6833349 depth=1,000,000 target=  84060 coding=  57020 pctRP=7.97
+SRR6833349 depth=  500,000 target=  84060 coding=  57020 pctRP=7.97
+SRR6833349 depth=  250,000 target=  42336 coding=  28608 pctRP=8.03
+SRR6833349 depth=  100,000 target=  17124 coding=  11477 pctRP=7.78
+SRR6833349 depth=   50,000 target=   8564 coding=   5719 pctRP=8.22
+SRR6833349 depth=   20,000 target=   3447 coding=   2310 pctRP=7.71
+SRR6833349 depth=   10,000 target=   1698 coding=   1133 pctRP=8.65
+ITEM5 DONE

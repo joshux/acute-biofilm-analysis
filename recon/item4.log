@@ -1,0 +1,10 @@
+have SRR6833312
+{"srr": "SRR6833317", "dominant": "acinetobacter", "org": "acine", "target_reads": 43352, "rrna": 16293, "coding": 27059, "rp": 1172, "decoy": 200, "pctRP": 4.33, "matrix_systems": {"pga": 25, "csu": 13}, "systems_on": ["csu", "pga"], "eps_on": ["pga"], "prot_on": ["csu"], "matrix_on": true, "matrix_on_eps": false}
+invitro_biofilm_SRR6833317: dom=acinetobacter pctRP=4.33 target=43352 sys=['csu', 'pga']
+{"srr": "SRR6833345", "dominant": "pseudomonas", "org": "pseu", "target_reads": 13244, "rrna": 4057, "coding": 9187, "rp": 382, "decoy": 1690, "pctRP": 4.16, "matrix_systems": {"alginate": 345, "pel": 2, "psl": 5}, "systems_on": ["alginate", "pel", "psl"], "eps_on": ["alginate", "pel", "psl"], "prot_on": [], "matrix_on": true, "matrix_on_eps": true}
+invivo_sputum_SRR6833345: dom=pseudomonas pctRP=4.16 target=13244 sys=['alginate', 'pel', 'psl']
+{"srr": "SRR6833347", "dominant": "pseudomonas", "org": "pseu", "target_reads": 2203, "rrna": 865, "coding": 1338, "rp": 56, "decoy": 4938, "pctRP": 4.19, "matrix_systems": {"alginate": 19, "psl": 2, "pel": 1}, "systems_on": ["alginate", "psl"], "eps_on": ["alginate", "psl"], "prot_on": [], "matrix_on": true, "matrix_on_eps": true}
+invivo_sputum_SRR6833347: dom=pseudomonas pctRP=4.19 target=2203 sys=['alginate', 'psl']
+{"srr": "SRR6833349", "dominant": "pseudomonas", "org": "pseu", "target_reads": 84060, "rrna": 27040, "coding": 57020, "rp": 4546, "decoy": 359, "pctRP": 7.97, "matrix_systems": {"alginate": 799, "pel": 4, "psl": 9}, "systems_on": ["alginate", "pel", "psl"], "eps_on": ["alginate", "pel", "psl"], "prot_on": [], "matrix_on": true, "matrix_on_eps": true}
+invivo_sputum_SRR6833349: dom=pseudomonas pctRP=7.97 target=84060 sys=['alginate', 'pel', 'psl']
+ITEM4 DONE

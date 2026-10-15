@@ -1,0 +1,3360 @@
+{
+ "geo": {
+  "HS1": {
+   "title": "MVIR1-HS1-D3ETA1-MNGS1",
+   "status": "No-BP",
+   "n": 1
+  },
+  "HS2": {
+   "title": "MVIR1-HS2-D2ETA1-MNGS1",
+   "status": "No-BP",
+   "n": 1
+  },
+  "HS47": {
+   "title": "MVIR1-HS47-D19ETA1-MNGS1",
+   "status": "2BP",
+   "n": 1
+  },
+  "HS51": {
+   "title": "MVIR1-HS51-D1ETA1-MNGS1",
+   "status": "2BP",
+   "n": 1
+  },
+  "HS55": {
+   "title": "MVIR1-HS55-D9ETA1-MNGS1",
+   "status": "No-BP",
+   "n": 1
+  },
+  "HS72": {
+   "title": "MVIR1-HS72-D14ETA1-MNGS1",
+   "status": "No-BP",
+   "n": 1
+  },
+  "HS78": {
+   "title": "MVIR1-HS78-D4ETA1-MNGS1",
+   "status": "No-BP",
+   "n": 1
+  },
+  "HS94": {
+   "title": "MVIR1-HS94-D20ETA1-MNGS1",
+   "status": "No-BP",
+   "n": 1
+  },
+  "HS97": {
+   "title": "MVIR1-HS97-D8ETA1-MNGS1",
+   "status": "No-BP",
+   "n": 1
+  },
+  "HS114": {
+   "title": "MVIR1-HS114-D3ETA1-MNGS1",
+   "status": "2BP",
+   "n": 1
+  },
+  "HS115": {
+   "title": "MVIR1-HS115-D16ETA1-MNGS1",
+   "status": "No-BP",
+   "n": 1
+  },
+  "HS145": {
+   "title": "MVIR1-HS145-D1ETA1-MNGS1",
+   "status": "2BP",
+   "n": 1
+  },
+  "HS154": {
+   "title": "MVIR1-HS154-D15ETA1-MNGS1",
+   "status": "2BP",
+   "n": 1
+  },
+  "HS156": {
+   "title": "MVIR1-HS156-D0ETA1-MNGS1",
+   "status": "No-BP",
+   "n": 1
+  },
+  "HS158": {
+   "title": "MVIR1-HS158-D6ETA1-MNGS1",
+   "status": "No-BP",
+   "n": 1
+  },
+  "HS161": {
+   "title": "MVIR1-HS161-D10ETA1-MNGS1",
+   "status": "2BP",
+   "n": 1
+  },
+  "HS168": {
+   "title": "MVIR1-HS168-D0ETA1-MNGS1",
+   "status": "No-BP",
+   "n": 1
+  },
+  "HS172": {
+   "title": "MVIR1-HS172-D8ETA1-MNGS1",
+   "status": "2BP",
+   "n": 1
+  },
+  "HS185": {
+   "title": "MVIR1-HS185-D1ETA1-MNGS1",
+   "status": "No-BP",
+   "n": 1
+  },
+  "HS196": {
+   "title": "MVIR1-HS196-D19ETA1-MNGS1",
+   "status": "2BP",
+   "n": 1
+  },
+  "HS204": {
+   "title": "MVIR1-HS204-D0ETA1-MNGS1",
+   "status": "2BP",
+   "n": 1
+  },
+  "HS223": {
+   "title": "MVIR1-HS223-D3ETA1-MNGS1",
+   "status": "No-BP",
+   "n": 1
+  },
+  "HS231": {
+   "title": "MVIR1-HS231-D4ETA1-MNGS1",
+   "status": "2BP",
+   "n": 1
+  },
+  "HS233": {
+   "title": "MVIR1-HS233-D3ETA1-MNGS1",
+   "status": "2BP",
+   "n": 1
+  },
+  "HS236": {
+   "title": "MVIR1-HS236-D7ETA1-MNGS1",
+   "status": "2BP",
+   "n": 1
+  },
+  "HS238": {
+   "title": "MVIR1-HS238-DN1ETA1-MNGS1",
+   "status": "2BP",
+   "n": 1
+  },
+  "HS243": {
+   "title": "MVIR1-HS243-D6ETA1-MNGS1",
+   "status": "No-BP",
+   "n": 1
+  },
+  "HS244": {
+   "title": "MVIR1-HS244-D5ETA1-MNGS1",
+   "status": "No-BP",
+   "n": 1
+  },
+  "HS250": {
+   "title": "MVIR1-HS250-D23ETA1-MNGS1",
+   "status": "2BP",
+   "n": 1
+  },
+  "HS253": {
+   "title": "MVIR1-HS253-D3ETA1-MNGS1",
+   "status": "No-BP",
+   "n": 1
+  },
+  "HS254": {
+   "title": "MVIR1-HS254-D14ETA1-MNGS1",
+   "status": "2BP",
+   "n": 1
+  },
+  "HS271": {
+   "title": "MVIR1-HS271-D9ETA1-MNGS1",
+   "status": "No-BP",
+   "n": 1
+  },
+  "HS290": {
+   "title": "MVIR1-HS290-D9ETA1-MNGS1",
+   "status": "No-BP",
+   "n": 1
+  },
+  "HS292": {
+   "title": "MVIR1-HS292-D15ETA1-MNGS2",
+   "status": "2BP",
+   "n": 1
+  },
+  "HS320": {
+   "title": "MVIR1-HS320-D10ETA1-MNGS1",
+   "status": "No-BP",
+   "n": 1
+  },
+  "HS357": {
+   "title": "MVIR1-HS357-D10ETA1-MNGS2",
+   "status": "2BP",
+   "n": 1
+  },
+  "HS410": {
+   "title": "MVIR1-HS410-D4ETA1-MNGS1",
+   "status": "2BP",
+   "n": 1
+  },
+  "HS419": {
+   "title": "MVIR1-HS419-D3ETA1-MNGS1",
+   "status": "2BP",
+   "n": 1
+  },
+  "HS427": {
+   "title": "MVIR1-HS427-D7ETA1-MNGS1",
+   "status": "2BP",
+   "n": 1
+  },
+  "HS441": {
+   "title": "MVIR1-HS441-D6ETA1-MNGS1",
+   "status": "No-BP",
+   "n": 1
+  },
+  "HS450": {
+   "title": "MVIR1-HS450-D0ETA1-MNGS1",
+   "status": "No-BP",
+   "n": 1
+  },
+  "HS469": {
+   "title": "MVIR1-HS469-D7ETA1-MNGS1",
+   "status": "No-BP",
+   "n": 1
+  },
+  "HS471": {
+   "title": "MVIR1-HS471-D2ETA1-MNGS1",
+   "status": "2BP",
+   "n": 1
+  },
+  "HS473": {
+   "title": "MVIR1-HS473-D4ETA1-MNGS1",
+   "status": "2BP",
+   "n": 1
+  },
+  "HS474": {
+   "title": "MVIR1-HS474-D7ETA1-MNGS1",
+   "status": "2BP",
+   "n": 1
+  },
+  "HS477": {
+   "title": "MVIR1-HS477-D6ETA1-MNGS1",
+   "status": "No-BP",
+   "n": 1
+  },
+  "HS498": {
+   "title": "MVIR1-HS498-D6ETA1-MNGS1",
+   "status": "No-BP",
+   "n": 1
+  },
+  "HS499": {
+   "title": "MVIR1-HS499-D6ETA1-MNGS1",
+   "status": "2BP",
+   "n": 1
+  },
+  "HS507": {
+   "title": "MVIR1-HS507-D7ETA1-MNGS1",
+   "status": "2BP",
+   "n": 1
+  },
+  "HS521": {
+   "title": "MVIR1-HS521-D3ETA1-MNGS1",
+   "status": "2BP",
+   "n": 1
+  },
+  "HS523": {
+   "title": "MVIR1-HS523-D11ETA1-MNGS1",
+   "status": "No-BP",
+   "n": 1
+  },
+  "HS542": {
+   "title": "MVIR1-HS542-D1ETA1-MNGS1",
+   "status": "No-BP",
+   "n": 1
+  },
+  "HS545": {
+   "title": "MVIR1-HS545-D7ETA1-MNGS1",
+   "status": "No-BP",
+   "n": 1
+  },
+  "HS546": {
+   "title": "MVIR1-HS546-D1ETA1-MNGS1",
+   "status": "No-BP",
+   "n": 1
+  },
+  "HS548": {
+   "title": "MVIR1-HS548-D1ETA1-MNGS1",
+   "status": "2BP",
+   "n": 1
+  },
+  "HS556": {
+   "title": "MVIR1-HS556-D1ETA1-MNGS1",
+   "status": "No-BP",
+   "n": 1
+  }
+ },
+ "by_patient": {
+  "HS161": {
+   "status": "2BP",
+   "runs": [
+    {
+     "run_accession": "SRR26618518",
+     "sample_accession": "SAMN38041950",
+     "sample_alias": "MVIR1-HS161-D7NAS1-MNGS1_285777_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1017433",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/018/SRR26618518/SRR26618518_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/018/SRR26618518/SRR26618518_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_008",
+     "patient": "HS161",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26618529",
+     "sample_accession": "SAMN38041949",
+     "sample_alias": "MVIR1-HS161-D4NAS1-MNGS1_285776_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "3674033",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/029/SRR26618529/SRR26618529_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/029/SRR26618529/SRR26618529_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_007",
+     "patient": "HS161",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629334",
+     "sample_accession": "SAMN38050197",
+     "sample_alias": "MVIR1-HS161-D12ETA1-MNGS1_285769_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1096507",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/034/SRR26629334/SRR26629334_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/034/SRR26629334/SRR26629334_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_034",
+     "patient": "HS161",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629332",
+     "sample_accession": "SAMN38050199",
+     "sample_alias": "MVIR1-HS161-D16ETA1-MNGS1_285772_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "3463396",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/032/SRR26629332/SRR26629332_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/032/SRR26629332/SRR26629332_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_036",
+     "patient": "HS161",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629336",
+     "sample_accession": "SAMN38050195",
+     "sample_alias": "MVIR1-HS161-D10ETA1-MNGS1_285767_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "2961210",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/036/SRR26629336/SRR26629336_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/036/SRR26629336/SRR26629336_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_032",
+     "patient": "HS161",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26618540",
+     "sample_accession": "SAMN38041948",
+     "sample_alias": "MVIR1-HS161-D14NAS1-MNGS1_285771_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "11469268",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/040/SRR26618540/SRR26618540_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/040/SRR26618540/SRR26618540_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_006",
+     "patient": "HS161",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629333",
+     "sample_accession": "SAMN38050198",
+     "sample_alias": "MVIR1-HS161-D13ETA1-MNGS1_285770_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "6888356",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/033/SRR26629333/SRR26629333_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/033/SRR26629333/SRR26629333_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_035",
+     "patient": "HS161",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629335",
+     "sample_accession": "SAMN38050196",
+     "sample_alias": "MVIR1-HS161-D11ETA1-MNGS1_285768_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1054090",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/035/SRR26629335/SRR26629335_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/035/SRR26629335/SRR26629335_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_033",
+     "patient": "HS161",
+     "status": "2BP"
+    }
+   ]
+  },
+  "HS523": {
+   "status": "No-BP",
+   "runs": [
+    {
+     "run_accession": "SRR26618519",
+     "sample_accession": "SAMN38042012",
+     "sample_alias": "MVIR1-HS523-D4NAS1-MNGS1_286669_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1373814",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/019/SRR26618519/SRR26618519_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/019/SRR26618519/SRR26618519_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_070",
+     "patient": "HS523",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618521",
+     "sample_accession": "SAMN38042010",
+     "sample_alias": "MVIR1-HS523-D0NAS1-MNGS1_286666_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "7340428",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/021/SRR26618521/SRR26618521_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/021/SRR26618521/SRR26618521_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_068",
+     "patient": "HS523",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629414",
+     "sample_accession": "SAMN38050316",
+     "sample_alias": "MVIR1-HS523-D9ETA1-MNGS1_286670_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "3977279",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/014/SRR26629414/SRR26629414_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/014/SRR26629414/SRR26629414_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_153",
+     "patient": "HS523",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629415",
+     "sample_accession": "SAMN38050315",
+     "sample_alias": "MVIR1-HS523-D11ETA1-MNGS1_286667_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "2458799",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/015/SRR26629415/SRR26629415_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/015/SRR26629415/SRR26629415_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_152",
+     "patient": "HS523",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618520",
+     "sample_accession": "SAMN38042011",
+     "sample_alias": "MVIR1-HS523-D14NAS1-MNGS1_286668_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "6812473",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/020/SRR26618520/SRR26618520_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/020/SRR26618520/SRR26618520_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_069",
+     "patient": "HS523",
+     "status": "No-BP"
+    }
+   ]
+  },
+  "HS477": {
+   "status": "No-BP",
+   "runs": [
+    {
+     "run_accession": "SRR26618534",
+     "sample_accession": "SAMN38041998",
+     "sample_alias": "MVIR1-HS477-D0NAS1-MNGS1_286532_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "3856836",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/034/SRR26618534/SRR26618534_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/034/SRR26618534/SRR26618534_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_056",
+     "patient": "HS477",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629311",
+     "sample_accession": "SAMN38050302",
+     "sample_alias": "MVIR1-HS477-D6ETA1-MNGS1_286535_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "173626",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/011/SRR26629311/SRR26629311_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/011/SRR26629311/SRR26629311_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_139",
+     "patient": "HS477",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618533",
+     "sample_accession": "SAMN38041999",
+     "sample_alias": "MVIR1-HS477-D14NAS1-MNGS1_286533_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1775127",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/033/SRR26618533/SRR26618533_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/033/SRR26618533/SRR26618533_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_057",
+     "patient": "HS477",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629310",
+     "sample_accession": "SAMN38050303",
+     "sample_alias": "MVIR1-HS477-D8ETA1-MNGS1_286537_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "18790",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/010/SRR26629310/SRR26629310_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/010/SRR26629310/SRR26629310_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_140",
+     "patient": "HS477",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618532",
+     "sample_accession": "SAMN38042000",
+     "sample_alias": "MVIR1-HS477-D7NAS1-MNGS1_286536_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "4354516",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/032/SRR26618532/SRR26618532_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/032/SRR26618532/SRR26618532_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_058",
+     "patient": "HS477",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629312",
+     "sample_accession": "SAMN38050301",
+     "sample_alias": "MVIR1-HS477-D17ETA1-MNGS1_286534_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "22969",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/012/SRR26629312/SRR26629312_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/012/SRR26629312/SRR26629312_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_138",
+     "patient": "HS477",
+     "status": "No-BP"
+    }
+   ]
+  },
+  "HS471": {
+   "status": "2BP",
+   "runs": [
+    {
+     "run_accession": "SRR26618542",
+     "sample_accession": "SAMN38041991",
+     "sample_alias": "MVIR1-HS471-D7NAS1-MNGS1_286515_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "3514353",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/042/SRR26618542/SRR26618542_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/042/SRR26618542/SRR26618542_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_049",
+     "patient": "HS471",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26618543",
+     "sample_accession": "SAMN38041990",
+     "sample_alias": "MVIR1-HS471-D0NAS1-MNGS1_286512_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "248269",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/043/SRR26618543/SRR26618543_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/043/SRR26618543/SRR26618543_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_048",
+     "patient": "HS471",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629315",
+     "sample_accession": "SAMN38050298",
+     "sample_alias": "MVIR1-HS471-D2ETA1-MNGS1_286514_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "76780",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/015/SRR26629315/SRR26629315_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/015/SRR26629315/SRR26629315_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_135",
+     "patient": "HS471",
+     "status": "2BP"
+    }
+   ]
+  },
+  "HS469": {
+   "status": "No-BP",
+   "runs": [
+    {
+     "run_accession": "SRR26618545",
+     "sample_accession": "SAMN38041988",
+     "sample_alias": "MVIR1-HS469-D14NAS1-MNGS1_286491_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "373056",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/045/SRR26618545/SRR26618545_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/045/SRR26618545/SRR26618545_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_046",
+     "patient": "HS469",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629324",
+     "sample_accession": "SAMN38050290",
+     "sample_alias": "MVIR1-HS469-D7ETA1-MNGS1_286494_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "158576",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/024/SRR26629324/SRR26629324_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/024/SRR26629324/SRR26629324_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_127",
+     "patient": "HS469",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629353",
+     "sample_accession": "SAMN38050289",
+     "sample_alias": "MVIR1-HS469-D4ETA1-MNGS2_286492_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "246550",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/053/SRR26629353/SRR26629353_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/053/SRR26629353/SRR26629353_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_126",
+     "patient": "HS469",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618546",
+     "sample_accession": "SAMN38041987",
+     "sample_alias": "MVIR1-HS469-D0NAS1-MNGS1_286489_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "72167",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/046/SRR26618546/SRR26618546_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/046/SRR26618546/SRR26618546_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_045",
+     "patient": "HS469",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629354",
+     "sample_accession": "SAMN38050288",
+     "sample_alias": "MVIR1-HS469-D14ETA1-MNGS1_286490_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "5453185",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/054/SRR26629354/SRR26629354_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/054/SRR26629354/SRR26629354_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_125",
+     "patient": "HS469",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618544",
+     "sample_accession": "SAMN38041989",
+     "sample_alias": "MVIR1-HS469-D4NAS1-MNGS1_286493_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "64058",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/044/SRR26618544/SRR26618544_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/044/SRR26618544/SRR26618544_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_047",
+     "patient": "HS469",
+     "status": "No-BP"
+    }
+   ]
+  },
+  "HS441": {
+   "status": "No-BP",
+   "runs": [
+    {
+     "run_accession": "SRR26618552",
+     "sample_accession": "SAMN38041982",
+     "sample_alias": "MVIR1-HS441-D4NAS1-MNGS1_286451_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1110549",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/052/SRR26618552/SRR26618552_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/052/SRR26618552/SRR26618552_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_040",
+     "patient": "HS441",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629356",
+     "sample_accession": "SAMN38050286",
+     "sample_alias": "MVIR1-HS441-D6ETA1-MNGS1_286452_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "3842997",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/056/SRR26629356/SRR26629356_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/056/SRR26629356/SRR26629356_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_123",
+     "patient": "HS441",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618554",
+     "sample_accession": "SAMN38041980",
+     "sample_alias": "MVIR1-HS441-D0NAS1-MNGS1_286447_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "237202",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/054/SRR26618554/SRR26618554_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/054/SRR26618554/SRR26618554_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_038",
+     "patient": "HS441",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629357",
+     "sample_accession": "SAMN38050285",
+     "sample_alias": "MVIR1-HS441-D17ETA1-MNGS1_286450_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "7148536",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/057/SRR26629357/SRR26629357_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/057/SRR26629357/SRR26629357_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_122",
+     "patient": "HS441",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618550",
+     "sample_accession": "SAMN38041983",
+     "sample_alias": "MVIR1-HS441-D7NAS1-MNGS1_286453_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "10191645",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/050/SRR26618550/SRR26618550_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/050/SRR26618550/SRR26618550_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_041",
+     "patient": "HS441",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618553",
+     "sample_accession": "SAMN38041981",
+     "sample_alias": "MVIR1-HS441-D14NAS1-MNGS1_286449_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "649661",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/053/SRR26618553/SRR26618553_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/053/SRR26618553/SRR26618553_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_039",
+     "patient": "HS441",
+     "status": "No-BP"
+    }
+   ]
+  },
+  "HS410": {
+   "status": "2BP",
+   "runs": [
+    {
+     "run_accession": "SRR26618555",
+     "sample_accession": "SAMN38041979",
+     "sample_alias": "MVIR1-HS410-D4NAS1-MNGS1_286407_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "5099868",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/055/SRR26618555/SRR26618555_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/055/SRR26618555/SRR26618555_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_037",
+     "patient": "HS410",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629365",
+     "sample_accession": "SAMN38050278",
+     "sample_alias": "MVIR1-HS410-D1ETA1-MNGS1_286405_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1206860",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/065/SRR26629365/SRR26629365_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/065/SRR26629365/SRR26629365_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_115",
+     "patient": "HS410",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629364",
+     "sample_accession": "SAMN38050279",
+     "sample_alias": "MVIR1-HS410-D4ETA1-MNGS1_286406_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "4639145",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/064/SRR26629364/SRR26629364_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/064/SRR26629364/SRR26629364_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_116",
+     "patient": "HS410",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629363",
+     "sample_accession": "SAMN38050280",
+     "sample_alias": "MVIR1-HS410-D6ETA1-MNGS1_286408_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "88174",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/063/SRR26629363/SRR26629363_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/063/SRR26629363/SRR26629363_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_117",
+     "patient": "HS410",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26618556",
+     "sample_accession": "SAMN38041978",
+     "sample_alias": "MVIR1-HS410-D0NAS1-MNGS1_286402_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "620148",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/056/SRR26618556/SRR26618556_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/056/SRR26618556/SRR26618556_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_036",
+     "patient": "HS410",
+     "status": "2BP"
+    }
+   ]
+  },
+  "HS271": {
+   "status": "No-BP",
+   "runs": [
+    {
+     "run_accession": "SRR26618559",
+     "sample_accession": "SAMN38041975",
+     "sample_alias": "MVIR1-HS271-D4NAS1-MNGS1_286155_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "293731",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/059/SRR26618559/SRR26618559_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/059/SRR26618559/SRR26618559_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_033",
+     "patient": "HS271",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629380",
+     "sample_accession": "SAMN38050263",
+     "sample_alias": "MVIR1-HS271-D9ETA1-MNGS1_286156_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "32782",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/080/SRR26629380/SRR26629380_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/080/SRR26629380/SRR26629380_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_100",
+     "patient": "HS271",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629382",
+     "sample_accession": "SAMN38050262",
+     "sample_alias": "MVIR1-HS271-D11ETA1-MNGS1_288317_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "31231",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/082/SRR26629382/SRR26629382_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/082/SRR26629382/SRR26629382_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_099",
+     "patient": "HS271",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629383",
+     "sample_accession": "SAMN38050261",
+     "sample_alias": "MVIR1-HS271-D10ETA1-MNGS1_286146_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "28851",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/083/SRR26629383/SRR26629383_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/083/SRR26629383/SRR26629383_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_098",
+     "patient": "HS271",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618561",
+     "sample_accession": "SAMN38041973",
+     "sample_alias": "MVIR1-HS271-D21NAS1-MNGS1_286151_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "8508",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/061/SRR26618561/SRR26618561_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/061/SRR26618561/SRR26618561_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_031",
+     "patient": "HS271",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618563",
+     "sample_accession": "SAMN38041972",
+     "sample_alias": "MVIR1-HS271-D0NAS1-MNGS1_286145_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "242409",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/063/SRR26618563/SRR26618563_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/063/SRR26618563/SRR26618563_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_030",
+     "patient": "HS271",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618560",
+     "sample_accession": "SAMN38041974",
+     "sample_alias": "MVIR1-HS271-D3NAS1-MNGS1_286153_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "59571",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/060/SRR26618560/SRR26618560_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/060/SRR26618560/SRR26618560_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_032",
+     "patient": "HS271",
+     "status": "No-BP"
+    }
+   ]
+  },
+  "HS254": {
+   "status": "2BP",
+   "runs": [
+    {
+     "run_accession": "SRR26618564",
+     "sample_accession": "SAMN38041971",
+     "sample_alias": "MVIR1-HS254-D14NAS1-MNGS1_286115_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "16363",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/064/SRR26618564/SRR26618564_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/064/SRR26618564/SRR26618564_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_029",
+     "patient": "HS254",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629384",
+     "sample_accession": "SAMN38050260",
+     "sample_alias": "MVIR1-HS254-D16ETA1-MNGS1_288313_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "55190",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/084/SRR26629384/SRR26629384_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/084/SRR26629384/SRR26629384_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_097",
+     "patient": "HS254",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629386",
+     "sample_accession": "SAMN38050258",
+     "sample_alias": "MVIR1-HS254-D11ETA1-MNGS1_286112_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "10386",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/086/SRR26629386/SRR26629386_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/086/SRR26629386/SRR26629386_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_095",
+     "patient": "HS254",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629385",
+     "sample_accession": "SAMN38050259",
+     "sample_alias": "MVIR1-HS254-D14ETA1-MNGS1_288312_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "7143938",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/085/SRR26629385/SRR26629385_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/085/SRR26629385/SRR26629385_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_096",
+     "patient": "HS254",
+     "status": "2BP"
+    }
+   ]
+  },
+  "HS243": {
+   "status": "No-BP",
+   "runs": [
+    {
+     "run_accession": "SRR26618571",
+     "sample_accession": "SAMN38041964",
+     "sample_alias": "MVIR1-HS243-D4NAS1-MNGS1_286071_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "2268009",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/071/SRR26618571/SRR26618571_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/071/SRR26618571/SRR26618571_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_022",
+     "patient": "HS243",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618570",
+     "sample_accession": "SAMN38041965",
+     "sample_alias": "MVIR1-HS243-D7NAS1-MNGS1_286075_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "509098",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/070/SRR26618570/SRR26618570_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/070/SRR26618570/SRR26618570_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_023",
+     "patient": "HS243",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618572",
+     "sample_accession": "SAMN38041963",
+     "sample_alias": "MVIR1-HS243-D14NAS1-MNGS1_286069_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "42352",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/072/SRR26618572/SRR26618572_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/072/SRR26618572/SRR26618572_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_021",
+     "patient": "HS243",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629284",
+     "sample_accession": "SAMN38050243",
+     "sample_alias": "MVIR1-HS243-D6ETA1-MNGS1_286073_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "4159336",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/084/SRR26629284/SRR26629284_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/084/SRR26629284/SRR26629284_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_080",
+     "patient": "HS243",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629282",
+     "sample_accession": "SAMN38050244",
+     "sample_alias": "MVIR1-HS243-D8ETA1-MNGS1_286076_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "50293",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/082/SRR26629282/SRR26629282_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/082/SRR26629282/SRR26629282_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_081",
+     "patient": "HS243",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629285",
+     "sample_accession": "SAMN38050242",
+     "sample_alias": "MVIR1-HS243-D5ETA1-MNGS1_286072_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "3530559",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/085/SRR26629285/SRR26629285_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/085/SRR26629285/SRR26629285_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_079",
+     "patient": "HS243",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629286",
+     "sample_accession": "SAMN38050241",
+     "sample_alias": "MVIR1-HS243-D4ETA1-MNGS1_286070_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "3589044",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/086/SRR26629286/SRR26629286_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/086/SRR26629286/SRR26629286_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_078",
+     "patient": "HS243",
+     "status": "No-BP"
+    }
+   ]
+  },
+  "HS204": {
+   "status": "2BP",
+   "runs": [
+    {
+     "run_accession": "SRR26618579",
+     "sample_accession": "SAMN38041957",
+     "sample_alias": "MVIR1-HS204-D4NAS1-MNGS1_285932_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1074273",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/079/SRR26618579/SRR26618579_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/079/SRR26618579/SRR26618579_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_015",
+     "patient": "HS204",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629257",
+     "sample_accession": "SAMN38050216",
+     "sample_alias": "MVIR1-HS204-D6ETA1-MNGS1_285934_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "125153",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/057/SRR26629257/SRR26629257_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/057/SRR26629257/SRR26629257_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_053",
+     "patient": "HS204",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629262",
+     "sample_accession": "SAMN38050212",
+     "sample_alias": "MVIR1-HS204-D1ETA1-MNGS1_285928_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "3873711",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/062/SRR26629262/SRR26629262_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/062/SRR26629262/SRR26629262_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_049",
+     "patient": "HS204",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629261",
+     "sample_accession": "SAMN38050213",
+     "sample_alias": "MVIR1-HS204-D2ETA1-MNGS1_285930_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1330587",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/061/SRR26629261/SRR26629261_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/061/SRR26629261/SRR26629261_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_050",
+     "patient": "HS204",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629258",
+     "sample_accession": "SAMN38050215",
+     "sample_alias": "MVIR1-HS204-D5ETA1-MNGS1_285933_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "279871",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/058/SRR26629258/SRR26629258_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/058/SRR26629258/SRR26629258_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_052",
+     "patient": "HS204",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629259",
+     "sample_accession": "SAMN38050214",
+     "sample_alias": "MVIR1-HS204-D3ETA1-MNGS1_285931_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "231382",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/059/SRR26629259/SRR26629259_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/059/SRR26629259/SRR26629259_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_051",
+     "patient": "HS204",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629263",
+     "sample_accession": "SAMN38050211",
+     "sample_alias": "MVIR1-HS204-D0ETA1-MNGS1_285920_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "2302006",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/063/SRR26629263/SRR26629263_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/063/SRR26629263/SRR26629263_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_048",
+     "patient": "HS204",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26618580",
+     "sample_accession": "SAMN38041956",
+     "sample_alias": "MVIR1-HS204-D0NAS1-MNGS1_285921_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "380702",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/080/SRR26618580/SRR26618580_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/080/SRR26618580/SRR26618580_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_014",
+     "patient": "HS204",
+     "status": "2BP"
+    }
+   ]
+  },
+  "HS145": {
+   "status": "2BP",
+   "runs": [
+    {
+     "run_accession": "SRR26618584",
+     "sample_accession": "SAMN38041944",
+     "sample_alias": "MVIR1-HS145-D0NAS1-MNGS1_285712_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "3869245",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/084/SRR26618584/SRR26618584_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/084/SRR26618584/SRR26618584_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_002",
+     "patient": "HS145",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629309",
+     "sample_accession": "SAMN38050178",
+     "sample_alias": "MVIR1-HS145-D4ETA1-MNGS1_285724_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "779312",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/009/SRR26629309/SRR26629309_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/009/SRR26629309/SRR26629309_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_015",
+     "patient": "HS145",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629359",
+     "sample_accession": "SAMN38050176",
+     "sample_alias": "MVIR1-HS145-D2ETA1-MNGS1_285722_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "3627512",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/059/SRR26629359/SRR26629359_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/059/SRR26629359/SRR26629359_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_013",
+     "patient": "HS145",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629320",
+     "sample_accession": "SAMN38050177",
+     "sample_alias": "MVIR1-HS145-D3ETA1-MNGS1_285723_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "6636946",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/020/SRR26629320/SRR26629320_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/020/SRR26629320/SRR26629320_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_014",
+     "patient": "HS145",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629370",
+     "sample_accession": "SAMN38050175",
+     "sample_alias": "MVIR1-HS145-D1ETA1-MNGS1_285718_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "7127433",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/070/SRR26629370/SRR26629370_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/070/SRR26629370/SRR26629370_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_012",
+     "patient": "HS145",
+     "status": "2BP"
+    }
+   ]
+  },
+  "HS1": {
+   "status": "No-BP",
+   "runs": [
+    {
+     "run_accession": "SRR26618585",
+     "sample_accession": "SAMN38041943",
+     "sample_alias": "MVIR1-HS1-D12NAS1-MNGS1_285632_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "327180",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/085/SRR26618585/SRR26618585_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/085/SRR26618585/SRR26618585_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_001",
+     "patient": "HS1",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629418",
+     "sample_accession": "SAMN38050164",
+     "sample_alias": "MVIR1-HS1-D1ETA1-MNGS1_285633_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "171585",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/018/SRR26629418/SRR26629418_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/018/SRR26629418/SRR26629418_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_001",
+     "patient": "HS1",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629338",
+     "sample_accession": "SAMN38050167",
+     "sample_alias": "MVIR1-HS1-D7ETA1-MNGS1_285637_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "21738",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/038/SRR26629338/SRR26629338_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/038/SRR26629338/SRR26629338_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_004",
+     "patient": "HS1",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629349",
+     "sample_accession": "SAMN38050166",
+     "sample_alias": "MVIR1-HS1-D5ETA1-MNGS1_285636_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "45902",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/049/SRR26629349/SRR26629349_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/049/SRR26629349/SRR26629349_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_003",
+     "patient": "HS1",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629417",
+     "sample_accession": "SAMN38050165",
+     "sample_alias": "MVIR1-HS1-D3ETA1-MNGS1_285635_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "14542",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/017/SRR26629417/SRR26629417_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/017/SRR26629417/SRR26629417_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_002",
+     "patient": "HS1",
+     "status": "No-BP"
+    }
+   ]
+  },
+  "HS236": {
+   "status": "2BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629241",
+     "sample_accession": "SAMN38050231",
+     "sample_alias": "MVIR1-HS236-D13ETA1-MNGS1_286003_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "34501",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/041/SRR26629241/SRR26629241_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/041/SRR26629241/SRR26629241_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_068",
+     "patient": "HS236",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629242",
+     "sample_accession": "SAMN38050230",
+     "sample_alias": "MVIR1-HS236-D10ETA1-MNGS1_286002_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "889",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/042/SRR26629242/SRR26629242_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/042/SRR26629242/SRR26629242_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_067",
+     "patient": "HS236",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26618576",
+     "sample_accession": "SAMN38041960",
+     "sample_alias": "MVIR1-HS236-D4NAS1-MNGS1_286010_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "6510113",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/076/SRR26618576/SRR26618576_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/076/SRR26618576/SRR26618576_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_018",
+     "patient": "HS236",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629295",
+     "sample_accession": "SAMN38050233",
+     "sample_alias": "MVIR1-HS236-D8ETA1-MNGS1_286013_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "6465279",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/095/SRR26629295/SRR26629295_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/095/SRR26629295/SRR26629295_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_070",
+     "patient": "HS236",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629293",
+     "sample_accession": "SAMN38050234",
+     "sample_alias": "MVIR1-HS236-D9ETA1-MNGS1_286014_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "742962",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/093/SRR26629293/SRR26629293_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/093/SRR26629293/SRR26629293_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_071",
+     "patient": "HS236",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629296",
+     "sample_accession": "SAMN38050232",
+     "sample_alias": "MVIR1-HS236-D7ETA1-MNGS1_286011_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1889264",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/096/SRR26629296/SRR26629296_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/096/SRR26629296/SRR26629296_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_069",
+     "patient": "HS236",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26618575",
+     "sample_accession": "SAMN38041961",
+     "sample_alias": "MVIR1-HS236-D7NAS1-MNGS1_286012_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "7646598",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/075/SRR26618575/SRR26618575_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/075/SRR26618575/SRR26618575_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_019",
+     "patient": "HS236",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26618577",
+     "sample_accession": "SAMN38041959",
+     "sample_alias": "MVIR1-HS236-D0NAS1-MNGS1_286001_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "491481",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/077/SRR26618577/SRR26618577_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/077/SRR26618577/SRR26618577_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_017",
+     "patient": "HS236",
+     "status": "2BP"
+    }
+   ]
+  },
+  "HS233": {
+   "status": "2BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629243",
+     "sample_accession": "SAMN38050229",
+     "sample_alias": "MVIR1-HS233-D3ETA1-MNGS1_285994_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1774896",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/043/SRR26629243/SRR26629243_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/043/SRR26629243/SRR26629243_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_066",
+     "patient": "HS233",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26618578",
+     "sample_accession": "SAMN38041958",
+     "sample_alias": "MVIR1-HS233-D0NAS1-MNGS1_285991_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "320739",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/078/SRR26618578/SRR26618578_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/078/SRR26618578/SRR26618578_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_016",
+     "patient": "HS233",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629244",
+     "sample_accession": "SAMN38050228",
+     "sample_alias": "MVIR1-HS233-D1ETA1-MNGS1_285993_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "878860",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/044/SRR26629244/SRR26629244_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/044/SRR26629244/SRR26629244_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_065",
+     "patient": "HS233",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629245",
+     "sample_accession": "SAMN38050227",
+     "sample_alias": "MVIR1-HS233-D0ETA1-MNGS1_285990_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1717202",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/045/SRR26629245/SRR26629245_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/045/SRR26629245/SRR26629245_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_064",
+     "patient": "HS233",
+     "status": "2BP"
+    }
+   ]
+  },
+  "HS114": {
+   "status": "2BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629260",
+     "sample_accession": "SAMN38050169",
+     "sample_alias": "MVIR1-HS114-D5ETA1-MNGS1_285673_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1666230",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/060/SRR26629260/SRR26629260_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/060/SRR26629260/SRR26629260_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_006",
+     "patient": "HS114",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629294",
+     "sample_accession": "SAMN38050171",
+     "sample_alias": "MVIR1-HS114-D7ETA1-MNGS1_285675_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "3066016",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/094/SRR26629294/SRR26629294_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/094/SRR26629294/SRR26629294_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_008",
+     "patient": "HS114",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629327",
+     "sample_accession": "SAMN38050168",
+     "sample_alias": "MVIR1-HS114-D3ETA1-MNGS1_285672_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "2142173",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/027/SRR26629327/SRR26629327_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/027/SRR26629327/SRR26629327_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_005",
+     "patient": "HS114",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629249",
+     "sample_accession": "SAMN38050170",
+     "sample_alias": "MVIR1-HS114-D6ETA1-MNGS1_285674_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "4682128",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/049/SRR26629249/SRR26629249_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/049/SRR26629249/SRR26629249_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_007",
+     "patient": "HS114",
+     "status": "2BP"
+    }
+   ]
+  },
+  "HS250": {
+   "status": "2BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629274",
+     "sample_accession": "SAMN38050252",
+     "sample_alias": "MVIR1-HS250-D23ETA1-MNGS1_288310_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "6566290",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/074/SRR26629274/SRR26629274_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/074/SRR26629274/SRR26629274_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_089",
+     "patient": "HS250",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629278",
+     "sample_accession": "SAMN38050248",
+     "sample_alias": "MVIR1-HS250-D16ETA1-MNGS2_286094_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "8344",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/078/SRR26629278/SRR26629278_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/078/SRR26629278/SRR26629278_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_085",
+     "patient": "HS250",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629275",
+     "sample_accession": "SAMN38050251",
+     "sample_alias": "MVIR1-HS250-D19ETA1-MNGS1_286097_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "9420194",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/075/SRR26629275/SRR26629275_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/075/SRR26629275/SRR26629275_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_088",
+     "patient": "HS250",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629276",
+     "sample_accession": "SAMN38050250",
+     "sample_alias": "MVIR1-HS250-D18ETA1-MNGS2_286096_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1346587",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/076/SRR26629276/SRR26629276_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/076/SRR26629276/SRR26629276_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_087",
+     "patient": "HS250",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629273",
+     "sample_accession": "SAMN38050253",
+     "sample_alias": "MVIR1-HS250-D25ETA1-MNGS1_288311_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "5302595",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/073/SRR26629273/SRR26629273_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/073/SRR26629273/SRR26629273_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_090",
+     "patient": "HS250",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629277",
+     "sample_accession": "SAMN38050249",
+     "sample_alias": "MVIR1-HS250-D17ETA1-MNGS1_288309_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1678502",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/077/SRR26629277/SRR26629277_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/077/SRR26629277/SRR26629277_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_086",
+     "patient": "HS250",
+     "status": "2BP"
+    }
+   ]
+  },
+  "HS244": {
+   "status": "No-BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629280",
+     "sample_accession": "SAMN38050246",
+     "sample_alias": "MVIR1-HS244-D6ETA1-MNGS1_286080_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "547333",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/080/SRR26629280/SRR26629280_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/080/SRR26629280/SRR26629280_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_083",
+     "patient": "HS244",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629281",
+     "sample_accession": "SAMN38050245",
+     "sample_alias": "MVIR1-HS244-D5ETA1-MNGS1_286079_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "808191",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/081/SRR26629281/SRR26629281_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/081/SRR26629281/SRR26629281_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_082",
+     "patient": "HS244",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629279",
+     "sample_accession": "SAMN38050247",
+     "sample_alias": "MVIR1-HS244-D8ETA1-MNGS1_286082_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1153477",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/079/SRR26629279/SRR26629279_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/079/SRR26629279/SRR26629279_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_084",
+     "patient": "HS244",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618568",
+     "sample_accession": "SAMN38041967",
+     "sample_alias": "MVIR1-HS244-D4NAS1-MNGS1_286078_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "4125223",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/068/SRR26618568/SRR26618568_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/068/SRR26618568/SRR26618568_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_025",
+     "patient": "HS244",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618569",
+     "sample_accession": "SAMN38041966",
+     "sample_alias": "MVIR1-HS244-D0NAS1-MNGS1_286077_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1193256",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/069/SRR26618569/SRR26618569_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/069/SRR26618569/SRR26618569_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_024",
+     "patient": "HS244",
+     "status": "No-BP"
+    }
+   ]
+  },
+  "HS238": {
+   "status": "2BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629287",
+     "sample_accession": "SAMN38050240",
+     "sample_alias": "MVIR1-HS238-DN1ETA1-MNGS1_286039_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1739675",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/087/SRR26629287/SRR26629287_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/087/SRR26629287/SRR26629287_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_077",
+     "patient": "HS238",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629288",
+     "sample_accession": "SAMN38050239",
+     "sample_alias": "MVIR1-HS238-D6ETA1-MNGS1_286034_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "130164",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/088/SRR26629288/SRR26629288_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/088/SRR26629288/SRR26629288_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_076",
+     "patient": "HS238",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629292",
+     "sample_accession": "SAMN38050235",
+     "sample_alias": "MVIR1-HS238-D0ETA1-MNGS1_286018_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1078364",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/092/SRR26629292/SRR26629292_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/092/SRR26629292/SRR26629292_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_072",
+     "patient": "HS238",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26618574",
+     "sample_accession": "SAMN38041962",
+     "sample_alias": "MVIR1-HS238-D0NAS1-MNGS1_286019_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "2433012",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/074/SRR26618574/SRR26618574_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/074/SRR26618574/SRR26618574_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_020",
+     "patient": "HS238",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629290",
+     "sample_accession": "SAMN38050237",
+     "sample_alias": "MVIR1-HS238-D2ETA1-MNGS1_286030_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1578483",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/090/SRR26629290/SRR26629290_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/090/SRR26629290/SRR26629290_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_074",
+     "patient": "HS238",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629289",
+     "sample_accession": "SAMN38050238",
+     "sample_alias": "MVIR1-HS238-D5ETA1-MNGS1_286033_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "4052589",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/089/SRR26629289/SRR26629289_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/089/SRR26629289/SRR26629289_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_075",
+     "patient": "HS238",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629291",
+     "sample_accession": "SAMN38050236",
+     "sample_alias": "MVIR1-HS238-D1ETA1-MNGS1_286026_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1010898",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/091/SRR26629291/SRR26629291_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/091/SRR26629291/SRR26629291_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_073",
+     "patient": "HS238",
+     "status": "2BP"
+    }
+   ]
+  },
+  "HS51": {
+   "status": "2BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629303",
+     "sample_accession": "SAMN38050309",
+     "sample_alias": "MVIR1-HS51-D1ETA1-MNGS1_286626_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "10633",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/003/SRR26629303/SRR26629303_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/003/SRR26629303/SRR26629303_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_146",
+     "patient": "HS51",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629302",
+     "sample_accession": "SAMN38050310",
+     "sample_alias": "MVIR1-HS51-D6ETA1-MNGS1_286631_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "466656",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/002/SRR26629302/SRR26629302_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/002/SRR26629302/SRR26629302_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_147",
+     "patient": "HS51",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629300",
+     "sample_accession": "SAMN38050312",
+     "sample_alias": "MVIR1-HS51-D8ETA1-MNGS1_286633_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "2269455",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/000/SRR26629300/SRR26629300_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/000/SRR26629300/SRR26629300_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_149",
+     "patient": "HS51",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629301",
+     "sample_accession": "SAMN38050311",
+     "sample_alias": "MVIR1-HS51-D7ETA1-MNGS1_286632_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "547612",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/001/SRR26629301/SRR26629301_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/001/SRR26629301/SRR26629301_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_148",
+     "patient": "HS51",
+     "status": "2BP"
+    }
+   ]
+  },
+  "HS507": {
+   "status": "2BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629304",
+     "sample_accession": "SAMN38050308",
+     "sample_alias": "MVIR1-HS507-D7ETA1-MNGS1_286616_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "509895",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/004/SRR26629304/SRR26629304_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/004/SRR26629304/SRR26629304_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_145",
+     "patient": "HS507",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26618523",
+     "sample_accession": "SAMN38042008",
+     "sample_alias": "MVIR1-HS507-D0NAS1-MNGS1_286615_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "4757420",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/023/SRR26618523/SRR26618523_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/023/SRR26618523/SRR26618523_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_066",
+     "patient": "HS507",
+     "status": "2BP"
+    }
+   ]
+  },
+  "HS47": {
+   "status": "2BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629316",
+     "sample_accession": "SAMN38050297",
+     "sample_alias": "MVIR1-HS47-D21ETA1-MNGS1_286504_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "318748",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/016/SRR26629316/SRR26629316_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/016/SRR26629316/SRR26629316_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_134",
+     "patient": "HS47",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629319",
+     "sample_accession": "SAMN38050294",
+     "sample_alias": "MVIR1-HS47-D18ETA1-MNGS1_286501_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "46409",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/019/SRR26629319/SRR26629319_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/019/SRR26629319/SRR26629319_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_131",
+     "patient": "HS47",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629323",
+     "sample_accession": "SAMN38050291",
+     "sample_alias": "MVIR1-HS47-D13ETA1-MNGS1_286497_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1015733",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/023/SRR26629323/SRR26629323_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/023/SRR26629323/SRR26629323_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_128",
+     "patient": "HS47",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629321",
+     "sample_accession": "SAMN38050293",
+     "sample_alias": "MVIR1-HS47-D17ETA1-MNGS1_286500_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "87803",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/021/SRR26629321/SRR26629321_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/021/SRR26629321/SRR26629321_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_130",
+     "patient": "HS47",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629318",
+     "sample_accession": "SAMN38050295",
+     "sample_alias": "MVIR1-HS47-D19ETA1-MNGS1_286502_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "614657",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/018/SRR26629318/SRR26629318_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/018/SRR26629318/SRR26629318_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_132",
+     "patient": "HS47",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629322",
+     "sample_accession": "SAMN38050292",
+     "sample_alias": "MVIR1-HS47-D15ETA1-MNGS1_286499_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "42974",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/022/SRR26629322/SRR26629322_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/022/SRR26629322/SRR26629322_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_129",
+     "patient": "HS47",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629317",
+     "sample_accession": "SAMN38050296",
+     "sample_alias": "MVIR1-HS47-D20ETA1-MNGS1_286503_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "15108",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/017/SRR26629317/SRR26629317_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/017/SRR26629317/SRR26629317_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_133",
+     "patient": "HS47",
+     "status": "2BP"
+    }
+   ]
+  },
+  "HS196": {
+   "status": "2BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629325",
+     "sample_accession": "SAMN38050205",
+     "sample_alias": "MVIR1-HS196-D12ETA1-MNGS1_285897_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "6297264",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/025/SRR26629325/SRR26629325_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/025/SRR26629325/SRR26629325_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_042",
+     "patient": "HS196",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629266",
+     "sample_accession": "SAMN38050208",
+     "sample_alias": "MVIR1-HS196-D19ETA1-MNGS1_285901_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "4378206",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/066/SRR26629266/SRR26629266_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/066/SRR26629266/SRR26629266_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_045",
+     "patient": "HS196",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629268",
+     "sample_accession": "SAMN38050206",
+     "sample_alias": "MVIR1-HS196-D15ETA1-MNGS1_285898_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "193917",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/068/SRR26629268/SRR26629268_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/068/SRR26629268/SRR26629268_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_043",
+     "patient": "HS196",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629267",
+     "sample_accession": "SAMN38050207",
+     "sample_alias": "MVIR1-HS196-D18ETA1-MNGS1_285900_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "364913",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/067/SRR26629267/SRR26629267_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/067/SRR26629267/SRR26629267_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_044",
+     "patient": "HS196",
+     "status": "2BP"
+    }
+   ]
+  },
+  "HS185": {
+   "status": "No-BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629326",
+     "sample_accession": "SAMN38050204",
+     "sample_alias": "MVIR1-HS185-D1ETA1-MNGS1_285852_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "810653",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/026/SRR26629326/SRR26629326_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/026/SRR26629326/SRR26629326_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_041",
+     "patient": "HS185",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618582",
+     "sample_accession": "SAMN38041954",
+     "sample_alias": "MVIR1-HS185-D7NAS1-MNGS1_285858_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "352947",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/082/SRR26618582/SRR26618582_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/082/SRR26618582/SRR26618582_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_012",
+     "patient": "HS185",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618583",
+     "sample_accession": "SAMN38041953",
+     "sample_alias": "MVIR1-HS185-D4NAS1-MNGS1_285855_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "15420",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/083/SRR26618583/SRR26618583_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/083/SRR26618583/SRR26618583_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_011",
+     "patient": "HS185",
+     "status": "No-BP"
+    }
+   ]
+  },
+  "HS158": {
+   "status": "No-BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629339",
+     "sample_accession": "SAMN38050193",
+     "sample_alias": "MVIR1-HS158-D4ETA1-MNGS1_285763_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1332683",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/039/SRR26629339/SRR26629339_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/039/SRR26629339/SRR26629339_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_030",
+     "patient": "HS158",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629341",
+     "sample_accession": "SAMN38050191",
+     "sample_alias": "MVIR1-HS158-D14ETA1-MNGS1_285761_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "326626",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/041/SRR26629341/SRR26629341_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/041/SRR26629341/SRR26629341_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_028",
+     "patient": "HS158",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629342",
+     "sample_accession": "SAMN38050190",
+     "sample_alias": "MVIR1-HS158-D13ETA1-MNGS1_285760_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "108147",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/042/SRR26629342/SRR26629342_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/042/SRR26629342/SRR26629342_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_027",
+     "patient": "HS158",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629343",
+     "sample_accession": "SAMN38050189",
+     "sample_alias": "MVIR1-HS158-D12ETA1-MNGS1_285759_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1985333",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/043/SRR26629343/SRR26629343_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/043/SRR26629343/SRR26629343_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_026",
+     "patient": "HS158",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629337",
+     "sample_accession": "SAMN38050194",
+     "sample_alias": "MVIR1-HS158-D6ETA1-MNGS1_285764_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "433052",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/037/SRR26629337/SRR26629337_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/037/SRR26629337/SRR26629337_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_031",
+     "patient": "HS158",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629340",
+     "sample_accession": "SAMN38050192",
+     "sample_alias": "MVIR1-HS158-D3ETA1-MNGS1_285762_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "494285",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/040/SRR26629340/SRR26629340_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/040/SRR26629340/SRR26629340_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_029",
+     "patient": "HS158",
+     "status": "No-BP"
+    }
+   ]
+  },
+  "HS154": {
+   "status": "2BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629347",
+     "sample_accession": "SAMN38050185",
+     "sample_alias": "MVIR1-HS154-D19ETA1-MNGS1_285740_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1683166",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/047/SRR26629347/SRR26629347_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/047/SRR26629347/SRR26629347_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_022",
+     "patient": "HS154",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629395",
+     "sample_accession": "SAMN38050181",
+     "sample_alias": "MVIR1-HS154-D14ETA1-MNGS1_285735_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "600798",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/095/SRR26629395/SRR26629395_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/095/SRR26629395/SRR26629395_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_018",
+     "patient": "HS154",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26618573",
+     "sample_accession": "SAMN38041945",
+     "sample_alias": "MVIR1-HS154-D21NAS1-MNGS1_285742_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "4269504",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/073/SRR26618573/SRR26618573_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/073/SRR26618573/SRR26618573_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_003",
+     "patient": "HS154",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629345",
+     "sample_accession": "SAMN38050187",
+     "sample_alias": "MVIR1-HS154-D9ETA1-MNGS1_285751_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "116143",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/045/SRR26629345/SRR26629345_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/045/SRR26629345/SRR26629345_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_024",
+     "patient": "HS154",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629346",
+     "sample_accession": "SAMN38050186",
+     "sample_alias": "MVIR1-HS154-D21ETA1-MNGS1_285741_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "453565",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/046/SRR26629346/SRR26629346_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/046/SRR26629346/SRR26629346_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_023",
+     "patient": "HS154",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629348",
+     "sample_accession": "SAMN38050184",
+     "sample_alias": "MVIR1-HS154-D17ETA1-MNGS1_285739_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "4669399",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/048/SRR26629348/SRR26629348_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/048/SRR26629348/SRR26629348_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_021",
+     "patient": "HS154",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629350",
+     "sample_accession": "SAMN38050183",
+     "sample_alias": "MVIR1-HS154-D16ETA1-MNGS1_285738_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "3206691",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/050/SRR26629350/SRR26629350_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/050/SRR26629350/SRR26629350_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_020",
+     "patient": "HS154",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629406",
+     "sample_accession": "SAMN38050180",
+     "sample_alias": "MVIR1-HS154-D13ETA1-MNGS1_285734_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "57946",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/006/SRR26629406/SRR26629406_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/006/SRR26629406/SRR26629406_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_017",
+     "patient": "HS154",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629298",
+     "sample_accession": "SAMN38050179",
+     "sample_alias": "MVIR1-HS154-D12ETA1-MNGS1_285733_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "154054",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/098/SRR26629298/SRR26629298_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/098/SRR26629298/SRR26629298_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_016",
+     "patient": "HS154",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629351",
+     "sample_accession": "SAMN38050182",
+     "sample_alias": "MVIR1-HS154-D15ETA1-MNGS1_285737_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "250786",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/051/SRR26629351/SRR26629351_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/051/SRR26629351/SRR26629351_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_019",
+     "patient": "HS154",
+     "status": "2BP"
+    }
+   ]
+  },
+  "HS357": {
+   "status": "2BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629368",
+     "sample_accession": "SAMN38050275",
+     "sample_alias": "MVIR1-HS357-D10ETA1-MNGS2_286293_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "7448291",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/068/SRR26629368/SRR26629368_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/068/SRR26629368/SRR26629368_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_112",
+     "patient": "HS357",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629366",
+     "sample_accession": "SAMN38050277",
+     "sample_alias": "MVIR1-HS357-D8ETA1-MNGS1_288340_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "154455",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/066/SRR26629366/SRR26629366_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/066/SRR26629366/SRR26629366_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_114",
+     "patient": "HS357",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629367",
+     "sample_accession": "SAMN38050276",
+     "sample_alias": "MVIR1-HS357-D6ETA1-MNGS1_286303_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "946446",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/067/SRR26629367/SRR26629367_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/067/SRR26629367/SRR26629367_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_113",
+     "patient": "HS357",
+     "status": "2BP"
+    }
+   ]
+  },
+  "HS292": {
+   "status": "2BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629375",
+     "sample_accession": "SAMN38050269",
+     "sample_alias": "MVIR1-HS292-D15ETA1-MNGS2_286209_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "16564",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/075/SRR26629375/SRR26629375_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/075/SRR26629375/SRR26629375_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_106",
+     "patient": "HS292",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629374",
+     "sample_accession": "SAMN38050270",
+     "sample_alias": "MVIR1-HS292-D18ETA1-MNGS1_286210_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "5470680",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/074/SRR26629374/SRR26629374_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/074/SRR26629374/SRR26629374_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_107",
+     "patient": "HS292",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629373",
+     "sample_accession": "SAMN38050271",
+     "sample_alias": "MVIR1-HS292-D19ETA1-MNGS1_288330_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "17292",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/073/SRR26629373/SRR26629373_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/073/SRR26629373/SRR26629373_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_108",
+     "patient": "HS292",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629376",
+     "sample_accession": "SAMN38050268",
+     "sample_alias": "MVIR1-HS292-D14ETA1-MNGS1_286208_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "3310",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/076/SRR26629376/SRR26629376_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/076/SRR26629376/SRR26629376_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_105",
+     "patient": "HS292",
+     "status": "2BP"
+    }
+   ]
+  },
+  "HS290": {
+   "status": "No-BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629377",
+     "sample_accession": "SAMN38050267",
+     "sample_alias": "MVIR1-HS290-D9ETA1-MNGS1_288329_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "345624",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/077/SRR26629377/SRR26629377_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/077/SRR26629377/SRR26629377_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_104",
+     "patient": "HS290",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629378",
+     "sample_accession": "SAMN38050266",
+     "sample_alias": "MVIR1-HS290-D8ETA1-MNGS1_288328_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "3389800",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/078/SRR26629378/SRR26629378_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/078/SRR26629378/SRR26629378_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_103",
+     "patient": "HS290",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629379",
+     "sample_accession": "SAMN38050265",
+     "sample_alias": "MVIR1-HS290-D6ETA1-MNGS2_286197_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1023968",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/079/SRR26629379/SRR26629379_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/079/SRR26629379/SRR26629379_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_102",
+     "patient": "HS290",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629381",
+     "sample_accession": "SAMN38050264",
+     "sample_alias": "MVIR1-HS290-D5ETA1-MNGS2_286196_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "28249",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/081/SRR26629381/SRR26629381_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/081/SRR26629381/SRR26629381_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_101",
+     "patient": "HS290",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618557",
+     "sample_accession": "SAMN38041977",
+     "sample_alias": "MVIR1-HS290-D7NAS1-MNGS1_286199_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "206603",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/057/SRR26618557/SRR26618557_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/057/SRR26618557/SRR26618557_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_035",
+     "patient": "HS290",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618558",
+     "sample_accession": "SAMN38041976",
+     "sample_alias": "MVIR1-HS290-D14NAS1-MNGS1_286195_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "175483",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/058/SRR26618558/SRR26618558_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/058/SRR26618558/SRR26618558_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_034",
+     "patient": "HS290",
+     "status": "No-BP"
+    }
+   ]
+  },
+  "HS78": {
+   "status": "No-BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629392",
+     "sample_accession": "SAMN38050336",
+     "sample_alias": "MVIR1-HS78-D4ETA1-MNGS1_286773_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "69611",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/092/SRR26629392/SRR26629392_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/092/SRR26629392/SRR26629392_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_173",
+     "patient": "HS78",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629393",
+     "sample_accession": "SAMN38050335",
+     "sample_alias": "MVIR1-HS78-D1ETA1-MNGS1_286770_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "16880",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/093/SRR26629393/SRR26629393_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/093/SRR26629393/SRR26629393_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_172",
+     "patient": "HS78",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629391",
+     "sample_accession": "SAMN38050337",
+     "sample_alias": "MVIR1-HS78-D6ETA1-MNGS1_286774_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "11004",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/091/SRR26629391/SRR26629391_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/091/SRR26629391/SRR26629391_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_174",
+     "patient": "HS78",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629394",
+     "sample_accession": "SAMN38050334",
+     "sample_alias": "MVIR1-HS78-D0ETA1-MNGS1_286765_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "67537",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/094/SRR26629394/SRR26629394_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/094/SRR26629394/SRR26629394_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_171",
+     "patient": "HS78",
+     "status": "No-BP"
+    }
+   ]
+  },
+  "HS72": {
+   "status": "No-BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629397",
+     "sample_accession": "SAMN38050332",
+     "sample_alias": "MVIR1-HS72-D14ETA1-MNGS1_286747_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "39479",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/097/SRR26629397/SRR26629397_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/097/SRR26629397/SRR26629397_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_169",
+     "patient": "HS72",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618512",
+     "sample_accession": "SAMN38042018",
+     "sample_alias": "MVIR1-HS72-D28NAS1-MNGS1_286753_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "59879",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/012/SRR26618512/SRR26618512_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/012/SRR26618512/SRR26618512_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_076",
+     "patient": "HS72",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629396",
+     "sample_accession": "SAMN38050333",
+     "sample_alias": "MVIR1-HS72-D15ETA1-MNGS1_286748_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "65018",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/096/SRR26629396/SRR26629396_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/096/SRR26629396/SRR26629396_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_170",
+     "patient": "HS72",
+     "status": "No-BP"
+    }
+   ]
+  },
+  "HS548": {
+   "status": "2BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629410",
+     "sample_accession": "SAMN38050320",
+     "sample_alias": "MVIR1-HS548-D1ETA1-MNGS1_286700_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "2505552",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/010/SRR26629410/SRR26629410_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/010/SRR26629410/SRR26629410_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_157",
+     "patient": "HS548",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629409",
+     "sample_accession": "SAMN38050321",
+     "sample_alias": "MVIR1-HS548-D6ETA1-MNGS1_286702_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "557562",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/009/SRR26629409/SRR26629409_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/009/SRR26629409/SRR26629409_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_158",
+     "patient": "HS548",
+     "status": "2BP"
+    }
+   ]
+  },
+  "HS542": {
+   "status": "No-BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629413",
+     "sample_accession": "SAMN38050317",
+     "sample_alias": "MVIR1-HS542-D1ETA1-MNGS1_286692_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "6126745",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/013/SRR26629413/SRR26629413_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/013/SRR26629413/SRR26629413_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_154",
+     "patient": "HS542",
+     "status": "No-BP"
+    }
+   ]
+  },
+  "HS115": {
+   "status": "No-BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629416",
+     "sample_accession": "SAMN38050174",
+     "sample_alias": "MVIR1-HS115-D20ETA1-MNGS1_285685_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "3906587",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/016/SRR26629416/SRR26629416_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/016/SRR26629416/SRR26629416_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_011",
+     "patient": "HS115",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629272",
+     "sample_accession": "SAMN38050173",
+     "sample_alias": "MVIR1-HS115-D17ETA1-MNGS1_285683_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "168357",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/072/SRR26629272/SRR26629272_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/072/SRR26629272/SRR26629272_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_010",
+     "patient": "HS115",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629283",
+     "sample_accession": "SAMN38050172",
+     "sample_alias": "MVIR1-HS115-D16ETA1-MNGS1_285682_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "367488",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/083/SRR26629283/SRR26629283_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/083/SRR26629283/SRR26629283_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_009",
+     "patient": "HS115",
+     "status": "No-BP"
+    }
+   ]
+  },
+  "HS499": {
+   "status": "2BP",
+   "runs": [
+    {
+     "run_accession": "SRR26618525",
+     "sample_accession": "SAMN38042006",
+     "sample_alias": "MVIR1-HS499-D14NAS1-MNGS1_286576_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "2672019",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/025/SRR26618525/SRR26618525_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/025/SRR26618525/SRR26618525_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_064",
+     "patient": "HS499",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26618526",
+     "sample_accession": "SAMN38042005",
+     "sample_alias": "MVIR1-HS499-D0NAS1-MNGS1_286575_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "699835",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/026/SRR26618526/SRR26618526_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/026/SRR26618526/SRR26618526_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_063",
+     "patient": "HS499",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629305",
+     "sample_accession": "SAMN38050307",
+     "sample_alias": "MVIR1-HS499-D6ETA1-MNGS1_286577_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "6828871",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/005/SRR26629305/SRR26629305_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/005/SRR26629305/SRR26629305_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_144",
+     "patient": "HS499",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26618524",
+     "sample_accession": "SAMN38042007",
+     "sample_alias": "MVIR1-HS499-D7NAS1-MNGS1_286578_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "11578344",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/024/SRR26618524/SRR26618524_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/024/SRR26618524/SRR26618524_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_065",
+     "patient": "HS499",
+     "status": "2BP"
+    }
+   ]
+  },
+  "HS473": {
+   "status": "2BP",
+   "runs": [
+    {
+     "run_accession": "SRR26618538",
+     "sample_accession": "SAMN38041994",
+     "sample_alias": "MVIR1-HS473-D7NAS1-MNGS1_286521_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1169576",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/038/SRR26618538/SRR26618538_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/038/SRR26618538/SRR26618538_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_052",
+     "patient": "HS473",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629314",
+     "sample_accession": "SAMN38050299",
+     "sample_alias": "MVIR1-HS473-D4ETA1-MNGS1_286519_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "475668",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/014/SRR26629314/SRR26629314_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/014/SRR26629314/SRR26629314_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_136",
+     "patient": "HS473",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26618539",
+     "sample_accession": "SAMN38041993",
+     "sample_alias": "MVIR1-HS473-D4NAS1-MNGS1_286520_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "2542494",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/039/SRR26618539/SRR26618539_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/039/SRR26618539/SRR26618539_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_051",
+     "patient": "HS473",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26618541",
+     "sample_accession": "SAMN38041992",
+     "sample_alias": "MVIR1-HS473-D0NAS1-MNGS1_286517_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "3099292",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/041/SRR26618541/SRR26618541_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/041/SRR26618541/SRR26618541_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_050",
+     "patient": "HS473",
+     "status": "2BP"
+    }
+   ]
+  },
+  "HS253": {
+   "status": "No-BP",
+   "runs": [
+    {
+     "run_accession": "SRR26618567",
+     "sample_accession": "SAMN38041968",
+     "sample_alias": "MVIR1-HS253-D0NAS1-MNGS1_286101_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "76983",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/067/SRR26618567/SRR26618567_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/067/SRR26618567/SRR26618567_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_026",
+     "patient": "HS253",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618565",
+     "sample_accession": "SAMN38041970",
+     "sample_alias": "MVIR1-HS253-D4NAS1-MNGS1_286106_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "221958",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/065/SRR26618565/SRR26618565_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/065/SRR26618565/SRR26618565_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_028",
+     "patient": "HS253",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629270",
+     "sample_accession": "SAMN38050255",
+     "sample_alias": "MVIR1-HS253-D3ETA1-MNGS1_286105_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "157592",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/070/SRR26629270/SRR26629270_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/070/SRR26629270/SRR26629270_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_092",
+     "patient": "HS253",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629271",
+     "sample_accession": "SAMN38050254",
+     "sample_alias": "MVIR1-HS253-D1ETA1-MNGS1_286102_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "2063055",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/071/SRR26629271/SRR26629271_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/071/SRR26629271/SRR26629271_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_091",
+     "patient": "HS253",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629387",
+     "sample_accession": "SAMN38050257",
+     "sample_alias": "MVIR1-HS253-D7ETA1-MNGS1_286108_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "39082",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/087/SRR26629387/SRR26629387_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/087/SRR26629387/SRR26629387_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_094",
+     "patient": "HS253",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618566",
+     "sample_accession": "SAMN38041969",
+     "sample_alias": "MVIR1-HS253-D21NAS1-MNGS1_286103_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "18886",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/066/SRR26618566/SRR26618566_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/066/SRR26618566/SRR26618566_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_027",
+     "patient": "HS253",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629269",
+     "sample_accession": "SAMN38050256",
+     "sample_alias": "MVIR1-HS253-D5ETA1-MNGS1_286107_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "3834027",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/069/SRR26629269/SRR26629269_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/069/SRR26629269/SRR26629269_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_093",
+     "patient": "HS253",
+     "status": "No-BP"
+    }
+   ]
+  },
+  "HS231": {
+   "status": "2BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629248",
+     "sample_accession": "SAMN38050224",
+     "sample_alias": "MVIR1-HS231-D4ETA1-MNGS1_285985_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "499688",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/048/SRR26629248/SRR26629248_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/048/SRR26629248/SRR26629248_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_061",
+     "patient": "HS231",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629251",
+     "sample_accession": "SAMN38050222",
+     "sample_alias": "MVIR1-HS231-D2ETA1-MNGS1_285983_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "4867717",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/051/SRR26629251/SRR26629251_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/051/SRR26629251/SRR26629251_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_059",
+     "patient": "HS231",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629246",
+     "sample_accession": "SAMN38050226",
+     "sample_alias": "MVIR1-HS231-D9ETA1-MNGS1_285988_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "557937",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/046/SRR26629246/SRR26629246_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/046/SRR26629246/SRR26629246_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_063",
+     "patient": "HS231",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629252",
+     "sample_accession": "SAMN38050221",
+     "sample_alias": "MVIR1-HS231-D1ETA1-MNGS1_285981_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "889178",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/052/SRR26629252/SRR26629252_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/052/SRR26629252/SRR26629252_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_058",
+     "patient": "HS231",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629247",
+     "sample_accession": "SAMN38050225",
+     "sample_alias": "MVIR1-HS231-D7ETA1-MNGS1_285986_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "2585549",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/047/SRR26629247/SRR26629247_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/047/SRR26629247/SRR26629247_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_062",
+     "patient": "HS231",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629250",
+     "sample_accession": "SAMN38050223",
+     "sample_alias": "MVIR1-HS231-D3ETA1-MNGS1_285984_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "4965990",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/050/SRR26629250/SRR26629250_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/050/SRR26629250/SRR26629250_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_060",
+     "patient": "HS231",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629253",
+     "sample_accession": "SAMN38050220",
+     "sample_alias": "MVIR1-HS231-D0ETA1-MNGS1_285978_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "2759980",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/053/SRR26629253/SRR26629253_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/053/SRR26629253/SRR26629253_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_057",
+     "patient": "HS231",
+     "status": "2BP"
+    }
+   ]
+  },
+  "HS223": {
+   "status": "No-BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629254",
+     "sample_accession": "SAMN38050219",
+     "sample_alias": "MVIR1-HS223-D3ETA1-MNGS1_285973_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "177434",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/054/SRR26629254/SRR26629254_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/054/SRR26629254/SRR26629254_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_056",
+     "patient": "HS223",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629255",
+     "sample_accession": "SAMN38050218",
+     "sample_alias": "MVIR1-HS223-D2ETA1-MNGS1_285972_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "122418",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/055/SRR26629255/SRR26629255_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/055/SRR26629255/SRR26629255_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_055",
+     "patient": "HS223",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629256",
+     "sample_accession": "SAMN38050217",
+     "sample_alias": "MVIR1-HS223-D1ETA1-MNGS1_285971_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "264922",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/056/SRR26629256/SRR26629256_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/056/SRR26629256/SRR26629256_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_054",
+     "patient": "HS223",
+     "status": "No-BP"
+    }
+   ]
+  },
+  "HS2": {
+   "status": "No-BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629264",
+     "sample_accession": "SAMN38050210",
+     "sample_alias": "MVIR1-HS2-D2ETA1-MNGS1_285913_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "12262",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/064/SRR26629264/SRR26629264_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/064/SRR26629264/SRR26629264_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_047",
+     "patient": "HS2",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629265",
+     "sample_accession": "SAMN38050209",
+     "sample_alias": "MVIR1-HS2-D1ETA1-MNGS1_285912_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "166368",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/065/SRR26629265/SRR26629265_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/065/SRR26629265/SRR26629265_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_046",
+     "patient": "HS2",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618581",
+     "sample_accession": "SAMN38041955",
+     "sample_alias": "MVIR1-HS2-D0NAS1-MNGS1_285911_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "715053",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/081/SRR26618581/SRR26618581_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/081/SRR26618581/SRR26618581_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_013",
+     "patient": "HS2",
+     "status": "No-BP"
+    }
+   ]
+  },
+  "HS521": {
+   "status": "2BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629299",
+     "sample_accession": "SAMN38050313",
+     "sample_alias": "MVIR1-HS521-D3ETA1-MNGS1_286663_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "6649153",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/099/SRR26629299/SRR26629299_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/099/SRR26629299/SRR26629299_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_150",
+     "patient": "HS521",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26618522",
+     "sample_accession": "SAMN38042009",
+     "sample_alias": "MVIR1-HS521-D4NAS1-MNGS1_286664_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "6705624",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/022/SRR26618522/SRR26618522_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/022/SRR26618522/SRR26618522_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_067",
+     "patient": "HS521",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629297",
+     "sample_accession": "SAMN38050314",
+     "sample_alias": "MVIR1-HS521-D8ETA1-MNGS1_286665_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "316364",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/097/SRR26629297/SRR26629297_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/097/SRR26629297/SRR26629297_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_151",
+     "patient": "HS521",
+     "status": "2BP"
+    }
+   ]
+  },
+  "HS474": {
+   "status": "2BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629313",
+     "sample_accession": "SAMN38050300",
+     "sample_alias": "MVIR1-HS474-D7ETA1-MNGS1_286526_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "235504",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/013/SRR26629313/SRR26629313_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/013/SRR26629313/SRR26629313_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_137",
+     "patient": "HS474",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26618537",
+     "sample_accession": "SAMN38041995",
+     "sample_alias": "MVIR1-HS474-D0NAS1-MNGS1_286522_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1008411",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/037/SRR26618537/SRR26618537_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/037/SRR26618537/SRR26618537_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_053",
+     "patient": "HS474",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26618535",
+     "sample_accession": "SAMN38041997",
+     "sample_alias": "MVIR1-HS474-D7NAS1-MNGS1_286527_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1957969",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/035/SRR26618535/SRR26618535_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/035/SRR26618535/SRR26618535_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_055",
+     "patient": "HS474",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26618536",
+     "sample_accession": "SAMN38041996",
+     "sample_alias": "MVIR1-HS474-D4NAS1-MNGS1_286525_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1516359",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/036/SRR26618536/SRR26618536_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/036/SRR26618536/SRR26618536_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_054",
+     "patient": "HS474",
+     "status": "2BP"
+    }
+   ]
+  },
+  "HS450": {
+   "status": "No-BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629355",
+     "sample_accession": "SAMN38050287",
+     "sample_alias": "MVIR1-HS450-D0ETA1-MNGS1_286468_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "300706",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/055/SRR26629355/SRR26629355_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/055/SRR26629355/SRR26629355_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_124",
+     "patient": "HS450",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618548",
+     "sample_accession": "SAMN38041985",
+     "sample_alias": "MVIR1-HS450-D4NAS1-MNGS1_286471_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "7367630",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/048/SRR26618548/SRR26618548_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/048/SRR26618548/SRR26618548_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_043",
+     "patient": "HS450",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618547",
+     "sample_accession": "SAMN38041986",
+     "sample_alias": "MVIR1-HS450-D7NAS1-MNGS1_286472_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "3398423",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/047/SRR26618547/SRR26618547_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/047/SRR26618547/SRR26618547_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_044",
+     "patient": "HS450",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618549",
+     "sample_accession": "SAMN38041984",
+     "sample_alias": "MVIR1-HS450-D0NAS1-MNGS1_286469_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "487410",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/049/SRR26618549/SRR26618549_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/049/SRR26618549/SRR26618549_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_042",
+     "patient": "HS450",
+     "status": "No-BP"
+    }
+   ]
+  },
+  "HS55": {
+   "status": "No-BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629401",
+     "sample_accession": "SAMN38050328",
+     "sample_alias": "MVIR1-HS55-D7ETA1-MNGS1_286715_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "725819",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/001/SRR26629401/SRR26629401_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/001/SRR26629401/SRR26629401_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_165",
+     "patient": "HS55",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629402",
+     "sample_accession": "SAMN38050327",
+     "sample_alias": "MVIR1-HS55-D6ETA1-MNGS1_286714_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "132952",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/002/SRR26629402/SRR26629402_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/002/SRR26629402/SRR26629402_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_164",
+     "patient": "HS55",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629403",
+     "sample_accession": "SAMN38050326",
+     "sample_alias": "MVIR1-HS55-D5ETA1-MNGS1_286713_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "44372",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/003/SRR26629403/SRR26629403_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/003/SRR26629403/SRR26629403_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_163",
+     "patient": "HS55",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629407",
+     "sample_accession": "SAMN38050323",
+     "sample_alias": "MVIR1-HS55-D14ETA1-MNGS1_286705_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "63252",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/007/SRR26629407/SRR26629407_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/007/SRR26629407/SRR26629407_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_160",
+     "patient": "HS55",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629408",
+     "sample_accession": "SAMN38050322",
+     "sample_alias": "MVIR1-HS55-D12ETA1-MNGS1_286703_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "8208",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/008/SRR26629408/SRR26629408_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/008/SRR26629408/SRR26629408_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_159",
+     "patient": "HS55",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629400",
+     "sample_accession": "SAMN38050329",
+     "sample_alias": "MVIR1-HS55-D8ETA1-MNGS1_286716_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "2415781",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/000/SRR26629400/SRR26629400_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/000/SRR26629400/SRR26629400_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_166",
+     "patient": "HS55",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629399",
+     "sample_accession": "SAMN38050330",
+     "sample_alias": "MVIR1-HS55-D9ETA1-MNGS1_286717_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "21200",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/099/SRR26629399/SRR26629399_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/099/SRR26629399/SRR26629399_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_167",
+     "patient": "HS55",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629404",
+     "sample_accession": "SAMN38050325",
+     "sample_alias": "MVIR1-HS55-D27ETA1-MNGS1_286712_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "145651",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/004/SRR26629404/SRR26629404_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/004/SRR26629404/SRR26629404_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_162",
+     "patient": "HS55",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629405",
+     "sample_accession": "SAMN38050324",
+     "sample_alias": "MVIR1-HS55-D15ETA1-MNGS1_286706_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "11338",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/005/SRR26629405/SRR26629405_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/005/SRR26629405/SRR26629405_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_161",
+     "patient": "HS55",
+     "status": "No-BP"
+    }
+   ]
+  },
+  "HS546": {
+   "status": "No-BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629411",
+     "sample_accession": "SAMN38050319",
+     "sample_alias": "MVIR1-HS546-D1ETA1-MNGS1_286699_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "10229826",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/011/SRR26629411/SRR26629411_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/011/SRR26629411/SRR26629411_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_156",
+     "patient": "HS546",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618514",
+     "sample_accession": "SAMN38042016",
+     "sample_alias": "MVIR1-HS546-D14NAS1-MNGS1_286698_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "171015",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/014/SRR26618514/SRR26618514_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/014/SRR26618514/SRR26618514_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_074",
+     "patient": "HS546",
+     "status": "No-BP"
+    }
+   ]
+  },
+  "HS498": {
+   "status": "No-BP",
+   "runs": [
+    {
+     "run_accession": "SRR26618531",
+     "sample_accession": "SAMN38042001",
+     "sample_alias": "MVIR1-HS498-D0NAS1-MNGS1_286568_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "2137935",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/031/SRR26618531/SRR26618531_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/031/SRR26618531/SRR26618531_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_059",
+     "patient": "HS498",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629306",
+     "sample_accession": "SAMN38050306",
+     "sample_alias": "MVIR1-HS498-D6ETA1-MNGS1_286573_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "10053173",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/006/SRR26629306/SRR26629306_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/006/SRR26629306/SRR26629306_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_143",
+     "patient": "HS498",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629308",
+     "sample_accession": "SAMN38050304",
+     "sample_alias": "MVIR1-HS498-D10ETA1-MNGS1_286569_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "8894198",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/008/SRR26629308/SRR26629308_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/008/SRR26629308/SRR26629308_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_141",
+     "patient": "HS498",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618527",
+     "sample_accession": "SAMN38042004",
+     "sample_alias": "MVIR1-HS498-D7NAS1-MNGS1_286574_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "6200663",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/027/SRR26618527/SRR26618527_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/027/SRR26618527/SRR26618527_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_062",
+     "patient": "HS498",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618528",
+     "sample_accession": "SAMN38042003",
+     "sample_alias": "MVIR1-HS498-D4NAS1-MNGS1_286572_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "2603061",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/028/SRR26618528/SRR26618528_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/028/SRR26618528/SRR26618528_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_061",
+     "patient": "HS498",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629307",
+     "sample_accession": "SAMN38050305",
+     "sample_alias": "MVIR1-HS498-D17ETA1-MNGS1_286571_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "13996427",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/007/SRR26629307/SRR26629307_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/007/SRR26629307/SRR26629307_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_142",
+     "patient": "HS498",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618530",
+     "sample_accession": "SAMN38042002",
+     "sample_alias": "MVIR1-HS498-D14NAS1-MNGS1_286570_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "4407881",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/030/SRR26618530/SRR26618530_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/030/SRR26618530/SRR26618530_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_060",
+     "patient": "HS498",
+     "status": "No-BP"
+    }
+   ]
+  },
+  "HS156": {
+   "status": "No-BP",
+   "runs": [
+    {
+     "run_accession": "SRR26618551",
+     "sample_accession": "SAMN38041947",
+     "sample_alias": "MVIR1-HS156-D4NAS1-MNGS1_285755_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "323557",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/051/SRR26618551/SRR26618551_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/051/SRR26618551/SRR26618551_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_005",
+     "patient": "HS156",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629344",
+     "sample_accession": "SAMN38050188",
+     "sample_alias": "MVIR1-HS156-D0ETA1-MNGS1_285752_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "443824",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/044/SRR26629344/SRR26629344_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/044/SRR26629344/SRR26629344_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_025",
+     "patient": "HS156",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618562",
+     "sample_accession": "SAMN38041946",
+     "sample_alias": "MVIR1-HS156-D0NAS1-MNGS1_285753_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1954224",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/062/SRR26618562/SRR26618562_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/062/SRR26618562/SRR26618562_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_004",
+     "patient": "HS156",
+     "status": "No-BP"
+    }
+   ]
+  },
+  "HS427": {
+   "status": "2BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629358",
+     "sample_accession": "SAMN38050284",
+     "sample_alias": "MVIR1-HS427-D7ETA1-MNGS1_286433_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "5814579",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/058/SRR26629358/SRR26629358_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/058/SRR26629358/SRR26629358_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_121",
+     "patient": "HS427",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629360",
+     "sample_accession": "SAMN38050283",
+     "sample_alias": "MVIR1-HS427-D10ETA1-MNGS1_286431_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "871884",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/060/SRR26629360/SRR26629360_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/060/SRR26629360/SRR26629360_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_120",
+     "patient": "HS427",
+     "status": "2BP"
+    }
+   ]
+  },
+  "HS419": {
+   "status": "2BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629362",
+     "sample_accession": "SAMN38050281",
+     "sample_alias": "MVIR1-HS419-D3ETA1-MNGS1_286428_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "2454204",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/062/SRR26629362/SRR26629362_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/062/SRR26629362/SRR26629362_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_118",
+     "patient": "HS419",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629361",
+     "sample_accession": "SAMN38050282",
+     "sample_alias": "MVIR1-HS419-D5ETA1-MNGS1_286429_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "3730667",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/061/SRR26629361/SRR26629361_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/061/SRR26629361/SRR26629361_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_119",
+     "patient": "HS419",
+     "status": "2BP"
+    }
+   ]
+  },
+  "HS320": {
+   "status": "No-BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629372",
+     "sample_accession": "SAMN38050272",
+     "sample_alias": "MVIR1-HS320-D10ETA1-MNGS1_288331_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1495",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/072/SRR26629372/SRR26629372_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/072/SRR26629372/SRR26629372_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_109",
+     "patient": "HS320",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629369",
+     "sample_accession": "SAMN38050274",
+     "sample_alias": "MVIR1-HS320-D6ETA1-MNGS1_286254_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1321951",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/069/SRR26629369/SRR26629369_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/069/SRR26629369/SRR26629369_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_111",
+     "patient": "HS320",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629371",
+     "sample_accession": "SAMN38050273",
+     "sample_alias": "MVIR1-HS320-D5ETA1-MNGS1_286253_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "211301",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/071/SRR26629371/SRR26629371_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/071/SRR26629371/SRR26629371_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_110",
+     "patient": "HS320",
+     "status": "No-BP"
+    }
+   ]
+  },
+  "HS97": {
+   "status": "No-BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629388",
+     "sample_accession": "SAMN38050340",
+     "sample_alias": "MVIR1-HS97-D8ETA1-MNGS1_286802_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "212136",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/088/SRR26629388/SRR26629388_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/088/SRR26629388/SRR26629388_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_177",
+     "patient": "HS97",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629352",
+     "sample_accession": "SAMN38050341",
+     "sample_alias": "MVIR1-HS97-D9ETA1-MNGS1_286803_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "2043377",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/052/SRR26629352/SRR26629352_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/052/SRR26629352/SRR26629352_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_178",
+     "patient": "HS97",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629389",
+     "sample_accession": "SAMN38050339",
+     "sample_alias": "MVIR1-HS97-D10ETA1-MNGS1_286799_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "19992",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/089/SRR26629389/SRR26629389_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/089/SRR26629389/SRR26629389_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_176",
+     "patient": "HS97",
+     "status": "No-BP"
+    }
+   ]
+  },
+  "HS545": {
+   "status": "No-BP",
+   "runs": [
+    {
+     "run_accession": "SRR26618515",
+     "sample_accession": "SAMN38042015",
+     "sample_alias": "MVIR1-HS545-D7NAS1-MNGS1_286697_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1893012",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/015/SRR26618515/SRR26618515_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/015/SRR26618515/SRR26618515_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_073",
+     "patient": "HS545",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618516",
+     "sample_accession": "SAMN38042014",
+     "sample_alias": "MVIR1-HS545-D4NAS1-MNGS1_286695_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1685595",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/016/SRR26618516/SRR26618516_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/016/SRR26618516/SRR26618516_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_072",
+     "patient": "HS545",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618517",
+     "sample_accession": "SAMN38042013",
+     "sample_alias": "MVIR1-HS545-D0NAS1-MNGS1_286694_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "2107859",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/017/SRR26618517/SRR26618517_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/017/SRR26618517/SRR26618517_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_071",
+     "patient": "HS545",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629412",
+     "sample_accession": "SAMN38050318",
+     "sample_alias": "MVIR1-HS545-D7ETA1-MNGS1_286696_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1140820",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/012/SRR26629412/SRR26629412_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/012/SRR26629412/SRR26629412_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_155",
+     "patient": "HS545",
+     "status": "No-BP"
+    }
+   ]
+  },
+  "HS556": {
+   "status": "No-BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629398",
+     "sample_accession": "SAMN38050331",
+     "sample_alias": "MVIR1-HS556-D1ETA1-MNGS1_286721_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "9577425",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/098/SRR26629398/SRR26629398_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/098/SRR26629398/SRR26629398_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_168",
+     "patient": "HS556",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618513",
+     "sample_accession": "SAMN38042017",
+     "sample_alias": "MVIR1-HS556-D4NAS1-MNGS1_286722_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "9647335",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/013/SRR26618513/SRR26618513_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/013/SRR26618513/SRR26618513_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_075",
+     "patient": "HS556",
+     "status": "No-BP"
+    }
+   ]
+  },
+  "HS168": {
+   "status": "No-BP",
+   "runs": [
+    {
+     "run_accession": "SRR26618510",
+     "sample_accession": "SAMN38041952",
+     "sample_alias": "MVIR1-HS168-D4NAS1-MNGS1_285801_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "715863",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/010/SRR26618510/SRR26618510_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/010/SRR26618510/SRR26618510_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_010",
+     "patient": "HS168",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26618511",
+     "sample_accession": "SAMN38041951",
+     "sample_alias": "MVIR1-HS168-D0NAS1-MNGS2_285800_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "4236758",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/011/SRR26618511/SRR26618511_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/011/SRR26618511/SRR26618511_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_009",
+     "patient": "HS168",
+     "status": "No-BP"
+    },
+    {
+     "run_accession": "SRR26629331",
+     "sample_accession": "SAMN38050200",
+     "sample_alias": "MVIR1-HS168-D0ETA1-MNGS1_285799_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1466796",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/031/SRR26629331/SRR26629331_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/031/SRR26629331/SRR26629331_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_037",
+     "patient": "HS168",
+     "status": "No-BP"
+    }
+   ]
+  },
+  "HS172": {
+   "status": "2BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629328",
+     "sample_accession": "SAMN38050203",
+     "sample_alias": "MVIR1-HS172-D8ETA1-MNGS1_285811_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "1927438",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/028/SRR26629328/SRR26629328_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/028/SRR26629328/SRR26629328_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_040",
+     "patient": "HS172",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629329",
+     "sample_accession": "SAMN38050202",
+     "sample_alias": "MVIR1-HS172-D7ETA1-MNGS1_285810_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "158292",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/029/SRR26629329/SRR26629329_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/029/SRR26629329/SRR26629329_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_039",
+     "patient": "HS172",
+     "status": "2BP"
+    },
+    {
+     "run_accession": "SRR26629330",
+     "sample_accession": "SAMN38050201",
+     "sample_alias": "MVIR1-HS172-D5ETA1-MNGS1_285808_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "307642",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/030/SRR26629330/SRR26629330_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/030/SRR26629330/SRR26629330_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_038",
+     "patient": "HS172",
+     "status": "2BP"
+    }
+   ]
+  },
+  "HS94": {
+   "status": "No-BP",
+   "runs": [
+    {
+     "run_accession": "SRR26629390",
+     "sample_accession": "SAMN38050338",
+     "sample_alias": "MVIR1-HS94-D20ETA1-MNGS1_286792_reads_nh",
+     "library_strategy": "RNA-Seq",
+     "read_count": "518539",
+     "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/090/SRR26629390/SRR26629390_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR266/090/SRR26629390/SRR26629390_2.fastq.gz",
+     "experiment_title": "Illumina NovaSeq 6000 sequencing: sample_175",
+     "patient": "HS94",
+     "status": "No-BP"
+    }
+   ]
+  }
+ }
+}

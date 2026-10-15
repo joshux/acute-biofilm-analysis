@@ -1,0 +1,132 @@
+{
+ "pseu": {
+  "acc": "GCF_000006765.1",
+  "classes": {
+   "og": 5469,
+   "rp": 61,
+   "matrix": 43
+  },
+  "systems": {
+   "alginate(EPS)": 22,
+   "psl(EPS)": 14,
+   "pel(EPS)": 7
+  },
+  "n_systems": 3,
+  "n_eps_systems": 3,
+  "matrix_genes": 43
+ },
+ "kleb": {
+  "acc": "GCF_000240185.1",
+  "classes": {
+   "og": 5694,
+   "rp": 60,
+   "matrix": 25
+  },
+  "systems": {
+   "pga(EPS)": 2,
+   "fim(PROTEIN)": 4,
+   "ecp(PROTEIN)": 2,
+   "bcs(EPS)": 11,
+   "cps(EPS)": 1,
+   "capsule(EPS)": 3,
+   "mrk(PROTEIN)": 2
+  },
+  "n_systems": 7,
+  "n_eps_systems": 4,
+  "matrix_genes": 25
+ },
+ "ecoli": {
+  "acc": "GCF_000005845.2",
+  "classes": {
+   "og": 4239,
+   "rp": 67,
+   "matrix": 34
+  },
+  "systems": {
+   "ecp(PROTEIN)": 5,
+   "fim(PROTEIN)": 10,
+   "csg(PROTEIN)": 8,
+   "pga(EPS)": 4,
+   "bcs(EPS)": 7
+  },
+  "n_systems": 5,
+  "n_eps_systems": 2,
+  "matrix_genes": 34
+ },
+ "staph": {
+  "acc": "GCF_000013425.1",
+  "classes": {
+   "og": 2704,
+   "rp": 57,
+   "matrix": 6
+  },
+  "systems": {
+   "fnb(PROTEIN)": 4,
+   "ica(EPS)": 2
+  },
+  "n_systems": 2,
+  "n_eps_systems": 1,
+  "matrix_genes": 6
+ },
+ "acine": {
+  "acc": "GCF_026167805.1",
+  "classes": {
+   "og": 3710,
+   "rp": 60,
+   "matrix": 16
+  },
+  "systems": {
+   "csu(PROTEIN)": 8,
+   "pga(EPS)": 8
+  },
+  "n_systems": 2,
+  "n_eps_systems": 1,
+  "matrix_genes": 16
+ },
+ "haemo": {
+  "acc": "GCF_000012185.1",
+  "classes": {
+   "og": 1747,
+   "rp": 59,
+   "matrix": 36
+  },
+  "systems": {
+   "adhesin(PROTEIN)": 34,
+   "hmw(PROTEIN)": 2
+  },
+  "n_systems": 2,
+  "n_eps_systems": 0,
+  "matrix_genes": 36
+ },
+ "strep": {
+  "acc": "GCF_000006885.1",
+  "classes": {
+   "og": 2062,
+   "rp": 58,
+   "matrix": 26
+  },
+  "systems": {
+   "psa(PROTEIN)": 5,
+   "cps(EPS)": 12,
+   "cbp(PROTEIN)": 9
+  },
+  "n_systems": 3,
+  "n_eps_systems": 1,
+  "matrix_genes": 26
+ },
+ "steno": {
+  "acc": "GCF_000072485.1",
+  "classes": {
+   "og": 4362,
+   "rp": 62,
+   "matrix": 13
+  },
+  "systems": {
+   "fimbriae(PROTEIN)": 12,
+   "qs(REG)": 1
+  },
+  "n_systems": 2,
+  "n_eps_systems": 0,
+  "matrix_genes": 13
+ }
+}

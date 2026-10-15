@@ -1,0 +1,34 @@
+{
+ "srr": "SRR6833317",
+ "dominant": "acinetobacter",
+ "org": "acine",
+ "genus_counts": {
+  "acinetobacter": 41293,
+  "pseudomonas": 4084,
+  "klebsiella": 52,
+  "escherichia": 4,
+  "haemophilus": 1
+ },
+ "target_reads": 43352,
+ "rrna": 16293,
+ "coding": 27059,
+ "rp": 1172,
+ "decoy": 200,
+ "pctRP": 4.33,
+ "matrix_systems": {
+  "pga": 25,
+  "csu": 13
+ },
+ "systems_on": [
+  "csu",
+  "pga"
+ ],
+ "eps_on": [
+  "pga"
+ ],
+ "prot_on": [
+  "csu"
+ ],
+ "matrix_on": true,
+ "matrix_on_eps": false
+}

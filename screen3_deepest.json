@@ -1,0 +1,719 @@
+{
+ "HS498": {
+  "srr": "SRR26629307",
+  "status": "No-BP",
+  "dom": "stenotrophomonas",
+  "counts": {
+   "stenotrophomonas": 3169,
+   "staphylococcus": 911,
+   "klebsiella": 2,
+   "pseudomonas": 1,
+   "escherichia": 1
+  },
+  "total": 4084
+ },
+ "HS499": {
+  "srr": "SRR26618524",
+  "status": "2BP",
+  "dom": "staphylococcus",
+  "counts": {
+   "staphylococcus": 32,
+   "streptococcus": 7,
+   "klebsiella": 1,
+   "haemophilus": 1
+  },
+  "total": 41
+ },
+ "HS161": {
+  "srr": "SRR26618540",
+  "status": "2BP",
+  "dom": "pseudomonas",
+  "counts": {
+   "pseudomonas": 286,
+   "haemophilus": 2,
+   "streptococcus": 2
+  },
+  "total": 290
+ },
+ "HS546": {
+  "srr": "SRR26629411",
+  "status": "No-BP",
+  "dom": "streptococcus",
+  "counts": {
+   "streptococcus": 809,
+   "staphylococcus": 20
+  },
+  "total": 829
+ },
+ "HS441": {
+  "srr": "SRR26618550",
+  "status": "No-BP",
+  "dom": "streptococcus",
+  "counts": {
+   "streptococcus": 149,
+   "staphylococcus": 1,
+   "stenotrophomonas": 5,
+   "escherichia": 6,
+   "klebsiella": 4
+  },
+  "total": 165
+ },
+ "HS556": {
+  "srr": "SRR26618513",
+  "status": "No-BP",
+  "dom": "staphylococcus",
+  "counts": {
+   "staphylococcus": 208,
+   "stenotrophomonas": 2,
+   "pseudomonas": 41,
+   "streptococcus": 9
+  },
+  "total": 260
+ },
+ "HS250": {
+  "srr": "SRR26629275",
+  "status": "2BP",
+  "dom": "pseudomonas",
+  "counts": {
+   "pseudomonas": 1345,
+   "escherichia": 8,
+   "klebsiella": 2
+  },
+  "total": 1355
+ },
+ "HS236": {
+  "srr": "SRR26618575",
+  "status": "2BP",
+  "dom": "pseudomonas",
+  "counts": {
+   "pseudomonas": 1054,
+   "staphylococcus": 1,
+   "escherichia": 1
+  },
+  "total": 1056
+ },
+ "HS357": {
+  "srr": "SRR26629368",
+  "status": "2BP",
+  "dom": "escherichia",
+  "counts": {
+   "escherichia": 13,
+   "klebsiella": 4,
+   "streptococcus": 4,
+   "pseudomonas": 3,
+   "staphylococcus": 1,
+   "acinetobacter": 1
+  },
+  "total": 26
+ },
+ "HS450": {
+  "srr": "SRR26618548",
+  "status": "No-BP",
+  "dom": "streptococcus",
+  "counts": {
+   "streptococcus": 114,
+   "staphylococcus": 14,
+   "pseudomonas": 2,
+   "klebsiella": 1,
+   "stenotrophomonas": 1,
+   "escherichia": 1
+  },
+  "total": 133
+ },
+ "HS523": {
+  "srr": "SRR26618521",
+  "status": "No-BP",
+  "dom": "staphylococcus",
+  "counts": {
+   "escherichia": 1,
+   "staphylococcus": 100,
+   "pseudomonas": 87,
+   "klebsiella": 54,
+   "streptococcus": 14,
+   "acinetobacter": 14
+  },
+  "total": 270
+ },
+ "HS254": {
+  "srr": "SRR26629385",
+  "status": "2BP",
+  "dom": "staphylococcus",
+  "counts": {
+   "escherichia": 91,
+   "staphylococcus": 976,
+   "klebsiella": 98,
+   "pseudomonas": 32,
+   "streptococcus": 39,
+   "haemophilus": 14,
+   "stenotrophomonas": 1
+  },
+  "total": 1251
+ },
+ "HS145": {
+  "srr": "SRR26629370",
+  "status": "2BP",
+  "dom": "escherichia",
+  "counts": {
+   "escherichia": 3219,
+   "klebsiella": 309,
+   "staphylococcus": 49
+  },
+  "total": 3577
+ },
+ "HS521": {
+  "srr": "SRR26618522",
+  "status": "2BP",
+  "dom": "staphylococcus",
+  "counts": {
+   "staphylococcus": 181,
+   "streptococcus": 10,
+   "haemophilus": 14,
+   "klebsiella": 2,
+   "escherichia": 1
+  },
+  "total": 208
+ },
+ "HS196": {
+  "srr": "SRR26629325",
+  "status": "2BP",
+  "dom": "escherichia",
+  "counts": {
+   "escherichia": 3722,
+   "klebsiella": 18,
+   "pseudomonas": 1,
+   "staphylococcus": 3,
+   "streptococcus": 1
+  },
+  "total": 3745
+ },
+ "HS542": {
+  "srr": "SRR26629413",
+  "status": "No-BP",
+  "dom": "haemophilus",
+  "counts": {
+   "streptococcus": 1731,
+   "haemophilus": 2066,
+   "pseudomonas": 1,
+   "escherichia": 7,
+   "staphylococcus": 1
+  },
+  "total": 3806
+ },
+ "HS427": {
+  "srr": "SRR26629358",
+  "status": "2BP",
+  "dom": "klebsiella",
+  "counts": {
+   "staphylococcus": 98,
+   "klebsiella": 173,
+   "escherichia": 31,
+   "streptococcus": 8
+  },
+  "total": 310
+ },
+ "HS292": {
+  "srr": "SRR26629374",
+  "status": "2BP",
+  "dom": "escherichia",
+  "counts": {
+   "haemophilus": 5,
+   "stenotrophomonas": 4,
+   "klebsiella": 3,
+   "escherichia": 10,
+   "staphylococcus": 4,
+   "streptococcus": 2,
+   "pseudomonas": 1
+  },
+  "total": 29
+ },
+ "HS469": {
+  "srr": "SRR26629354",
+  "status": "No-BP",
+  "dom": "escherichia",
+  "counts": {
+   "pseudomonas": 1,
+   "escherichia": 5,
+   "klebsiella": 2,
+   "stenotrophomonas": 2
+  },
+  "total": 10
+ },
+ "HS410": {
+  "srr": "SRR26618555",
+  "status": "2BP",
+  "dom": "streptococcus",
+  "counts": {
+   "haemophilus": 18,
+   "staphylococcus": 5,
+   "streptococcus": 26,
+   "klebsiella": 1
+  },
+  "total": 50
+ },
+ "HS231": {
+  "srr": "SRR26629250",
+  "status": "2BP",
+  "dom": "escherichia",
+  "counts": {
+   "escherichia": 4533,
+   "klebsiella": 127,
+   "streptococcus": 84,
+   "staphylococcus": 3,
+   "haemophilus": 1
+  },
+  "total": 4748
+ },
+ "HS507": {
+  "srr": "SRR26618523",
+  "status": "2BP",
+  "dom": "escherichia",
+  "counts": {
+   "staphylococcus": 10,
+   "stenotrophomonas": 8,
+   "escherichia": 17,
+   "acinetobacter": 1,
+   "pseudomonas": 5
+  },
+  "total": 41
+ },
+ "HS114": {
+  "srr": "SRR26629249",
+  "status": "2BP",
+  "dom": "pseudomonas",
+  "counts": {
+   "pseudomonas": 874,
+   "staphylococcus": 10,
+   "escherichia": 3
+  },
+  "total": 887
+ },
+ "HS154": {
+  "srr": "SRR26629348",
+  "status": "2BP",
+  "dom": "klebsiella",
+  "counts": {
+   "klebsiella": 1641,
+   "escherichia": 258,
+   "stenotrophomonas": 4,
+   "pseudomonas": 1
+  },
+  "total": 1904
+ },
+ "HS477": {
+  "srr": "SRR26618532",
+  "status": "No-BP",
+  "dom": "pseudomonas",
+  "counts": {
+   "pseudomonas": 2,
+   "stenotrophomonas": 1,
+   "escherichia": 1,
+   "haemophilus": 1
+  },
+  "total": 5
+ },
+ "HS168": {
+  "srr": "SRR26618511",
+  "status": "No-BP",
+  "dom": "staphylococcus",
+  "counts": {
+   "streptococcus": 133,
+   "escherichia": 23,
+   "staphylococcus": 241,
+   "klebsiella": 2,
+   "stenotrophomonas": 1,
+   "pseudomonas": 5
+  },
+  "total": 405
+ },
+ "HS243": {
+  "srr": "SRR26629284",
+  "status": "No-BP",
+  "dom": "streptococcus",
+  "counts": {
+   "streptococcus": 2,
+   "escherichia": 1
+  },
+  "total": 3
+ },
+ "HS244": {
+  "srr": "SRR26618568",
+  "status": "No-BP",
+  "dom": "escherichia",
+  "counts": {
+   "escherichia": 7,
+   "staphylococcus": 1,
+   "klebsiella": 6,
+   "stenotrophomonas": 6,
+   "pseudomonas": 1
+  },
+  "total": 21
+ },
+ "HS238": {
+  "srr": "SRR26629289",
+  "status": "2BP",
+  "dom": "escherichia",
+  "counts": {
+   "escherichia": 16,
+   "stenotrophomonas": 4,
+   "klebsiella": 4
+  },
+  "total": 24
+ },
+ "HS115": {
+  "srr": "SRR26629416",
+  "status": "No-BP",
+  "dom": "escherichia",
+  "counts": {
+   "escherichia": 31,
+   "klebsiella": 26,
+   "stenotrophomonas": 1,
+   "staphylococcus": 8,
+   "pseudomonas": 1
+  },
+  "total": 67
+ },
+ "HS204": {
+  "srr": "SRR26629262",
+  "status": "2BP",
+  "dom": "staphylococcus",
+  "counts": {
+   "staphylococcus": 3732,
+   "escherichia": 8,
+   "klebsiella": 2,
+   "haemophilus": 2,
+   "stenotrophomonas": 1
+  },
+  "total": 3745
+ },
+ "HS253": {
+  "srr": "SRR26629269",
+  "status": "No-BP",
+  "dom": "klebsiella",
+  "counts": {
+   "klebsiella": 1758,
+   "escherichia": 319,
+   "stenotrophomonas": 1,
+   "pseudomonas": 1
+  },
+  "total": 2079
+ },
+ "HS419": {
+  "srr": "SRR26629361",
+  "status": "2BP",
+  "dom": "haemophilus",
+  "counts": {
+   "haemophilus": 3404,
+   "klebsiella": 6
+  },
+  "total": 3410
+ },
+ "HS471": {
+  "srr": "SRR26618542",
+  "status": "2BP",
+  "dom": "klebsiella",
+  "counts": {
+   "klebsiella": 1046,
+   "escherichia": 178,
+   "haemophilus": 1
+  },
+  "total": 1225
+ },
+ "HS290": {
+  "srr": "SRR26629378",
+  "status": "No-BP",
+  "dom": "staphylococcus",
+  "counts": {
+   "haemophilus": 1031,
+   "staphylococcus": 1135,
+   "klebsiella": 2,
+   "escherichia": 8,
+   "streptococcus": 1
+  },
+  "total": 2177
+ },
+ "HS473": {
+  "srr": "SRR26618541",
+  "status": "2BP",
+  "dom": "klebsiella",
+  "counts": {
+   "klebsiella": 22,
+   "escherichia": 15,
+   "staphylococcus": 8,
+   "streptococcus": 15,
+   "haemophilus": 12,
+   "stenotrophomonas": 3,
+   "acinetobacter": 1
+  },
+  "total": 76
+ },
+ "HS548": {
+  "srr": "SRR26629410",
+  "status": "2BP",
+  "dom": "pseudomonas",
+  "counts": {
+   "pseudomonas": 256
+  },
+  "total": 256
+ },
+ "HS55": {
+  "srr": "SRR26629400",
+  "status": "No-BP",
+  "dom": "staphylococcus",
+  "counts": {
+   "staphylococcus": 287,
+   "escherichia": 9,
+   "streptococcus": 5,
+   "acinetobacter": 1,
+   "klebsiella": 1
+  },
+  "total": 303
+ },
+ "HS51": {
+  "srr": "SRR26629300",
+  "status": "2BP",
+  "dom": "pseudomonas",
+  "counts": {
+   "pseudomonas": 1646,
+   "escherichia": 5,
+   "klebsiella": 1
+  },
+  "total": 1652
+ },
+ "HS545": {
+  "srr": "SRR26618517",
+  "status": "No-BP",
+  "dom": "staphylococcus",
+  "counts": {
+   "staphylococcus": 93,
+   "pseudomonas": 50,
+   "haemophilus": 3,
+   "klebsiella": 6,
+   "escherichia": 8
+  },
+  "total": 160
+ },
+ "HS97": {
+  "srr": "SRR26629352",
+  "status": "No-BP",
+  "dom": "streptococcus",
+  "counts": {
+   "streptococcus": 438,
+   "stenotrophomonas": 5,
+   "klebsiella": 1,
+   "escherichia": 9,
+   "staphylococcus": 8,
+   "acinetobacter": 1,
+   "pseudomonas": 1
+  },
+  "total": 463
+ },
+ "HS158": {
+  "srr": "SRR26629343",
+  "status": "No-BP",
+  "dom": "streptococcus",
+  "counts": {
+   "escherichia": 21,
+   "stenotrophomonas": 8,
+   "staphylococcus": 20,
+   "streptococcus": 28,
+   "haemophilus": 1,
+   "acinetobacter": 5,
+   "pseudomonas": 1
+  },
+  "total": 84
+ },
+ "HS474": {
+  "srr": "SRR26618535",
+  "status": "2BP",
+  "dom": "staphylococcus",
+  "counts": {
+   "klebsiella": 18,
+   "staphylococcus": 38,
+   "haemophilus": 2,
+   "escherichia": 3,
+   "streptococcus": 8,
+   "pseudomonas": 8,
+   "stenotrophomonas": 6,
+   "acinetobacter": 5
+  },
+  "total": 88
+ },
+ "HS156": {
+  "srr": "SRR26618562",
+  "status": "No-BP",
+  "dom": "streptococcus",
+  "counts": {
+   "streptococcus": 246,
+   "staphylococcus": 99,
+   "haemophilus": 77,
+   "escherichia": 16,
+   "klebsiella": 9,
+   "pseudomonas": 2,
+   "stenotrophomonas": 1
+  },
+  "total": 450
+ },
+ "HS172": {
+  "srr": "SRR26629328",
+  "status": "2BP",
+  "dom": "escherichia",
+  "counts": {
+   "escherichia": 2037,
+   "streptococcus": 146,
+   "klebsiella": 183,
+   "staphylococcus": 11,
+   "pseudomonas": 8,
+   "haemophilus": 9,
+   "acinetobacter": 1,
+   "stenotrophomonas": 2
+  },
+  "total": 2397
+ },
+ "HS233": {
+  "srr": "SRR26629243",
+  "status": "2BP",
+  "dom": "escherichia",
+  "counts": {
+   "escherichia": 28,
+   "staphylococcus": 3,
+   "klebsiella": 5,
+   "streptococcus": 2
+  },
+  "total": 38
+ },
+ "HS320": {
+  "srr": "SRR26629369",
+  "status": "No-BP",
+  "dom": "staphylococcus",
+  "counts": {
+   "staphylococcus": 961,
+   "escherichia": 57,
+   "stenotrophomonas": 2,
+   "pseudomonas": 4,
+   "streptococcus": 17,
+   "klebsiella": 12,
+   "haemophilus": 1
+  },
+  "total": 1054
+ },
+ "HS47": {
+  "srr": "SRR26629323",
+  "status": "2BP",
+  "dom": "escherichia",
+  "counts": {
+   "streptococcus": 3,
+   "escherichia": 12
+  },
+  "total": 15
+ },
+ "HS185": {
+  "srr": "SRR26629326",
+  "status": "No-BP",
+  "dom": "escherichia",
+  "counts": {
+   "escherichia": 455,
+   "klebsiella": 23,
+   "stenotrophomonas": 17,
+   "pseudomonas": 1,
+   "haemophilus": 2,
+   "streptococcus": 1
+  },
+  "total": 499
+ },
+ "HS2": {
+  "srr": "SRR26618581",
+  "status": "No-BP",
+  "dom": "escherichia",
+  "counts": {
+   "streptococcus": 22,
+   "escherichia": 25,
+   "klebsiella": 7,
+   "staphylococcus": 4
+  },
+  "total": 58
+ },
+ "HS94": {
+  "srr": "SRR26629390",
+  "status": "No-BP",
+  "dom": "klebsiella",
+  "counts": {
+   "klebsiella": 2544,
+   "escherichia": 284,
+   "acinetobacter": 1,
+   "pseudomonas": 4
+  },
+  "total": 2833
+ },
+ "HS1": {
+  "srr": "SRR26618585",
+  "status": "No-BP",
+  "dom": "staphylococcus",
+  "counts": {
+   "escherichia": 156,
+   "staphylococcus": 164,
+   "klebsiella": 33,
+   "stenotrophomonas": 3,
+   "acinetobacter": 1
+  },
+  "total": 357
+ },
+ "HS271": {
+  "srr": "SRR26618559",
+  "status": "No-BP",
+  "dom": "staphylococcus",
+  "counts": {
+   "staphylococcus": 2529,
+   "klebsiella": 10,
+   "escherichia": 15,
+   "stenotrophomonas": 3
+  },
+  "total": 2557
+ },
+ "HS223": {
+  "srr": "SRR26629256",
+  "status": "No-BP",
+  "dom": "escherichia",
+  "counts": {
+   "streptococcus": 56,
+   "escherichia": 168,
+   "acinetobacter": 3,
+   "klebsiella": 21,
+   "stenotrophomonas": 11,
+   "pseudomonas": 2,
+   "staphylococcus": 6,
+   "haemophilus": 1
+  },
+  "total": 268
+ },
+ "HS78": {
+  "srr": "SRR26629392",
+  "status": "No-BP",
+  "dom": "escherichia",
+  "counts": {
+   "staphylococcus": 37,
+   "escherichia": 525,
+   "streptococcus": 62,
+   "klebsiella": 74,
+   "stenotrophomonas": 17,
+   "haemophilus": 3,
+   "pseudomonas": 3,
+   "acinetobacter": 3
+  },
+  "total": 724
+ },
+ "HS72": {
+  "srr": "SRR26629396",
+  "status": "No-BP",
+  "dom": "escherichia",
+  "counts": {
+   "escherichia": 397,
+   "streptococcus": 6,
+   "klebsiella": 73,
+   "staphylococcus": 51,
+   "pseudomonas": 2,
+   "acinetobacter": 3,
+   "stenotrophomonas": 2
+  },
+  "total": 534
+ }
+}

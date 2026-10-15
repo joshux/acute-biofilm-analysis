@@ -1,0 +1,109 @@
+{
+ "2000000": {
+  "target_reads": 84060,
+  "rrna": 27040,
+  "coding": 57020,
+  "rp": 4546,
+  "decoy": 359,
+  "pctRP": 7.97,
+  "matrix_systems": {
+   "alginate": 799,
+   "pel": 4,
+   "psl": 9
+  },
+  "requested": 2000000
+ },
+ "1000000": {
+  "target_reads": 84060,
+  "rrna": 27040,
+  "coding": 57020,
+  "rp": 4546,
+  "decoy": 359,
+  "pctRP": 7.97,
+  "matrix_systems": {
+   "alginate": 799,
+   "pel": 4,
+   "psl": 9
+  },
+  "requested": 1000000
+ },
+ "500000": {
+  "target_reads": 84060,
+  "rrna": 27040,
+  "coding": 57020,
+  "rp": 4546,
+  "decoy": 359,
+  "pctRP": 7.97,
+  "matrix_systems": {
+   "alginate": 799,
+   "pel": 4,
+   "psl": 9
+  },
+  "requested": 500000
+ },
+ "250000": {
+  "target_reads": 42336,
+  "rrna": 13728,
+  "coding": 28608,
+  "rp": 2298,
+  "decoy": 181,
+  "pctRP": 8.03,
+  "matrix_systems": {
+   "alginate": 423,
+   "pel": 4,
+   "psl": 3
+  },
+  "requested": 250000
+ },
+ "100000": {
+  "target_reads": 17124,
+  "rrna": 5647,
+  "coding": 11477,
+  "rp": 893,
+  "decoy": 87,
+  "pctRP": 7.78,
+  "matrix_systems": {
+   "alginate": 183,
+   "pel": 2,
+   "psl": 1
+  },
+  "requested": 100000
+ },
+ "50000": {
+  "target_reads": 8564,
+  "rrna": 2845,
+  "coding": 5719,
+  "rp": 470,
+  "decoy": 49,
+  "pctRP": 8.22,
+  "matrix_systems": {
+   "alginate": 87,
+   "pel": 1
+  },
+  "requested": 50000
+ },
+ "20000": {
+  "target_reads": 3447,
+  "rrna": 1137,
+  "coding": 2310,
+  "rp": 178,
+  "decoy": 18,
+  "pctRP": 7.71,
+  "matrix_systems": {
+   "alginate": 37
+  },
+  "requested": 20000
+ },
+ "10000": {
+  "target_reads": 1698,
+  "rrna": 565,
+  "coding": 1133,
+  "rp": 98,
+  "decoy": 10,
+  "pctRP": 8.65,
+  "matrix_systems": {
+   "alginate": 20
+  },
+  "requested": 10000
+ }
+}

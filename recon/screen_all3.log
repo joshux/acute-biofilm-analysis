@@ -1,0 +1,15 @@
+[30/254] SRR26629358 HS427 2BP total=310 top=[('klebsiella', 173), ('staphylococcus', 98), ('escherichia', 31)]
+[31/254] SRR26629374 HS292 2BP total=29 top=[('escherichia', 10), ('haemophilus', 5), ('stenotrophomonas', 4)]
+[32/254] SRR26629354 HS469 No-BP total=10 top=[('escherichia', 5), ('klebsiella', 2), ('stenotrophomonas', 2)]
+[33/254] SRR26629273 HS250 2BP total=993 top=[('pseudomonas', 984), ('klebsiella', 7), ('escherichia', 1)]
+[34/254] SRR26618555 HS410 2BP total=50 top=[('streptococcus', 26), ('haemophilus', 18), ('staphylococcus', 5)]
+[35/254] SRR26629250 HS231 2BP total=4748 top=[('escherichia', 4533), ('klebsiella', 127), ('streptococcus', 84)]
+[36/254] SRR26629251 HS231 2BP total=3 top=[('klebsiella', 2), ('escherichia', 1)]
+[37/254] SRR26618523 HS507 2BP total=41 top=[('escherichia', 17), ('staphylococcus', 10), ('stenotrophomonas', 8)]
+[38/254] SRR26629249 HS114 2BP total=887 top=[('pseudomonas', 874), ('staphylococcus', 10), ('escherichia', 3)]
+[39/254] SRR26629348 HS154 2BP total=1904 top=[('klebsiella', 1641), ('escherichia', 258), ('stenotrophomonas', 4)]
+[40/254] SRR26629364 HS410 2BP total=11227 top=[('staphylococcus', 11218), ('haemophilus', 4), ('escherichia', 3)]
+Traceback (most recent call last):
+  File "/agent/workspace/abf/screen_all3.py", line 59, in <module>
+    os.remove(fq)
+FileNotFoundError: [Errno 2] No such file or directory: 'screenfq/SRR26618530.fq'

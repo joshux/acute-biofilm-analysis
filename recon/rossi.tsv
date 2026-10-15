@@ -1,0 +1,44 @@
+run_accession	read_count	library_strategy	fastq_ftp	sample_title
+ERR2275070	969579	WGS	ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/000/ERR2275070/ERR2275070_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/000/ERR2275070/ERR2275070_2.fastq.gz	PA-P30M0 clinical isolate, whole genome sequencing, DK01 clone type
+ERR2275085	12246111	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/005/ERR2275085/ERR2275085_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/005/ERR2275085/ERR2275085_2.fastq.gz	PA14_STAT_R1
+ERR2275086	11817222	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/006/ERR2275086/ERR2275086_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/006/ERR2275086/ERR2275086_2.fastq.gz	PA14_STAT_R2
+ERR2275095	3241785	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/005/ERR2275095/ERR2275095.fastq.gz	P30M0_INVIVO_S4T1
+ERR2275098	1560508	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/008/ERR2275098/ERR2275098.fastq.gz	P73F1_INVIVO_S1T2
+ERR2275099	546962	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/009/ERR2275099/ERR2275099.fastq.gz	P77F1_INVIVO_S3
+ERR2275101	982681	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/001/ERR2275101/ERR2275101.fastq.gz	P77F1_INVIVO_S2
+ERR2591780	25941143	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/000/ERR2591780/ERR2591780_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/000/ERR2591780/ERR2591780_2.fastq.gz	P73F1_24H_rep2
+ERR2591782	33390696	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/002/ERR2591782/ERR2591782_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/002/ERR2591782/ERR2591782_2.fastq.gz	P73F1_3H_rep2
+ERR2275074	1031787	WGS	ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/004/ERR2275074/ERR2275074_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/004/ERR2275074/ERR2275074_2.fastq.gz	P73F1 clinical isolate, whole genome sequencing, DK02 clone type
+ERR2275075	14348789	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/005/ERR2275075/ERR2275075_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/005/ERR2275075/ERR2275075_2.fastq.gz	PA-P30M0_EXP_R1
+ERR2275091	9751989	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/001/ERR2275091/ERR2275091.fastq.gz	P30M0_INVIVO_S2
+ERR2275092	893569	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/002/ERR2275092/ERR2275092.fastq.gz	P30M0_INVIVO_S1
+ERR2275097	1169239	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/007/ERR2275097/ERR2275097.fastq.gz	P73F1_INVIVO_S1T1
+ERR2591776	22067139	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/006/ERR2591776/ERR2591776_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/006/ERR2591776/ERR2591776_2.fastq.gz	P24M1B_24H_rep2
+ERR2275071	1002292	WGS	ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/001/ERR2275071/ERR2275071_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/001/ERR2275071/ERR2275071_2.fastq.gz	P77F1 clinical isolate, whole genome sequencing, DK01 clone type
+ERR2275076	16143441	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/006/ERR2275076/ERR2275076_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/006/ERR2275076/ERR2275076_2.fastq.gz	PA-P30M0_EXP_R2
+ERR2275081	15569687	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/001/ERR2275081/ERR2275081_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/001/ERR2275081/ERR2275081_2.fastq.gz	PA14_EXP_R1
+ERR2275096	4490615	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/006/ERR2275096/ERR2275096.fastq.gz	P30M0_INVIVO_S4T2
+ERR2275100	1211079	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/000/ERR2275100/ERR2275100.fastq.gz	P77F1_INVIVO_S1
+ERR2591773	29328809	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/003/ERR2591773/ERR2591773_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/003/ERR2591773/ERR2591773_2.fastq.gz	P24M1A_3H_rep1
+ERR2591786	33323955	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/006/ERR2591786/ERR2591786_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/006/ERR2591786/ERR2591786_2.fastq.gz	P77F1_3H_rep2
+ERR2275072	581606	WGS	ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/002/ERR2275072/ERR2275072_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/002/ERR2275072/ERR2275072_2.fastq.gz	P24M1 clinical isolate, whole genome sequencing, DK02 clone type
+ERR2275073	1042453	WGS	ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/003/ERR2275073/ERR2275073_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/003/ERR2275073/ERR2275073_2.fastq.gz	P24M1 clinical isolate, whole genome sequencing, UNK clone type
+ERR2275079	17458620	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/009/ERR2275079/ERR2275079_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/009/ERR2275079/ERR2275079_2.fastq.gz	PA-P30M0_STAT_R1
+ERR2275080	9738101	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/000/ERR2275080/ERR2275080_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/000/ERR2275080/ERR2275080_2.fastq.gz	PA-P30M0_STAT_R2
+ERR2275087	2761650	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/007/ERR2275087/ERR2275087.fastq.gz	P11F2_INVIVO_S1
+ERR2275090	4853442	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/000/ERR2275090/ERR2275090.fastq.gz	P24M1_INVIVO_S2
+ERR2591772	28950699	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/002/ERR2591772/ERR2591772_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/002/ERR2591772/ERR2591772_2.fastq.gz	P24M1A_24H_rep1
+ERR2591779	33767454	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/009/ERR2591779/ERR2591779_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/009/ERR2591779/ERR2591779_2.fastq.gz	P73F1_24H_rep1
+ERR2591784	24263287	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/004/ERR2591784/ERR2591784_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/004/ERR2591784/ERR2591784_2.fastq.gz	P77F1_24H_rep2
+ERR2275082	13148378	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/002/ERR2275082/ERR2275082_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/002/ERR2275082/ERR2275082_2.fastq.gz	PA14_EXP_R2
+ERR2275088	367308	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/008/ERR2275088/ERR2275088.fastq.gz	P24M1_INVIVO_S3
+ERR2275089	884989	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/009/ERR2275089/ERR2275089.fastq.gz	P24M1_INVIVO_S1
+ERR2275093	2041465	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/003/ERR2275093/ERR2275093.fastq.gz	P30M0_INVIVO_S3T1
+ERR2275094	1350735	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR227/004/ERR2275094/ERR2275094.fastq.gz	P30M0_INVIVO_S3T2
+ERR2591774	34730925	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/004/ERR2591774/ERR2591774_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/004/ERR2591774/ERR2591774_2.fastq.gz	P24M1A_3H_rep2
+ERR2591775	25460339	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/005/ERR2591775/ERR2591775_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/005/ERR2591775/ERR2591775_2.fastq.gz	P24M1B_24H_rep1
+ERR2591777	26775464	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/007/ERR2591777/ERR2591777_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/007/ERR2591777/ERR2591777_2.fastq.gz	P24M1B_3H_rep1
+ERR2591778	25788062	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/008/ERR2591778/ERR2591778_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/008/ERR2591778/ERR2591778_2.fastq.gz	P24M1B_3H_rep2
+ERR2591781	52292334	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/001/ERR2591781/ERR2591781_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/001/ERR2591781/ERR2591781_2.fastq.gz	P73F1_3H_rep1
+ERR2591783	25031605	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/003/ERR2591783/ERR2591783_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/003/ERR2591783/ERR2591783_2.fastq.gz	P77F1_24H_rep1
+ERR2591785	40698169	RNA-Seq	ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/005/ERR2591785/ERR2591785_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR259/005/ERR2591785/ERR2591785_2.fastq.gz	P77F1_3H_rep1

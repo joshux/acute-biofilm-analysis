@@ -1,0 +1,3 @@
+{"srr": "SRR26629284", "dominant": "staphylococcus", "org": "staph", "target_reads": 166, "rrna": 164, "coding": 2, "rp": 0, "decoy": 21491, "pctRP": 0.0, "matrix_systems": {}, "systems_on": [], "eps_on": [], "prot_on": [], "matrix_on": false, "matrix_on_eps": false}
+[1/10] SRR26629284 OK 289s
+{"srr": "SRR26629286", "dominant": "escherichia", "org": "ecoli", "target_reads": 57682, "rrna": 35790, "coding": 21892, "rp": 3801, "decoy": 25502, "pctRP": 17.36, "matrix_systems": {"fim": 4, "csg": 8, "bcs": 26, "ecp": 5}, "systems_on": ["bcs", "csg", "ecp", "fim"], "eps_on": ["bcs"], "prot_on": ["csg", "ecp", "fim"], "matrix_on": true, "matrix_on_eps": false}
