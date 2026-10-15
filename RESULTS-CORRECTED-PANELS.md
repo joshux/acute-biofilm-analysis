@@ -153,6 +153,38 @@ HS253 is the clearest demonstration of the fix: a no-BP patient scoring matrix-O
 **six** systems, where the committed mrk-only panel would have returned matrix-OFF by
 construction.
 
+## Arm statistics on the corrected screen
+
+Best matrix-capable run per patient (not merely the deepest):
+
+| threshold (matrix-capable reads) | 2BP | No-BP | Fisher p |
+|---|---|---|---|
+| ≥50 | 25/27 | 28/29 | 1.000 |
+| ≥100 | 25/27 | 24/29 | 1.000 |
+| ≥300 | 23/27 | 17/29 | 1.000 |
+| ≥1000 | 19/27 | 9/29 | 0.118 |
+
+Depth balance at that run: **2BP median 2,503 panel reads vs No-BP 683** — the 2BP arm
+is the deeper one, the opposite of the committed framing in which no-BP was the
+depth-starved arm. The ≥1000 threshold shows a non-significant trend toward
+matrix-capable enrichment in 2BP (p = 0.118), direction consistent with the committed
+claim but not significant.
+
+## Effect of the class-stratified rule (Item 3 applied)
+
+Applying the recommended capsule-excluded EPS-only rule to the quantified samples
+flips two of them:
+
+| patient | arm | systems ON | pooled | EPS-only |
+|---|---|---|---|---|
+| HS410 | 2BP | fnb, ica | ON | ON (ica only = 1) → **OFF** |
+| HS271 | No-BP | fnb, ica | ON | **OFF** |
+| HS253 | No-BP | bcs, capsule, cps, fim, mrk, pga | ON | ON (bcs, cps, pga) |
+
+So the pooled rule and the class-stratified rule give different arm tallies on real
+data — which is exactly why the paper must pre-specify one and report the other as a
+sensitivity analysis rather than choosing after the fact.
+
 ## Reproduce
 
 ```

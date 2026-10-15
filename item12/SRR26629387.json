@@ -1,0 +1,48 @@
+{
+ "srr": "SRR26629387",
+ "dominant": "klebsiella",
+ "org": "kleb",
+ "genus_counts": {
+  "klebsiella": 14939,
+  "staphylococcus": 18,
+  "streptococcus": 858,
+  "haemophilus": 180,
+  "escherichia": 80,
+  "stenotrophomonas": 4,
+  "pseudomonas": 3
+ },
+ "target_reads": 14896,
+ "rrna": 1018,
+ "coding": 13878,
+ "rp": 767,
+ "decoy": 5445,
+ "pctRP": 5.53,
+ "matrix_systems": {
+  "bcs": 83,
+  "capsule": 14,
+  "pga": 6,
+  "mrk": 18,
+  "fim": 20,
+  "cps": 8
+ },
+ "systems_on": [
+  "bcs",
+  "capsule",
+  "cps",
+  "fim",
+  "mrk",
+  "pga"
+ ],
+ "eps_on": [
+  "bcs",
+  "capsule",
+  "cps",
+  "pga"
+ ],
+ "prot_on": [
+  "fim",
+  "mrk"
+ ],
+ "matrix_on": true,
+ "matrix_on_eps": true
+}

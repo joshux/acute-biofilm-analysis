@@ -1,0 +1,35 @@
+{
+ "srr": "SRR26629364",
+ "dominant": "staphylococcus",
+ "org": "staph",
+ "genus_counts": {
+  "staphylococcus": 272846,
+  "streptococcus": 53,
+  "escherichia": 40,
+  "haemophilus": 65,
+  "klebsiella": 8,
+  "acinetobacter": 2
+ },
+ "target_reads": 272719,
+ "rrna": 6929,
+ "coding": 265790,
+ "rp": 28131,
+ "decoy": 263,
+ "pctRP": 10.58,
+ "matrix_systems": {
+  "fnb": 1079,
+  "ica": 13
+ },
+ "systems_on": [
+  "fnb",
+  "ica"
+ ],
+ "eps_on": [
+  "ica"
+ ],
+ "prot_on": [
+  "fnb"
+ ],
+ "matrix_on": true,
+ "matrix_on_eps": false
+}

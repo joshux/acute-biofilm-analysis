@@ -1,0 +1,33 @@
+{
+ "srr": "SRR26629241",
+ "dominant": "pseudomonas",
+ "org": "pseu",
+ "genus_counts": {
+  "pseudomonas": 56106,
+  "klebsiella": 10
+ },
+ "target_reads": 56174,
+ "rrna": 396,
+ "coding": 55778,
+ "rp": 433,
+ "decoy": 170,
+ "pctRP": 0.78,
+ "matrix_systems": {
+  "psl": 106,
+  "alginate": 305,
+  "pel": 123
+ },
+ "systems_on": [
+  "alginate",
+  "pel",
+  "psl"
+ ],
+ "eps_on": [
+  "alginate",
+  "pel",
+  "psl"
+ ],
+ "prot_on": [],
+ "matrix_on": true,
+ "matrix_on_eps": true
+}
