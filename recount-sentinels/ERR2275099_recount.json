@@ -1,0 +1,12 @@
+{
+ "srr": "ERR2275099",
+ "note": "chronic CF sentinel (P77F1 S3), full run, faithful index (PAO1 + 34 non-PA decoys). Published pctRP_coding 16.72 reproduced bit-exactly under the legacy window.",
+ "legacy": {"pctRP_coding": 16.72},
+ "overlap": {"pctRP_coding": 7.62},
+ "delta_pctRP": -9.1,
+ "inflation_factor_rp_reads": 2.17,
+ "window_only_rp_reads": 36447,
+ "spill_top": {"intergenic/no-CDS": 24728, "infC": 6855, "rimM": 1137, "trmD": 711, "truB": 645, "secY": 616, "rpoA": 353, "fusA1": 111},
+ "class_shift": "FAST -> ambig",
+ "distinct_rp_genes": 53
+}
