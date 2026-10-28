@@ -1,0 +1,23 @@
+{
+ "srr": "SRR26629332",
+ "note": "COVID tracheal-aspirate sentinel at 200,000 R1 reads (rpctrl convention). Published pctRP_coding 32.24 reproduced bit-exactly under the legacy window.",
+ "legacy": {
+  "pctRP_coding": 32.24
+ },
+ "overlap": {
+  "pctRP_coding": 29.04
+ },
+ "delta_pctRP": -3.2,
+ "inflation_factor_rp_reads": 1.1,
+ "window_only_rp_reads": 331,
+ "spill_top": {
+  "rpoA": 71,
+  "secY": 48,
+  "intergenic/no-CDS": 44,
+  "infC": 35,
+  "fusA1": 25,
+  "trmD": 21
+ },
+ "class_shift": "FAST stands",
+ "distinct_rp_genes": 53
+}
