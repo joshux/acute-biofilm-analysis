@@ -1,0 +1,12 @@
+{
+ "srr": "SRR27343249",
+ "note": "acute pneumonia BALF sentinel, full run (2,984,346 reads). Published pctRP_coding 18.63 reproduced bit-exactly under the legacy window.",
+ "legacy": {"pctRP_coding": 18.63},
+ "overlap": {"pctRP_coding": 15.21},
+ "delta_pctRP": -3.43,
+ "inflation_factor_rp_reads": 1.22,
+ "window_only_rp_reads": 2754,
+ "spill_top": {"intergenic/no-CDS": 795, "infC": 564, "rpoA": 412, "secY": 262, "fusA1": 124, "trmD": 107},
+ "class_shift": "FAST stands",
+ "distinct_rp_genes": 53
+}
